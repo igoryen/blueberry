@@ -1,0 +1,33 @@
+1. "many-year event" = mye,  "many-day event" = mde, "one-day event" = ode
+2. // var todaysDates = [];
+3. //  console.log( moment(warEvent.from))
+4. // console.log(" typeof durationInYears: " + typeof durationInYears);
+5. if the many-year event started before today or today i.e. if the -MM-DD of the event's start date are earlier than or the same as those of today's -MM-DD 
+6. create a clone of the event where 
+7. "from" = eventFullStartDate
+8. "till" = year is the year when the event started, the month and day are December 31.
+9. fyc = first year's clone
+10. the middle year, the year that gets incremented with every year when creating a new clone for events that span over more than one year
+11. var _nextYear = "";
+12. var _endDate = eventStartDate;
+13. // console.log( " next "+ eventStartDate.add(1, 'years').format("YYYY")); // 1942, 1943
+14. wec = war event clone
+15. // console.log("followingYear: " + followingYear);
+16. add to the array
+17. lyc = last year's clone
+18.  if the many-year event started after today  i.e. if the -MM-DD of the event's start date are later than those of today's -MM-DD
+19. // console.log("^^^^^^^^^^^^^^^^" + dummyStartDate)
+20. // var dummyEndDate   = moment().year(2000).month(eventEndMonth).day(eventEndDay);
+21. var now = moment();
+22. console.log("durationInYears: " + durationInYears);
+23. console.log("++++++++++++++++++ : " + year);
+24. collect the relevant events (i.e. those that today happen, begin, continue, or end)
+25. display the collected events
+26. If the event has an ending date that is not the same as the starting date, then the event lasts not one day but several days (a many-day event) and may possibly roll over to the New Year's Day into the next year.
+27. Calculate the duration of the event in years, i.e. find out if the event rolls over to the next year.
+28. If it is a many-year event, i.e. if it is found out that the event does roll over at least one year / at least one New Year's Day, 
+29. Create a date that is 
+30. // return wec;
+31. If it is established that the event does not roll over a New Year's day even once, then it's simply a many-day event within the same year
+32. If the event has no ending date, then the date doesn't last more than one day, it begins and ends on the same day, i.e. it is a one-day event
+33. dummyStartDate is a date whose year = the current year and whose month and day are the ones of the event under consideration
