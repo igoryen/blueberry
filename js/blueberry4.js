@@ -12,6 +12,102 @@ Mei.Dates = (function () {
        //      link: "",
        //      result: ""
        //  },
+       //  {
+       //      from: "",
+       //      till: "",
+       //      title: "",
+       //      whathappened: "",
+       //      link: "",
+       //      result: ""
+       //  },
+        {
+            from: "1944-01-22",
+            till: "",
+            title: "",
+            whathappened: "",
+            link: "",
+            result: ""
+        },
+        {
+            from: "1944-01-01",
+            till: "1944-01-31",
+            title: "Январские обстрелы Ленинграда",
+            whathappened: "особенно жестокие",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: "по городу было выпущено 1 482 снаряда"
+        },
+        {
+            from: "1943-09-19",
+            till: "",
+            title: "самая тяжелая бомбардировка Ленинграда",
+            whathappened: "было сброшено 528 фугасных и 2 870 зажигательных бомб.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: ""
+        },
+        {
+            from: "1943-07-31",
+            till: "",
+            title: "Итоговый подсчет обстрелов Ленинграда",
+            whathappened: "За июль 1943 года средняя ежедневная продолжительность обстрелов составила 9 час. 14 мин.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: ""
+        },
+        {
+            from: "1943-08-17",
+            till: "",
+            title: "Самый Долгий артобстрел Ленинграда",
+            whathappened: "за все годы блокады, продолжительностью 13 час. 14 мин. В городе разорвалось более 2000 снарядов.",
+            link: "",
+            result: ""
+        },
+        {
+            from: "1942-09-02",
+            till: "1942-11-30",
+            title: "Бомбардировка Ленинграда",
+            whathappened: "Авианалеты и артобстрелы Ленинграда фашистами",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: "врагом было сделано 272 обстрела общей продолжительностью 430 часов. В этот же период немецкая авиация совершила около 100 налетов."
+        },
+        {
+            from: "1942-08-09",
+            till: "",
+            title: "В Ленинграде играет Шостакович",
+            whathappened: "90 минут по радио звучала «Седьмая Ленинградская симфония» Дмитрия Шостаковича. Это были минуты полного затишья: не стреляла ни одна вражеская батарея, не прорвался к городу ни один немецкий самолет.",
+            link: "",
+            result: ""
+        },
+        {
+            from: "1941-12-26",
+            till: "",
+            title: "Нормы выдачи хлеба в Ленинграде",
+            whathappened: "повышены до 350 граммов рабочим и до 200 граммов остальным жителям города (при этом до 60% хлеба составляли практически несъедобные примеси, добавлявшиеся вместо муки). Все остальные продукты почти перестали выдаваться.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: ""
+        },
+        {
+            from: "1941-11-20",
+            till: "1941-12-25",
+            title: "Нормы выдачи хлеба в Ленинграде",
+            whathappened: "рабочим – 250 граммов, служащим и членам их семей – 125 граммов; личному составу военизированной охраны, пожарных команд, истребительных отрядов, ремесленных училищ и школ ФЗО, находившемуся на котловом довольствии – 300 грамм.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: "Такие нормы привели к резкому скачку смертности от голода – за декабрь 1941 года умерло около 50 тысяч человек."
+        },
+        {
+            from: "1941-10-01",
+            till: "1941-11-13",
+            title: "Нормы выдачи хлеба в Ленинграде",
+            whathappened: "рабочим – 400 граммов; служащим – 200 граммов; иждивенцам и детям – 200 граммов.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: ""
+        },
+        {
+            from: "1941-07-18",
+            till: "1941-09-30",
+            title: "Нормы выдачи хлеба в Ленинграде",
+            whathappened: "Рабочим – 800 граммов; служащим – 600 граммов; иждивенцам и детям – 400 граммов.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: ""
+        },
         {
             from: "1941-07-13",
             till: "",
@@ -1496,7 +1592,7 @@ Mei.Dates = (function () {
     var init = function() {
 
         
-        $("#date").text(moment().format("YYYY MMMM D"));
+        $("#date").text(moment().format("D MMMM"));
 
         $todaysevents = $('#todays-events');
         var todaysDates = [];
@@ -1921,7 +2017,7 @@ Mei.Dates = (function () {
                                //  create element for the event
                                //  console.log('YEAR: ' + aryDateObject.getFullYear());
                             var $pastperiod = $('<div>').attr('class','past-year').text(moment(todaysDates[i].from).format("D MMMM YYYY") +" - "+ moment(todaysDates[i].till).format("D MMMM YYYY"));
-                            var $progress = $('<div>').attr('class','progress').text( "продолжается " + moment().format("DD MMMM") + moment(todaysDates[i].from).format("YYYY")  );
+                            var $progress = $('<div>').attr('class','progress').text( "продолжается сегодня в " + /*moment().format("DD MMMM") +*/ moment(todaysDates[i].from).format("YYYY") + " г." );
                             
                             
                             //  with link
@@ -1961,7 +2057,7 @@ Mei.Dates = (function () {
                             //  create element for the event
                             var $pastperiod = $('<div>').attr('class','past-year').text(moment(todaysDates[i].from).format("D MMMM YYYY") +" - "+ moment(todaysDates[i].till).format("D MMMM YYYY"));
                             //  var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i].title + ": ends");
-                            var $progress = $('<div>').attr('class','progress').text("оканчивается" );
+                            var $progress = $('<div>').attr('class','progress').text("оканчивается сегодня в " + moment(todaysDates[i].till).format("YYYY") + " г.");
                             if(!!todaysDates[i].link) {
                                 var $link = $('<a>').attr("href", todaysDates[i].link).attr("target", "_blank");
                                 $link.text(todaysDates[i].title);
@@ -1994,7 +2090,7 @@ Mei.Dates = (function () {
                             //  create element for the event
                             var $pastperiod = $('<div>').attr('class','past-year').text( from.format("YYYY-MM-DD"));
 
-                            var $progress = $('<div>').attr('class','progress').text(from.format("DD MMMM YYYY") + " начинается" );
+                            var $progress = $('<div>').attr('class','progress').text(" начинается сегодня в " + from.format("YYYY") + " г.");
 
                             //  with link
                             //  console.log("------" + !!todaysDates[i].link)
@@ -2037,7 +2133,7 @@ Mei.Dates = (function () {
                             //  create element for the event
                             //  console.log('YEAR: ' + aryDateObject.getFullYear());
                             var $pastperiod = $('<div>').attr('class','past-year').text(from.format("MMMM D, YYYY"));
-                            var $progress = $('<div>').attr('class','progress').text( "сегодня " + from.format("D MMMM YYYY") );
+                            var $progress = $('<div>').attr('class','progress').text( "сегодня в " + from.format("YYYY") + " г.");
                             
                             
                             //  with link

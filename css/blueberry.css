@@ -2,6 +2,15 @@ body {
     font-family: "Arial", sans-serif;
 }
 /*.new-year {*/
+h2 {
+    background: white;
+    margin-top: -8px;
+    opacity: 0.8;
+    padding: .2em 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
 h3 {
     color: #637189;
     float: left;
@@ -14,7 +23,7 @@ h3 {
     /*background-color: lightyellow;*/
     box-shadow: 0px 3px 5px #333;
     flex-grow: 1;
-    margin: .5em;
+    margin: .4em;
     max-width: 31%;
     min-width: 20%;
     padding: .1em .1em .5em;
@@ -85,6 +94,7 @@ h3 {
     flex-wrap: wrap;
     justify-content: flex-start;
     margin: 1em 0;
+    padding: .3em;
 
     background: #4c5a70;
     background: -moz-linear-gradient(top, #4c5a70 0%, #c8c9cb 91%, #d4d4d4 100%);
@@ -122,7 +132,7 @@ h3 {
     /*display: flex;
     flex-wrap: wrap;*/
     /*background-color: #282c33;*/
-
+    padding: 2em 0px;
 
     background: rgba(51,51,51,1);
     background: -moz-linear-gradient(left, rgba(51,51,51,1) 0%, rgba(11,12,14,1) 0%, rgba(17,19,23,1) 9%, rgba(76,90,112,0.61) 100%);
