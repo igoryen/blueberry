@@ -20,11 +20,259 @@ Mei.Dates = (function () {
        //      link: "",
        //      result: ""
        //  },
+       //  {
+       //      from: "",
+       //      till: "",
+       //      title: "",
+       //      whathappened: "",
+       //      link: "",
+       //      result: ""
+       //  },
+       //  {
+       //      from: "",
+       //      till: "",
+       //      title: "",
+       //      whathappened: "",
+       //      link: "",
+       //      result: ""
+       //  },
+        {
+            from: "1941-09-01",
+            till: "1941-12-31",
+            title: "250 взрывов в день",
+            whathappened: "Фашисты обстреливают Ленинград.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: "свыше 30 тыс снарядов в сентябре-декабре 1941"
+        },
+        {
+            from: "1942-01-01",
+            till: "1942-01-31",
+            title: "19 ниже нуля",
+            whathappened: "средняя температура в Ленинграде",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: "8 дней температура была -30 и ниже."
+        },
+        {
+            from: "1941-12-01",
+            till: "1941-12-31",
+            title: "12-15 ниже нуля",
+            whathappened: "средняя температура в Ленинграде",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: ""
+        },
+        {
+            from: "1942-09-01",
+            till: "1942-09-30",
+            title: "230 в день",
+            whathappened: "... ленинградцев в среднем умирают в день. Примерно 10 человек в час.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: "7 тыс человек умерли в сентябре."
+        },
+        {
+            from: "1942-07-01",
+            till: "1942-07-31",
+            title: "800 в день",
+            whathappened: "... ленинградцев в среднем умирают в день. Примерно 30 человек в час.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: "25 тыс человек умерли в июле."
+        },
+        {
+            from: "1942-05-01",
+            till: "1942-05-31",
+            title: "1660 в день",
+            whathappened: "... ленинградцев в среднем умирают в день. Примерно 70 человек в час.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: "50 тыс человек умерли в мае."
+        },
+        {
+            from: "1942-03-01",
+            till: "1942-03-31",
+            title: "3330 в день",
+            whathappened: "... ленинградцев в среднем умирают в день. Примерно 135 человек в час.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: "100 тыс. человек умерло в первый месяц весны."
+        },
+        {
+            from: "1942-01-01",
+            till: "1942-02-28",
+            title: "4330 в день",
+            whathappened: "... ленинградцев в среднем умирают в день. Примерно 145 человек в час.",
+            link: "http://leningradpobeda.ru/vojjna-jazykom-tsifr/",
+            result: "260 тыс. человек не дожили до весны."
+        },
+        {
+            from: "1944-06-15",
+            till: "",
+            title: "Финны перегруппируются",
+            whathappened: "Маннергейм приказывает перегруппировать войска на Карельский перешеек. Финны едут туда на поезде.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1944_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1944-06-15",
+            till: "",
+            title: "Финны отступают",
+            whathappened: "чтобы не попасть в окружение. Наши овладели высотами у Куутерселькя.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1944_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1943-06-15",
+            till: "",
+            title: "население готовит оборону",
+            whathappened: "В результате в полосе наиболее вероятного наступления противника общая глубина инженерного оборудования местности достигала 300 километров.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1943_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1942-06-15",
+            till: "",
+            title: "Отбивают пехоту и танки",
+            whathappened: "На Харьковском направлении. Уничтожено танков: 180.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1942_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1941-06-15",
+            till: "",
+            title: "Гудериан вылетел в Варшаву",
+            whathappened: "осматривать танки перед наступлением",
+            link: "",
+            result: ""
+        },
+        {
+            from: "1941-06-15",
+            till: "",
+            title: "Скрытное накопление войск",
+            whathappened: "Более половины дивизий, составлявших второй эшелон и резерв западных военных округов, приведены в движение.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1944-06-14",
+            till: "",
+            title: "Наступление на Карельском перешейке",
+            whathappened: "Наши штурмуют финнов.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1944_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1942-06-14",
+            till: "",
+            title: "Немцы остановлены",
+            whathappened: "Маршал Семен Тимошенко остановил гитлеровцев в 35 км от Волчанска (Свердловск. обл.).",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1942_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1941-06-14",
+            till: "",
+            title: "Подготовка Барбароссы",
+            whathappened: "Гитлер слущает доклады о готовящихся действиях в операции \"Барбаросса\". После обеда в речи объясняет почему хочет напасть на Россию. \"Разгромим Россию и Англия прекратит борьбу\"",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1943-06-13",
+            till: "",
+            title: "Наступление на Карельском перешейке",
+            whathappened: "Наша авиация бьет финнов между Финским заливом и Куутерселькя. 23-я армия захватывают опорный пункт финнов на Мустоловских высотах.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1944_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1942-06-13",
+            till: "",
+            title: "Бомбардировка городского парка",
+            whathappened: "Воронежский Парк Пионеров. Массовое гуляние детей. Погибли от 100 до 300 погибших.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1942_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1942-06-13",
+            till: "",
+            title: "Окружение у Волчанска",
+            whathappened: "20 тыс наших попали в плен (Свердловск. обл.).",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1942_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1942-06-13",
+            till: "",
+            title: "падение форта \"Сталин\"",
+            whathappened: "Крым: Фашисты овладели фортом\"Сталин\"",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1942_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1941-06-13",
+            till: "",
+            title: "ТАСС опровергает слухи",
+            whathappened: "ТАСС говорит, что иностранные СМИ муссируют лживые и нелепые слухи, что СССР и Германия готовятся к войне",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1941-06-13",
+            till: "",
+            title: "У нас - 303 дивизии",
+            whathappened: "Николай Ватутин (Заместитель Начальника Генерального штаба Красной Армии) подготовил Справку о развёртывании вооружённых сил СССР на случай войны на западе. В ней говорится, что всего в СССР имеется 303 дивизии, из них для развёртывания на западных границах в составе фронтов — 186 дивизий.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1941-06-13",
+            till: "",
+            title: "Директива",
+            whathappened: "«Для повышения боевой готовности войск округа к 1 июля 1941 г. все глубинные дивизии и управления корпусов с корпусными частями перевести ближе к госгранице в новые лагеря… Передвижения войск сохранить в полной тайне. Марш совершать с тактическими учениями, по ночам.» Семен Тимошенко (Нарком обороны СССР) и Георгий Жуков (начальник Генштаба Красной Армии). Директива Военному совету КОВО.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1944-06-12",
+            till: "",
+            title: "Бои у Ленинграда",
+            whathappened: "к 4 часам утра 109-й стрелковый корпус 21-й армии, наступая вдоль железной дороги на Выборг, выходит к линии Ваммелсуу—Тайпале. 30-й гвардейский стрелковый корпус занимает посёлок Кивеннапа. У побережья Финского залива в бой введён 108-й стрелковый корпус. Корпус пытается с ходу прорвать линию обороны в направлении Куутерселькя (Лебяжье), но успеха не имеет. Советские войска выходят на весь фронт обороны по линии Ваммелсуу—Тайпале, где закрепились отступившие 4-й и 3-й финские армейские корпуса. На центральную часть Карельского перешейка прибывают первые подразделения четвёртой финской дивизии из Восточной Карелии. Маннергейм отдаёт приказ о переброске на Карельский перешеек 17-й дивизии и 20-й бригады.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1944_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1942-06-12",
+            till: "",
+            title: "Наши обороняются и нападают",
+            whathappened: "На Харьковском направлении наши войска ведут оборонительные бои с наступающими танками и пехотой противника и сами наносят контрудары по немецко-фашистским войскам. На Севастопольском участке фронта продолжаются ожесточённые бои… На других участках фронта существенных изменений нет.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1942_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1941-06-12",
+            till: "",
+            title: "Наши начали скрытно готовиться",
+            whathappened: "командование приграничных военных округов под видом учений и изменения дислокации летних лагерей приступило к скрытному развёртыванию войск вторых эшелонов округов в соответствии с планами обороны государственной границы.",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1941-06-12",
+            till: "1941-06-15",
+            title: "Скрытное подтягивание к границе",
+            whathappened: "По предписанию Григория Жуков (начальника Генерального штаба) западные приграничные округа скрытно выводят дивизии, расположенные в глубине, ближе к государственной границе. ",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
+        {
+            from: "1941-06-12",
+            till: "",
+            title: "Запрет полетов у границы",
+            whathappened: "Семён Тимошенко (нарком обороны) приказывает «запретить полёты нашей авиации в приграничной полосе 10 км от госграницы.»",
+            link: "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)",
+            result: ""
+        },
         {
             from: "1944-01-22",
             till: "",
-            title: "",
-            whathappened: "",
+            title: "Последний обстрел",
+            whathappened: "Ленинграда",
             link: "",
             result: ""
         },
@@ -190,10 +438,10 @@ Mei.Dates = (function () {
         },
 
         {
-            from: "1940-12-18",
-            till: "",
+            from: "1941-01-01", //"1940-12-18",
+            till: "1941-06-22",
             title: "директива № 21",
-            whathappened: "Подписана Гитлером. Она получила условное наименование «Вариант Барбаросса» и стала основным руководящим документом в войне против СССР.",
+            whathappened: "Подписана Гитлером. Готовится к исполнению. Условное наименование «Вариант Барбаросса». Основной руководящий документ в войне против СССР.",
             link: "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD_%C2%AB%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%BE%D1%81%D1%81%D0%B0%C2%BB_(%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0)",
             result: ""
         },
@@ -682,7 +930,7 @@ Mei.Dates = (function () {
 
             {
                 from: "1941-09-08", //  till: "1944-01-27",
-                till: "1944-06-27",
+                till: "1944-01-27",
                 title: "Блокада Ленинграда",
                 whathappened: "Germans, Finns, Spaniards are starving Leningraders to death",
                 link: "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA%D0%B0%D0%B4%D0%B0_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D0%B0",
@@ -1172,7 +1420,7 @@ Mei.Dates = (function () {
 
         var retval = 
               "Case " + _case.toString() + ". "
-            + ( add ? "Adding: " : ". Skipping ")            
+            + ( add ? "Adding: " : "Skipping: ")            
             + moment(_event.from).format("MMMM D") 
             + ( moment(_event.till).isValid() ?  " - " + moment(_event.till).format("MMMM D") : "")
             + ": " + _event.title;
@@ -1736,7 +1984,7 @@ Mei.Dates = (function () {
 
                             if( monthTill < thisMonth ) {
                                 // console.log("---------- mde, started before this month on this day, ended before this month");  
-                                if(      dayTill <   thisDay ) { todaysDates.push(allDates[i]); display(11, allDates[i], true); } // 11. April 9 - April 1-8
+                                if(      dayTill <   thisDay ) { /*todaysDates.push(allDates[i]);*/ display(11, allDates[i], false); } // 11. April 9 - April 1-8
                                 else if( dayTill === thisDay ) { todaysDates.push(allDates[i]); display(12, allDates[i], true); } // 12. April 9 - April 9 (Event X)
                                 else if( dayTill >   thisDay ) { /*todaysDates.push(allDates[i]); display(13, allDates[i], true);*/ } // 13. April 9 - April 10-30           
                             }
@@ -2002,7 +2250,7 @@ Mei.Dates = (function () {
                             break; 
                         //--------------------------------------------------------
                                                                      case 6:           case 8:  case 9:           
-                        case 11: case 12: case 13:                   case 16: case 17: case 18: case 19:
+                        /*case 11:*/ case 12: case 13:                   case 16: case 17: case 18: case 19:
                         case 21: case 22: case 23:                   case 26: case 27: case 28: case 29:
                         case 31: case 32: case 33: case 34:          case 36: case 37: case 38: case 39:
 
