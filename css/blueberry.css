@@ -110,9 +110,9 @@ h3 {
 .event-title {
     color: red;
     font-family: Arial Narrow, sans-serif;
-    font-size: 1.2em;
+    font-size: 1em;
     font-weight: bold;
-    margin-bottom: -6px;
+    margin-bottom: -3px;
     opacity: .8;
     text-transform: uppercase;
 }
