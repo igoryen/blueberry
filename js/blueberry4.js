@@ -2479,7 +2479,7 @@ Mei.Dates = (function () {
                                //  create element for the event
                                //  console.log('YEAR: ' + aryDateObject.getFullYear());
                             var $pastperiod = $('<div>').attr('class','past-year').text(moment(todaysDates[i].from).format("D MMMM YYYY") +" - "+ moment(todaysDates[i].till).format("D MMMM YYYY"));
-                            var $progress = $('<div>').attr('class','progress').text( "продолжается сегодня в " + /*moment().format("DD MMMM") +*/ moment(todaysDates[i].from).format("YYYY") + " г." );
+                            var $progress = $('<div>').attr('class','progress').text( "продолжается"/* + " сегодня в " + moment().format("DD MMMM") + moment(todaysDates[i].from).format("YYYY") + " г."*/ );
                             
                             
                             //  with link
@@ -2519,7 +2519,7 @@ Mei.Dates = (function () {
                             //  create element for the event
                             var $pastperiod = $('<div>').attr('class','past-year').text(moment(todaysDates[i].from).format("D MMMM YYYY") +" - "+ moment(todaysDates[i].till).format("D MMMM YYYY"));
                             //  var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i].title + ": ends");
-                            var $progress = $('<div>').attr('class','progress').text("оканчивается сегодня в " + moment(todaysDates[i].till).format("YYYY") + " г.");
+                            var $progress = $('<div>').attr('class','progress').text("оканчивается" /*+ " сегодня в " + moment(todaysDates[i].till).format("YYYY") + " г." */);
                             if(!!todaysDates[i].link[lang]) {
                                 var $link = $('<a>').attr("href", todaysDates[i].link[lang]).attr("target", "_blank");
                                 $link.text(todaysDates[i].title[lang]);
@@ -2552,7 +2552,7 @@ Mei.Dates = (function () {
                             //  create element for the event
                             var $pastperiod = $('<div>').attr('class','past-year').text( from.format("YYYY-MM-DD"));
 
-                            var $progress = $('<div>').attr('class','progress').text(" начинается сегодня в " + from.format("YYYY") + " г.");
+                            var $progress = $('<div>').attr('class','progress').text(" начинается" /* + "сегодня в " + from.format("YYYY") + " г." */);
 
                             //  with link
                             //  console.log("------" + !!todaysDates[i].link)
@@ -2617,7 +2617,11 @@ Mei.Dates = (function () {
                             }
 
                             var $eventonthisdate = $('<div>').attr('class','whathappened').text(todaysDates[i].desc[lang]);
-                            $datecontainer.append( $eventtitle, $progress, /*$pastperiod,*/    $eventonthisdate);
+                            $datecontainer.append( $eventtitle );
+                            // $datecontainer.append( $progress );
+                            // $datecontainer.append( $pastperiod );
+                            $datecontainer.append( $eventonthisdate );
+
                             $todaysevents.append($datecontainer);
                             break;
                     }
