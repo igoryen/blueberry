@@ -110,7 +110,7 @@ h3 {
 .event-title {
     color: red;
     font-family: Arial Narrow, sans-serif;
-    font-size: 1em;
+    font-size: 16px;
     font-weight: bold;
     margin-bottom: -3px;
     opacity: .8;
@@ -126,7 +126,7 @@ h3 {
     text-align: right;
 }
 .whathappened {
-    font-size: 12px;
+    font-size: 14px;
 }
 #todays-events {
     /*display: flex;
