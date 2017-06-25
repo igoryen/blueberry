@@ -117,7 +117,7 @@ Mei.Dates = (function () {
             "result": ""
         },
         {
-            "from": "",
+            "from": "1942-06-19",
             "till": "",
             "title": "Yanks and Brits to fight Hitler",
             "desc": "Washington. Decide to send airborne troops to North Africa. Won't open the 2nd Front this year.",
@@ -879,16 +879,16 @@ Mei.Dates = (function () {
         {
             "from": "1941-06-25",
             "till": "",
-            "title": "",
-            "desc": "Утром по приказу Ставки, ВВС Северного фронта совместно с авиацией Балтийского флота нанесли массированный удар по девятнадцати (по другим данным — 18) аэродромам Финляндии и Северной Норвегии",
+            "title": "Morning strike at FIN & NOR airfields",
+            "desc": "Our airforce (Northern Fleet and Baltic fleet) deal a massive strike at FIN and NOR airfields, the base of FIN AF and DEU 5th Air Army. FIN parliament votes for a war against us.",
             "link": "",
-            "result": "Там базировались самолёты ВВС Финляндии и германской 5-й воздушной армии. В тот же день парламент Финляндии проголосовал за войну с СССР."
+            "result": ""
         },
         {
             "from": "1941-06-21",
             "till": "",
-            "title": "Финны нападают на СССР",
-            "desc": "Финляндия начинает проводить военные операции против СССР",
+            "title": "FIN attacks USSR",
+            "desc": "FIN begins military operations against USSR",
             "link": "",
             "result": ""
         },
@@ -919,7 +919,7 @@ Mei.Dates = (function () {
         {
             "from": "1941-06-22",
             "till": "1941-09-30",
-            "title": "Операция «Барбаросса»",
+            "title": "Operation Barbarossa",
             "desc": "План нападения на СССР. Рассчитан на молниеносную войну",
             "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%C2%AB%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%BE%D1%81%D1%81%D0%B0%C2%BB",
             "result": "оперативный — поражение советских войск в приграничных сражениях и отступление вглубь страны при относительно малых потерях вермахта и союзников Германии; стратегический итог — провал стратегии блицкрига, рассчитанной на разгром СССР в ходе кампании 1941 года."
@@ -2590,7 +2590,7 @@ Mei.Dates = (function () {
                                //  create element for the event
                                //  console.log('YEAR: ' + aryDateObject.getFullYear());
                             var $pastperiod = $('<div>').attr('class','past-year').text(moment(todaysDates[i]["from"]).format("D MMMM YYYY") +" - "+ moment(todaysDates[i]["till"]).format("D MMMM YYYY"));
-                            var $progress = $('<div>').attr('class','progress').text( "продолжается"/* + " сегодня в " + moment().format("DD MMMM") + moment(todaysDates[i]["from"]).format("YYYY") + " г."*/ );
+                            var $progress = $('<div>').attr('class','progress').text( "continues"/* + " сегодня в " + moment().format("DD MMMM") + moment(todaysDates[i]["from"]).format("YYYY") + " г."*/ );
                             
                             
                             //  with link
@@ -2605,16 +2605,31 @@ Mei.Dates = (function () {
                                 var $link = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
                                 $link.text(todaysDates[i]["title"]);
                                 var $eventtitle = $('<div>').attr('class','event-title').append($link);
+
+                                //======================================
+                                //======================================
+
+
+
                             }
                             else {
                                 //  with no link
                                 var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i]["title"]);
+
+                                //======================================
+                                //======================================
                             }
 
+                            var $lnk = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
+                            $lnk.text("Read more...");
+
                             var $eventonthisdate = $('<div>').attr('class','whathappened').text(todaysDates[i]["desc"]);
+                            $eventonthisdate.append($('<hr>')).append($lnk);
+
+                            $datecontainer.append($progress);
                             $datecontainer.append( $eventtitle);
-                            // $datecontainer.append($progress);
-                            // $datecontainer.append($pastperiod);
+                            
+                            $datecontainer.append($pastperiod);
                             $datecontainer.append($eventonthisdate);
                             $todaysevents.append($datecontainer);
                             break;
@@ -2643,18 +2658,27 @@ Mei.Dates = (function () {
                                 //  with no link
                                 var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i]["title"]);
                             }
-                            var $eventonthisdate = $('<div>').attr('class','whathappened').text(todaysDates[i]["desc"]);
+
+                            
 
                             $datecontainer.append($eventtitle);
                             $datecontainer.append($progress);
-                            // $datecontainer.append($pastperiod);
+                            $datecontainer.append($pastperiod);
                                                 
                             
-                            $datecontainer.append($eventonthisdate);
+                            
+
+
+                            var $lnk = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
+                            $lnk.text("Read more...");
+                            var $eventonthisdate = $('<div>').attr('class','whathappened').text(todaysDates[i]["desc"]);
+
                             if(!!todaysDates[i]["result"]) {
-                                var $eventresult = $('<div>').attr('class','event-result').text(todaysDates[i]["result"]);
-                                $datecontainer.append($eventresult);
+                                var $eventresult = $('<div>').attr('class','event-result').text("Result: " +todaysDates[i]["result"]);
+                                // $datecontainer.append($eventresult);
+                                $eventonthisdate.append($('<hr>')).append($eventresult).append($('<hr>')).append($lnk);
                             }
+                            $datecontainer.append($eventonthisdate);
 
                             $todaysevents.append($datecontainer);
                             break;
@@ -2666,7 +2690,7 @@ Mei.Dates = (function () {
                             //  create element for the event
                             var $pastperiod = $('<div>').attr('class','past-year').text( from.format("YYYY-MM-DD"));
 
-                            var $progress = $('<div>').attr('class','progress').text(" начинается" /* + "сегодня в " + from.format("YYYY") + " г." */);
+                            var $progress = $('<div>').attr('class','progress').text("the first day of" /* + "сегодня в " + from.format("YYYY") + " г." */);
 
                             //  with link
                             //  console.log("------" + !!todaysDates[i]["link"])
@@ -2680,12 +2704,15 @@ Mei.Dates = (function () {
                                 var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i]["title"]);
                             }
                             
-
+                            var $lnk = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
+                            $lnk.text("Read more...");
                             
                             var $eventonthisdate = $('<div>').attr('class','whathappened').text(todaysDates[i]["desc"]);
-                            $datecontainer.append($eventtitle);
+                            $eventonthisdate.append($('<hr>')).append($lnk);
                             $datecontainer.append($progress);
-                            // $datecontainer.append($pastperiod); 
+                            $datecontainer.append($eventtitle);
+                            
+                            $datecontainer.append($pastperiod); 
                             
                                                
                             
@@ -2709,7 +2736,7 @@ Mei.Dates = (function () {
                             //  create element for the event
                             //  console.log('YEAR: ' + aryDateObject.getFullYear());
                             var $pastperiod = $('<div>').attr('class','past-year').text(from.format("MMMM D, YYYY"));
-                            var $progress = $('<div>').attr('class','progress').text( "сегодня в " + from.format("YYYY") + " г.");
+                            var $progress = $('<div>').attr('class','progress').text( "today " /*+ from.format("YYYY") + " г."*/);
                             
                             
                             //  with link
@@ -2731,9 +2758,11 @@ Mei.Dates = (function () {
                             }
 
                             var $eventonthisdate = $('<div>').attr('class','whathappened').text(todaysDates[i]["desc"]);
+                            
+                            // The order of presentation
+                            $datecontainer.append( $progress );
                             $datecontainer.append( $eventtitle );
-                            // $datecontainer.append( $progress );
-                            // $datecontainer.append( $pastperiod );
+                            $datecontainer.append( $pastperiod );
                             $datecontainer.append( $eventonthisdate );
 
                             $todaysevents.append($datecontainer);
@@ -2744,8 +2773,29 @@ Mei.Dates = (function () {
                 //LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
         }
 
+
+        $( ".event-title" ).on("click", function(){
+            console.log("Hop!");
+            
+
+            // $(this).parents("#todays-events").children().children().children().next(".whathappened").slideUp();
+            $(this).siblings(".whathappened").slideToggle( function() { });
+            return false;
+        });
+
+        $( "#close_all").on("click", function(){
+            $( ".whathappened" ).slideUp();
+        });
+
+        //============== UNFURL ========
+
+
+
+
         
     };
+
+        
 
     return { init: init }
 
@@ -2757,7 +2807,10 @@ window.onload = function () {
     Mei.Dates.init();
     $('h3').each(function(){
         console.log("wrap all works");
-           $(this).nextUntil('h3').wrapAll( "<div class='year-container' />" );
-        });
+        $(this).nextUntil('h3').wrapAll( "<div class='year-container' />" );
+    });
+
+
             
 }
+
