@@ -28,6 +28,62 @@ Mei.Dates = (function () {
         //     "link": "",
         //     "result": ""
         // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        {
+            "from": "1941-06-25",
+            "till": "",
+            "title": "DEU advances, we retreat",
+            "desc": "DEU tanks advance at LVA, we retreat beyond Daugava River (West Dvina)",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-07-17",
+            "till": "",
+            "title": "DEU creates Reichskommissariat Ostland",
+            "desc": "A territory of Nazi DEU in Eastern Europe, consisting of DEU-occupied parts of SU Baltic republics and Western BLR ",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D1%85%D1%81%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B0%D1%82_%D0%9E%D1%81%D1%82%D0%BB%D0%B0%D0%BD%D0%B4",
+            "result": ""
+        },
+        {
+            "from": "1941-09-01",
+            "till": "",
+            "title": "DEU form Generalbezirk Weißruthenien",
+            "desc": "A province in Reichskommissariat Ostland, a territory of Nazi DEU",
+            "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F",
+            "result": ""
+        },
+        {
+            "from": "1941-06-28",
+            "till": "",
+            "title": "DEU takes Minsk (BLR)",
+            "desc": "DEU occupies BLR capital and makes it center of Generalbezirk Weißruthenien.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F",
+            "result": ""
+        },
         {
             "from": "1943-02-27",
             "till": "",
@@ -880,8 +936,8 @@ Mei.Dates = (function () {
             "from": "1941-06-25",
             "till": "",
             "title": "Morning strike at FIN & NOR airfields",
-            "desc": "Our airforce (Northern Fleet and Baltic fleet) deal a massive strike at FIN and NOR airfields, the base of FIN AF and DEU 5th Air Army. FIN parliament votes for a war against us.",
-            "link": "",
+            "desc": "Our airforce (Northern Fleet and Baltic fleet) - 500 planes - deal a massive but ineffective strike at FIN and NOR airfields, the base of FIN AF and DEU 5th Air Army. FIN parliament votes for a war against us.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
             "result": ""
         },
         {
@@ -1093,36 +1149,36 @@ Mei.Dates = (function () {
             "result": ""
         },
         {
-            "from": "1941-06-25",
+            "from": "1941-06-21",
             "till": "",
-            "title": "Южный фронт",
-            "desc": "Южный фронт образован",
-            "link": "",
+            "title": "We created Southern Front",
+            "desc": "Combatant Commander is General Ivan Tyulenev. Aim: a preventive strike against DEU forces near our border.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9_%D1%84%D1%80%D0%BE%D0%BD%D1%82_(%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0)",
             "result": ""
         },
         {
             "from": "1941-06-22",
             "till": "1941-07-06",
-            "title": "Львовско-Черновицкая стратегическая оборонительная операция",
-            "desc": "Юго-Западный фронт",
+            "title": "Lvov-Chernovtsy defensive",
+            "desc": "Our SW Front's Army and Navy are defending Western UKR, MDA and Black Sea.",
             "link": "",
-            "result": ""
+            "result": "We slowed down DEU on route to Kiev and bought time for the main body of our SW Front to retreat and take defense at the old border. Then we carried out mobilization."
+        },
+        {
+            "from": "1941-06-22",   
+            "till": "1941-07-09",
+            "title": "Battle of Białystok–Minsk",
+            "desc": "A near-border battle at the central part of the front. ",
+            "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D1%81%D0%BA%D0%BE-%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+            "result": "DEU surrounded and crushed the main body of our Western front."
         },
         {
             "from": "1941-06-22",
             "till": "1941-07-09",
-            "title": "Белостокско-Минское сражение",
-            "desc": "Западный фронт",
-            "link": "",
-            "result": ""
-        },
-        {
-            "from": "1941-06-22",
-            "till": "1941-07-09",
-            "title": "Прибалтийская стратегическая оборонительная операция",
-            "desc": "Северо-Западный фронт",
-            "link": "",
-            "result": ""
+            "title": "Baltic operation",
+            "desc": "Our Army and Navy are defending LVA, LTU, our North-West regions and the Baltic Sea.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
+            "result": "DEU defeated us."
         },
         {
             "from": "1941-06-29",
@@ -1135,10 +1191,10 @@ Mei.Dates = (function () {
         {
             "from": "1941-06-22",
             "till": "1941-12-02",
-            "title": "Оборона Ханко",
-            "desc": "Северный фронт",
-            "link": "",
-            "result": ""
+            "title": "Hanko defensive",
+            "desc": "We defend our Naval base in the city of Hanko (FIN) against DEU Airforce and Navy",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BD%D0%BA%D0%BE",
+            "result": "Our Naval base is evacuated to Leningrad"
         },
         {
             "from": "1945-05-22",
@@ -2688,7 +2744,7 @@ Mei.Dates = (function () {
                             displayMDE( todaysDates[i], "   begins today");
                             var $datecontainer = $('<div>').attr('class','date').addClass("begins");
                             //  create element for the event
-                            var $pastperiod = $('<div>').attr('class','past-year').text( from.format("YYYY-MM-DD"));
+                            var $pastperiod = $('<div>').attr('class','past-year').text( from.format("DD MMMM YYYY"));
 
                             var $progress = $('<div>').attr('class','progress').text("the first day of" /* + "сегодня в " + from.format("YYYY") + " г." */);
 
