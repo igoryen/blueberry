@@ -2839,7 +2839,7 @@ Mei.Dates = (function () {
             return false;
         });
 
-        $( "#close_all").on("click", function(){
+        $( "body").on("click", function(){
             $( ".whathappened" ).slideUp();
         });
 
