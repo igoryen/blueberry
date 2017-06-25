@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Asap");
 @import url("https://fonts.googleapis.com/css?family=Frijole");
 @import url("https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
 body {
   /*font-family: "Arial", sans-serif;*/
   font-family: 'Asap', sans-serif; }
@@ -175,11 +176,12 @@ h3 {
   /*top: 1.7em;*/
   background-color: #333;
   border: 3px solid gray;
-  top: 100%;
   color: #fff;
   display: none;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px;
   position: absolute;
+  top: 100%;
   width: 90%;
   z-index: 1; }
   .whathappened a {

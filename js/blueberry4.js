@@ -53,6 +53,374 @@ Mei.Dates = (function () {
         //     "result": ""
         // },
         {
+            "from": "",
+            "till": "",
+            "title": "11 cities lost",
+            "desc": "3 in BLR, 5 in LVA, 3 in UKR",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1415-25-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-25",
+            "till": "",
+            "title": "Soviet Information Bureau",
+            "desc": "Soviet Information Bureau makes its first announcement. It will continue daily.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1415-25-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "1941-06-28",
+            "title": "BLR capital shelled",
+            "desc": "Shelling of Minsk, from morning to 9 pm. at intervals of 20-30 min.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0",
+            "result": ""
+        },
+        {
+            "from": "1941-06-24",
+            "till": "",
+            "title": "DEU communists condemn war",
+            "desc": "Central Committe of DEU communists addresses the DEU people and condemns the war",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1414-24-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-24",
+            "till": "",
+            "title": "LTU capital lost",
+            "desc": "Vilnyus defenders attacked and leave the city.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1414-24-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-24",
+            "till": "",
+            "title": "We Move industry away",
+            "desc": "We adopted a bylaw to move industry from 6 cities in the west to the rear.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1414-24-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-23",
+            "till": "",
+            "title": "11 cities lost",
+            "desc": "DEU occupy multiple cities in LVA, LTU, BLR, UKR.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1413-23-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-23",
+            "till": "",
+            "title": "Komsomol to train",
+            "desc": "All Komsomol members must undergo basic combat training.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1413-23-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-23",
+            "till": "",
+            "title": "Our Baltic fleet takes action",
+            "desc": "installing mines and patrolling, to stop DEU entering our waters.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1413-23-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-23",
+            "till": "",
+            "title": "1 BLR city lost",
+            "desc": "After multiple fierce attacks we leave Grodno and retreat 15 km east.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1413-23-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-23",
+            "till": "",
+            "title": "First head-on tank battle",
+            "desc": "BLR, on the line between Kamyenyets - Zhabinka - Velikie Radvanichi",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1413-23-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "Though we die, we won't leave",
+            "desc": "There were five of us. Sedov, Grutov, Bogolyub, Mikhailov, Selivanov. Our first fight was June 22, 1941. Though we die, we won't leave. We'll die but won't leave the Fortress.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "First air ramming",
+            "desc": "D. Kokorev rammed a German fighter plane and survived.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "We bomb ROU naval bases",
+            "desc": "Our Black See AF makes the first raid on Naval Base in Constanța (ROU), also in Sulina.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "GBR is ready to help",
+            "desc": "Prime minister Churchhill says GBR is ready to help us against DEU",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "Communist Internationale help",
+            "desc": "YUG, BGR, FRA, USA, GBR  comunists call on people of their countries to help SU against DEU.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "Mussolini declares war on us",
+            "desc": "He breaks the Pact signed with us in 1933.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "Head of Church calls to defend",
+            "desc": "Metropolitan Sergiy calls on Christians to come to the defense of the Motherland",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "Martial Law declared",
+            "desc": "Martial Law declared in all western regions.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-23",
+            "till": "",
+            "title": "First reservists at reporting centers ",
+            "desc": "",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "Mobilization decree passed",
+            "desc": "Decree passed about mobilization of all reservists and all from 23 to 36 (born 1905-1918)",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "Radio announcement about War",
+            "desc": "Foreign Minister Molotov announces the news of the Treacherous Attack of Germans on the radio. He ended with: \"Our cause is righteous. The enemy will be defeated. The victory will be ours!\"",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-08-20",
+            "till": "",
+            "title": "Brest Fortress finally succumbs",
+            "desc": "After DEU spent 3 day on a clearing operation",
+            "link": "http://www.aif.ru/society/history/ya_umirayu_no_ne_sdayus_kogda_pogib_posledniy_zashchitnik_brestskoy_kreposti",
+            "result": ""
+        },
+        {
+            "from": "1941-08-26",
+            "till": "",
+            "title": "Hitler and Mussolini visit Brest Fortress",
+            "desc": "The last defender is vanquished and it's now safe to host the Fascist leaders.",
+            "link": "http://www.aif.ru/society/history/ya_umirayu_no_ne_sdayus_kogda_pogib_posledniy_zashchitnik_brestskoy_kreposti",
+            "result": ""
+        },
+        {
+            "from": "1941-08-15",
+            "till": "",
+            "title": "Brest Fortress still standing",
+            "desc": "Nazi press publish a photo of soldiers with flamethrowers trying to smoke out Brest Fortress defenders from basements. Half-blind, hungry, thirsty, bleeding,  ",
+            "link": "",
+            "result": ""
+        },
+        {
+            "from": "1941-07-23",
+            "till": "",
+            "title": "Major Gavrilov captured",
+            "desc": "Major Piotr Gavrilov captured after shooting 2 Germans. He was hiding in the basements for 3 weeks making night raids with another soldier until he was killed.",
+            "link": "http://www.aif.ru/society/history/ya_umirayu_no_ne_sdayus_kogda_pogib_posledniy_zashchitnik_brestskoy_kreposti",
+            "result": ""
+        },
+        {
+            "from": "1941-07-21",
+            "till": "",
+            "title": "Belt vs Nazi neck",
+            "desc": "A corporal goes out to get cigarettes. Gets strangled by a belt.",
+            "link": "http://www.aif.ru/society/history/ya_umirayu_no_ne_sdayus_kogda_pogib_posledniy_zashchitnik_brestskoy_kreposti",
+            "result": ""
+        },
+        {
+            "from": "1941-07-12",
+            "till": "",
+            "title": "Kamikaze Soviets",
+            "desc": "A defender with 2 grenades throws himself from tower on a group of bomb-technicians. 4 killed on the spot, 2 die later in the hospital.",
+            "link": "http://www.aif.ru/society/history/ya_umirayu_no_ne_sdayus_kogda_pogib_posledniy_zashchitnik_brestskoy_kreposti",
+            "result": ""
+        },
+        {
+            "from": "1941-08-01",
+            "till": "",
+            "title": "Die-hards in Brest",
+            "desc": "A half-dead defender kills 2 Germans with a knife.",
+            "link": "",
+            "result": ""
+        },
+        {
+            "from": "1941-07-20",
+            "till": "",
+            "title": "Die, no surrender.",
+            "desc": "\"I die but don't surrender. Farewell, Motherland.\" iconic inscription.",
+            "link": "http://www.aif.ru/society/history/ya_umirayu_no_ne_sdayus_kogda_pogib_posledniy_zashchitnik_brestskoy_kreposti",
+            "result": ""
+        },
+        {
+            "from": "1941-06-29",
+            "till": "",
+            "title": "Brest Fortress' Eastern Fort falls",
+            "desc": "after DEU drop a 1800 kg bomb on them. A few make a desperate attempt to break out, but most are killed or captured. ",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "Brest Fortress' Citadel succumbs",
+            "desc": "DEU use explosions, capture the last 450 defenders.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8",
+            "result": ""
+        },
+        {
+            "from": "1941-06-24",
+            "till": "",
+            "title": "Brest Fortress fights back",
+            "desc": "Some defenders fight back, some try to break through but almost all get captured or killed. DEU captures 570 defenders.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8",
+            "result": ""
+        },
+        {
+            "from": "1941-06-23",
+            "till": "",
+            "title": "Brest Fortress fights back",
+            "desc": "remaining defenders join forces and counterattack DEU",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "DEU attack Brest Fortress (BLR)",
+            "desc": "3:15 am: hammering fire. 3:23 am: DEU storming. 7:00 am: 8000 of ours retreat, 5000 stay trapped and fight. 9:00: fortress surrounded. Evening: DEU shelling offering surrender.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "1941-07-20",
+            "title": "Defense of Brest Fortress (BLR)",
+            "desc": "7000 of our troops vs 22000 DEU",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8#cite_note-10",
+            "result": "Our losses: ~2K killed, ~4K captured. DEU losses: ~1.4K killed, ~2.2K wounded. Germans think Kamikaze attacks were motivated by fear of firing squad."
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "Treacherous attack",
+            "desc": "4:00 am. DEU breakes the Non-Aggression Treaty and attacks us. DEU start with air raids and barbaric shelling of numerous cities in LVA, LTU, BLR, UKR, Crimea.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-22",
+            "till": "",
+            "title": "We are at high alert",
+            "desc": "00:30 am. All firing points manned, cities dimmed-out, warplanes camouflaged, ",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1412-22-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-25",
+            "till": "",
+            "title": "We won't let DEU cross river",
+            "desc": "DEU tries to cross river Prut (ROU), we rebuff their attempts",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-25",
+            "till": "",
+            "title": "We retake 1 POL city",
+            "desc": "We make a counterstrike and retake Przemyśl (POL)",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-25",
+            "till": "",
+            "title": "We create Southern Front",
+            "desc": "We create Odessa military region into Southern Front",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-25",
+            "till": "",
+            "title": "We form reserve armies",
+            "desc": "Our High Command creates a a group of 4 reserve armies under Marshal Semyon Budyonny.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-23",
+            "till": "1941-06-25",
+            "title": "Defending 1 UKR city",
+            "desc": "We are fighting DEU in Dubno (UKR) ",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": "DEU takes the city. We retreat."
+        },
+        {
+            "from": "1941-06-25",
+            "till": "",
+            "title": "We fight, retreat, beaten",
+            "desc": "We start defensive action in Minsk fortified area. 2 armies are ordered to retreat. They don't make it through the 60km corridor and are overrun.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "1941-06-30",
+            "title": "Minsk fortified area (#63) fighting",
+            "desc": "Our military base at Minsk fortified area (#63). Poorly equipped. Defended by battalions and 3 divisions",
+            "link": "https://ru.wikipedia.org/wiki/63-%D0%B9_%D1%83%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD",
+            "result": "part was surrounded, part left beyond Berezina River"
+        },
+        {
+            "from": "1941-06-25",
+            "till": "",
+            "title": "DEU tramples BLR",
+            "desc": "DEU advance in BLR: 2 cities taken (Valozhyn & Slonim), 2 cities at threat (Minsk & Baranovichy)",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
             "from": "1941-06-25",
             "till": "",
             "title": "DEU advances, we retreat",
@@ -935,7 +1303,7 @@ Mei.Dates = (function () {
         {
             "from": "1941-06-25",
             "till": "",
-            "title": "Morning strike at FIN & NOR airfields",
+            "title": "We bomb FIN & NOR airfields",
             "desc": "Our airforce (Northern Fleet and Baltic fleet) - 500 planes - deal a massive but ineffective strike at FIN and NOR airfields, the base of FIN AF and DEU 5th Air Army. FIN parliament votes for a war against us.",
             "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
             "result": ""
@@ -2704,7 +3072,7 @@ Mei.Dates = (function () {
                             //  create element for the event
                             var $pastperiod = $('<div>').attr('class','past-year').text(moment(todaysDates[i]["from"]).format("D MMMM YYYY") +" - "+ moment(todaysDates[i]["till"]).format("D MMMM YYYY"));
                             //  var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i]["title"] + ": ends");
-                            var $progress = $('<div>').attr('class','progress').text("оканчивается" /*+ " сегодня в " + moment(todaysDates[i]["till"]).format("YYYY") + " г." */);
+                            var $progress = $('<div>').attr('class','progress').text("the last day of" /*+ " сегодня в " + moment(todaysDates[i]["till"]).format("YYYY") + " г." */);
                             if(!!todaysDates[i]["link"]) {
                                 var $link = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
                                 $link.text(todaysDates[i]["title"]);
@@ -2716,9 +3084,9 @@ Mei.Dates = (function () {
                             }
 
                             
-
-                            $datecontainer.append($eventtitle);
                             $datecontainer.append($progress);
+                            $datecontainer.append($eventtitle);
+                            
                             $datecontainer.append($pastperiod);
                                                 
                             
