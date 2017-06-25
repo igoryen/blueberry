@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Asap");
+@import url("https://fonts.googleapis.com/css?family=Frijole");
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed");
 body {
   /*font-family: "Arial", sans-serif;*/
   font-family: 'Asap', sans-serif; }
@@ -20,6 +22,7 @@ h3 {
   background-color: black;
   padding-left: 1em;
   padding-top: .5em;
+  font-family: 'Frijole', cursive;
   /* turn */
   /*float: left;*/
   /*transform-origin: bottom right;*/
@@ -134,7 +137,8 @@ h3 {
   box-shadow: 1px 1px 1px black;
   color: red;
   cursor: pointer;
-  font-family: Arial Narrow, sans-serif;
+  /*font-family: Arial Narrow, sans-serif;*/
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
   font-size: 16px;
   font-weight: bold;
   opacity: .8;
