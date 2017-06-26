@@ -2998,7 +2998,7 @@ Mei.Dates = (function () {
                             displayMDE( todaysDates[i], "is still in the future");
                             break; 
                         //--------------------------------------------------------
-                                                                     case 6:           case 8:  case 9:           
+                                                                     case 6:  case 7:         case 8:  case 9:           
                         /*case 11:*/ case 12: case 13:                   case 16: case 17: case 18: case 19:
                         case 21: case 22: case 23:                   case 26: case 27: case 28: case 29:
                         case 31: case 32: case 33: case 34:          case 36: case 37: case 38: case 39:
