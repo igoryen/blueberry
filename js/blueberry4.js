@@ -36,24 +36,24 @@ Mei.Dates = (function () {
         //     "link": "",
         //     "result": ""
         // },
-        // {
-        //     "from": "",
-        //     "till": "",
-        //     "title": "",
-        //     "desc": "",
-        //     "link": "",
-        //     "result": ""
-        // },
-        // {
-        //     "from": "",
-        //     "till": "",
-        //     "title": "",
-        //     "desc": "",
-        //     "link": "",
-        //     "result": ""
-        // },
         {
             "from": "",
+            "till": "",
+            "title": "",
+            "desc": "",
+            "link": "",
+            "result": ""
+        },
+        {
+            "from": "1941-07-13",
+            "till": "",
+            "title": "Dmitry Ovcharenko's exploits",
+            "desc": "In UKR, while on an errand, he runs into 50 Germans. Result: 2 officers beheaded with an axe, 21 soldiers killed by 3 grenades, the rest fled in panic.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B2%D1%87%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+            "result": ""
+        },
+        {
+            "from": "1941-06-25",
             "till": "",
             "title": "11 cities lost",
             "desc": "3 in BLR, 5 in LVA, 3 in UKR",
