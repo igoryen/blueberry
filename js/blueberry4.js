@@ -2687,7 +2687,7 @@ Mei.Dates = (function () {
 
 
 
-                    if(dummyStartDate.diff( moment() ) > 0 ) { // 18
+                    // if(dummyStartDate.diff( moment() ) > 0 ) { // 18
                         
                         var wec = JSON.parse(JSON.stringify( allDates[i] )); // 6
                         wec["from"] = moment([eventEndYear, 0, 1]); 
@@ -2698,7 +2698,7 @@ Mei.Dates = (function () {
                             + "..." + moment(wec["till"]).format("YYYY-MM-DD")
                             + " " + wec["title"] );
                         todaysDates.push( wec );
-                    }
+                    // }
 
                 }
                 else {
