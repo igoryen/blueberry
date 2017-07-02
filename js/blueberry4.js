@@ -36,12 +36,300 @@ Mei.Dates = (function () {
         //     "link": "",
         //     "result": ""
         // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
+        // {
+        //     "from": "",
+        //     "till": "",
+        //     "title": "",
+        //     "desc": "",
+        //     "link": "",
+        //     "result": ""
+        // },
         {
-            "from": "",
+            "from": "1941-06-27",
             "till": "",
-            "title": "",
-            "desc": "",
-            "link": "",
+            "title": "We are pursued",
+            "desc": "UKR: DEU launch a counteroffensive and persue us as we are leaving from the Lvov outthrust(?).",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#27_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._6-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-27",
+            "till": "",
+            "title": "we counterattack, thrown back",
+            "desc": "UKR: early morning: we counterattack and break through to Dubno, DEU counterattack and push us back. We lose Ostrog, URK.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#27_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._6-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-27",
+            "till": "",
+            "title": "2 cities lost, we retreat",
+            "desc": "BLR: early morning: Nazi tanks took Smolevichi. Also taking Stowbtsy, DEU tanks in the outskirts of Minsk, BLR. We retreat leaving Białystok, POL.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#27_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._6-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-27",
+            "till": "",
+            "title": "Nazis entrench in LVA",
+            "desc": "Nazis moving toward Daugava, and enlarge their foothold in Daugavpils, LVA. Afternoon: we counterattack.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#27_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._6-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "15 cities lost",
+            "desc": "6 cities in BLR, 7 in LTU, 1 in LVA, 1 in UKR.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "Red October (BLR)",
+            "desc": "Polesia Oblast, BLR. A first partisan detachment.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "Korzh's partisans (BLR)",
+            "desc": "Pinsk oblast. One of the first BLR partisan detachment. Commander Vasily Korzh. ",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-07-10",
+            "till": "",
+            "title": "> 12K BLR militia",
+            "desc": "Mogilev people's volunteer corps is > 12000 men.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "BLR people's militia begin",
+            "desc": "Mogilev, BLR, citizens in arms are organizing. First: 500-strong mopping-up detachment",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "Tank ramming by 3 brothers",
+            "desc": "Village Łapy (POL) 3 brothers Krichevtsov do tank ramming.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "Our marines take river Danube",
+            "desc": "Our Danube flotilla's marines.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "We sink 6 Nazi ships",
+            "desc": "Baltic sea: Irbe Strait. Our torpedo boat counterattack and destroy 2 battleships and 4 storeships.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#27_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._6-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-27",
+            "till": "",
+            "title": "We are neutral! (IRN)",
+            "desc": "Iranian ambassador: Iran will be neutral.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#26_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._5-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "Income support cuts",
+            "desc": "Reduced income support for servicemen's families 100-250 Rub monthly. 50% cut in the country.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "Overtime work mandatory",
+            "desc": "Govt: mandatory overtime work, 1-3 hours a day, 150% pay. Annual holidays to be replaced with money compensation.",
+            "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "We fighting for MDA",
+            "desc": "MDA (Bessarabia). We are holding on to our border fighting off Nazis and Romanians. We counterattack at village of Sculeni, MDA",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#26_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._5-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "We are neutral (TUR)",
+            "desc": "Turkey declare neutrality",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#26_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._5-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "We strike, get hit, retreat",
+            "desc": "UKR. Our 4 mechanized corps counterattack, DEU counterattack in the evening, we leave Lutsk, UKR, DEU drives us, we retreat with lots of casualties. ",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#26_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._5-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "Gastello dies a hero",
+            "desc": "BLR: on the road between Maladzyechna and Radashkovichy our bomber pilot captain Nikolai Gastello (34) is hit, and brings down his burning plane on the Nazi tanks, gas tanks, and vehicles. Also Alexander Maslov.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%BE,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B8%D1%87",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "4 cities lost in BLR",
+            "desc": "DEU tanks took Maladzyechna, Valozhyn, Radashkovichy, Baranovichy, and go toward Barysaw, BLR",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#26_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._5-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "Daugavpils/Dvinsk, LTU, lost",
+            "desc": "DEU tanks take 2 bridges across Daugava near the city of Daugavpils, LTU.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#26_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._5-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
+            "result": ""
+        },
+        {
+            "from": "1941-06-26",
+            "till": "",
+            "title": "Our first strike at enemy land",
+            "desc": "05:00. Our 2 battleships fire at Constanța (ROU) and set their oil-tanks on fire, destroy a train with ammunition.",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#26_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._5-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B",
             "result": ""
         },
         {
@@ -2585,7 +2873,7 @@ Mei.Dates = (function () {
     var thisMonth = now.format("MM");
     var thisDay = now.format("DD");
 
-    var init = function() {
+    var init = function( ) {
 
         var lang = "ru";
         
