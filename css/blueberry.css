@@ -36,125 +36,105 @@ h3 {
 .date {
   /*background-color: lightyellow;*/
   /*padding: .5em 0;*/
-  align-items: center;
-  box-shadow: 0px 3px 5px #333;
-  display: flex;
-  flex-direction: column;
-  flex-grow: 1;
-  margin: .4em;
-  max-width: 31%;
-  min-width: 20%;
+  /*align-items: center;*/
+  /*box-shadow: 0px 3px 5px #333;*/
+  /*display: flex;*/
+  /*flex-direction: row;*/
+  /*flex-grow: 1;*/
+  /*margin: .4em;*/
+  /*max-width: 31%;*/
+  /*min-width: 20%;*/
   padding: .1em .1em .5em;
-  position: relative; }
+  /*position: relative;*/ }
+  .date.begins {
+    color: red !important; }
+  .date.ends {
+    color: green; }
+  .date.today {
+    /*background-color: #ffe6e6;*/
+    color: blue; }
+  .date.continues {
+    color: brown; }
+
+.progress {
+  box-shadow: inset 0px 1px 3px 2px white; }
 
 .begins {
   /*border: 1px solid red;
   box-shadow: 1px 1px 1px pink;*/
-  background: #fdc8bf;
-  /* Old browsers */
-  background: -moz-linear-gradient(top, #fdc8bf 0%, #fbd3cd 65%, #fbd3cd 65%, #fabfb8 87%, #fabfb8 87%, #fcbcb4 88%, #fcbcb4 92%, #fcbcb4 92%, #f8c1bc 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #fdc8bf 0%, #fbd3cd 65%, #fbd3cd 65%, #fabfb8 87%, #fabfb8 87%, #fcbcb4 88%, #fcbcb4 92%, #fcbcb4 92%, #f8c1bc 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #fdc8bf 0%, #fbd3cd 65%, #fbd3cd 65%, #fabfb8 87%, #fabfb8 87%, #fcbcb4 88%, #fcbcb4 92%, #fcbcb4 92%, #f8c1bc 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdc8bf', endColorstr='#f8c1bc',GradientType=0 );
-  /* IE6-9 */ }
+  /*@include today();*/ }
   .begins .progress {
-    background-color: red; }
+    /*background-color: red;*/
+    /*background-color: blue;*/ }
+    .begins .progress img {
+      width: 2em; }
 
 .ends {
   /*border: 1px solid green;
   box-shadow: 1px 1px 1px green;*/
-  background: #e0ecc4;
-  /* Old browsers */
-  background: -moz-linear-gradient(top, #e0ecc4 0%, #bcd5ab 44%, #7fc97b 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #e0ecc4 0%, #bcd5ab 44%, #7fc97b 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #e0ecc4 0%, #bcd5ab 44%, #7fc97b 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0ecc4', endColorstr='#7fc97b',GradientType=0 );
-  /* IE6-9 */ }
+  /*@include ends-bcg();*/ }
   .ends .progress {
-    background-color: green; }
+    /*background-color: green;*/ }
+    .ends .progress img {
+      width: 2em; }
 
 .continues {
   /*border: 1px solid orange;
   box-shadow: 1px 1px 1px orange;*/
-  background: #e7e3cd;
-  /* Old browsers */
-  background: -moz-linear-gradient(top, #e7e3cd 0%, #e0dcc0 40%, #d5d0ad 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #e7e3cd 0%, #e0dcc0 40%, #d5d0ad 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #e7e3cd 0%, #e0dcc0 40%, #d5d0ad 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e3cd', endColorstr='#d5d0ad',GradientType=0 );
-  /* IE6-9 */ }
+  /*@include continues();*/ }
   .continues .progress {
-    background-color: #8e4825; }
+    /*background-color: #8e4825;*/ }
+    .continues .progress img {
+      width: 2em; }
 
 .today {
   /*border: 1px solid blue;*/
   /*box-shadow: 1px 1px 1px blue;*/
-  background: #feffff;
-  /* Old browsers */
-  background: -moz-linear-gradient(top, #feffff 0%, #ddf1f9 35%, #a0d8ef 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #feffff 0%, #ddf1f9 35%, #a0d8ef 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #feffff 0%, #ddf1f9 35%, #a0d8ef 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#a0d8ef',GradientType=0 );
-  /* IE6-9 */ }
+  /*@include today-bkg();*/ }
   .today .progress {
-    background-color: blue; }
+    /*background-color: blue;*/ }
+    .today .progress img {
+      width: 2em; }
 
 .past-year {
-  font-size: 12px; }
+  font-size: 12px;
+  font-weight: bold; }
 
 .year-container {
   /*background: #5b6b87;*/
   /*border-bottom: 1px solid gray;*/
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: flex-start;
   /*margin: 0 0 1em 0;*/
   padding: .3em;
-  background: #4c5a70;
-  background: -moz-linear-gradient(top, black 0%, #c8c9cb 91%, #d4d4d4 100%);
-  background: -webkit-gradient(left top, left bottom, color-stop(0%, #4c5a70), color-stop(91%, #c8c9cb), color-stop(100%, #d4d4d4));
-  background: -webkit-linear-gradient(top, black 0%, #c8c9cb 91%, #d4d4d4 100%);
-  background: -o-linear-gradient(top, black 0%, #c8c9cb 91%, #d4d4d4 100%);
-  background: -ms-linear-gradient(top, black 0%, #c8c9cb 91%, #d4d4d4 100%);
-  background: linear-gradient(to bottom, black 0%, #c8c9cb 91%, #d4d4d4 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c5a70', endColorstr='#d4d4d4', GradientType=0 ); }
+  /*@include year-container-bkg();*/ }
 
 .event-title {
   /*margin-bottom: -3px;*/
-  background-color: white;
-  border: 1px solid black;
-  box-shadow: 1px 1px 1px black;
+  /*background-color: white;*/
+  /*border: 1px solid black;*/
+  /*box-shadow: 1px 1px 1px black;*/
   color: red;
-  cursor: pointer;
+  /*cursor: pointer;*/
   /*font-family: Arial Narrow, sans-serif;*/
   font-family: 'Fira Sans Extra Condensed', sans-serif;
   font-size: 16px;
   font-weight: bold;
   opacity: .8;
-  padding: .1em .4em;
+  padding: 0 .1em;
   /*padding: 1px;*/
-  text-align: center;
+  /*text-align: center;*/
   text-transform: uppercase;
-  background: #ffffff;
+  /*background: #ffffff;
   background: -moz-linear-gradient(top, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
   background: -webkit-gradient(left top, left bottom, color-stop(0%, #ffffff), color-stop(47%, #f6f6f6), color-stop(100%, #ededed));
   background: -webkit-linear-gradient(top, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
   background: -o-linear-gradient(top, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
   background: -ms-linear-gradient(top, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
   background: linear-gradient(to bottom, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=0 ); }
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=0 );*/ }
   .event-title a {
     text-decoration: none; }
 
@@ -174,19 +154,21 @@ h3 {
 
 .whathappened {
   /*top: 1.7em;*/
-  background-color: #333;
-  border: 3px solid gray;
-  color: #fff;
-  display: none;
-  font-family: 'Source Sans Pro', sans-serif;
+  /*background-color: #333;*/
+  /*border: 3px solid gray;*/
+  /*top: 100%;*/
+  /*color: #fff;*/
+  /*color: #333;*/
+  /*display: none;*/
   font-size: 14px;
-  position: absolute;
-  top: 100%;
-  width: 90%;
-  z-index: 1; }
+  /*position: absolute;*/
+  /*width: 90%;*/
+  /*z-index: 1;*/ }
   .whathappened a {
     text-decoration: none;
-    color: white; }
+    /*color: white;*/
+    color: #222;
+    margin-left: 1em; }
 
 #todays-events {
   /*display: flex;
@@ -206,5 +188,276 @@ h3 {
 .past-year,
 .whathappened {
   padding: .1em .3em; }
+
+.coa {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /*border: 1px solid #ccc;*/
+  display: inline-block;
+  height: 2em;
+  margin-right: 2px;
+  width: 2em; }
+
+.belarus {
+  background-image: url(../img/belarus.png); }
+
+.canada {
+  background-image: url(../img/canada.png); }
+
+.china {
+  background-image: url(../img/china.png); }
+
+.iran {
+  background-image: url(../img/iran.png); }
+
+.japan {
+  background-image: url(../img/japan.png); }
+
+.estonia {
+  background-image: url(../img/estonia.png); }
+
+.finland {
+  background-image: url(../img/finland.png); }
+
+.germany {
+  background-image: url(../img/germany.png); }
+
+.russia {
+  background-image: url(../img/russia.png); }
+
+.uk {
+  background-image: url(../img/uk.png); }
+
+.ukraine {
+  background-image: url(../img/ukraine.png); }
+
+.usa {
+  background-image: url(../img/usa.png); }
+
+.l-, .p- {
+  display: none; }
+
+.p-arkhangelsk {
+  background-image: url(../img/p-arkhangelsk.png); }
+
+.p-cherkassy {
+  background-image: url(../img/p-cherkassy.png); }
+
+.p-chernigov {
+  background-image: url(../img/p-chernigov.png); }
+
+.p-crimea {
+  background-image: url(../img/p-crimea.png); }
+
+.p-dnepropetrovsk {
+  background-image: url(../img/p-dnepropetrovsk.png); }
+
+.p-gomel {
+  background-image: url(../img/p-gomel.png); }
+
+.p-herson {
+  background-image: url(../img/p-herson.png); }
+
+.p-karelia {
+  background-image: url(../img/p-karelia.png); }
+
+.p-kiev {
+  background-image: url(../img/p-kiev.png); }
+
+.p-krasnodar {
+  background-image: url(../img/p-krasnodar.png); }
+
+.p-laanemaa {
+  background-image: url(../img/p-laanemaa.png); }
+
+.p-leningrad {
+  background-image: url(../img/p-leningrad.png); }
+
+.p-lvov {
+  background-image: url(../img/p-lvov.png); }
+
+.p-manchuria {
+  background-image: url(../img/p-manchuria.png); }
+
+.p-mogilyov {
+  background-image: url(../img/p-mogilyov.png); }
+
+.p-moscow {
+  background-image: url(../img/p-moscow.png); }
+
+.p-murmansk {
+  background-image: url(../img/p-murmansk.png); }
+
+.p-nikolayev {
+  background-image: url(../img/p-nikolayev.png); }
+
+.p-nl {
+  background-image: url(../img/p-nl.png); }
+
+.p-novgorod {
+  background-image: url(../img/p-novgorod.png); }
+
+.p-novgorod {
+  background-image: url(../img/p-novgorod.png); }
+
+.p-odessa {
+  background-image: url(../img/p-odessa.png); }
+
+.p-orel {
+  background-image: url(../img/p-orel.png); }
+
+.p-poltava {
+  background-image: url(../img/p-poltava.png); }
+
+.p-rostov {
+  background-image: url(../img/p-rostov.png); }
+
+.p-smolensk {
+  background-image: url(../img/p-smolensk.png); }
+
+.p-sumy {
+  background-image: url(../img/p-sumy.png); }
+
+.p-vitebsk {
+  background-image: url(../img/p-vitebsk.png); }
+
+.p-zhitomir {
+  background-image: url(../img/p-zhitomir.png); }
+
+.p-zaporozhye {
+  background-image: url(../img/p-zaporozhye.png); }
+
+.l-arkhangelsk {
+  background-image: url(../img/l-arkhangelsk.png); }
+
+.l-berlin {
+  background-image: url(../img/l-berlin.png); }
+
+.l-chernigov {
+  background-image: url(../img/l-chernigov.png); }
+
+.l-dnepropetrovsk {
+  background-image: url(../img/l-dnepropetrovsk.png); }
+
+.l-gatchina {
+  background-image: url(../img/l-gatchina.png); }
+
+.l-gomel {
+  background-image: url(../img/l-gomel.png); }
+
+.l-herson {
+  background-image: url(../img/l-herson.png); }
+
+.l-kahovka {
+  background-image: url(../img/l-kahovka.png); }
+
+.l-khorol {
+  background-image: url(../img/l-khorol.png); }
+
+.l-kingisepp {
+  background-image: url(../img/l-kingisepp.png); }
+
+.l-kolpino {
+  background-image: url(../img/l-kolpino.png); }
+
+.l-krasnodar {
+  background-image: url(../img/l-krasnodar.png); }
+
+.l-kremenchuk {
+  background-image: url(../img/l-kremenchuk.png); }
+
+.l-krivoy-rog {
+  background-image: url(../img/l-krivoy-rog.png); }
+
+.l-krasnoe_selo {
+  background-image: url(../img/l-krasnoe_selo.jpg); }
+
+.l-leningrad {
+  background-image: url(../img/l-leningrad.png); }
+
+.l-lohvitsa {
+  background-image: url(../img/l-lohvitsa.png); }
+
+.l-lomonosov {
+  background-image: url(../img/l-lomonosov.gif); }
+
+.l-london {
+  background-image: url(../img/l-london.png); }
+
+.l-lvov {
+  background-image: url(../img/l-lvov.jpg); }
+
+.l-mogilyov {
+  background-image: url(../img/l-mogilyov.png); }
+
+.l-moscow {
+  background-image: url(../img/l-moscow.png); }
+
+.l-murmansk {
+  background-image: url(../img/l-murmansk.png); }
+
+.l-narva {
+  background-image: url(../img/l-narva.png); }
+
+.l-nikolayev {
+  background-image: url(../img/l-nikolayev.png); }
+
+.l-ochakov {
+  background-image: url(../img/l-ochakov.png); }
+
+.l-odessa {
+  background-image: url(../img/l-odessa.png); }
+
+.l-orel {
+  background-image: url(../img/l-orel.jpg); }
+
+.l-orsha {
+  background-image: url(../img/l-orsha.png); }
+
+.l-pochep {
+  background-image: url(../img/l-pochep.jpg); }
+
+.l-petersburg {
+  background-image: url(../img/l-petersburg.png); }
+
+.l-poltava {
+  background-image: url(../img/l-poltava.png); }
+
+.l-pushkin {
+  background-image: url(../img/l-pushkin.jpg); }
+
+.l-romny {
+  background-image: url(../img/l-romny.png); }
+
+.l-rostov-on-don {
+  background-image: url(../img/l-rostov-on-don.png); }
+
+.l-shlisselburg {
+  background-image: url(../img/l-shlisselburg.png); }
+
+.l-sochi {
+  background-image: url(../img/l-sochi.png); }
+
+.l-tokyo {
+  background-image: url(../img/l-tokyo.png); }
+
+.l-tosno {
+  background-image: url(../img/l-tosno.gif); }
+
+.l-v-novgorod {
+  background-image: url(../img/l-v-novgorod.png); }
+
+.l-vyborg {
+  background-image: url(../img/l-vyborg.png); }
+
+.l-yelnya {
+  background-image: url(../img/l-yelnya.jpg); }
+
+.l-zaporozhye {
+  background-image: url(../img/l-zaporozhye.png); }
+
+.l-zhitomir {
+  background-image: url(../img/l-zhitomir.png); }
 
 /*# sourceMappingURL=blueberry.css.map */
