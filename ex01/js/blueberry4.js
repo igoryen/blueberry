@@ -471,6 +471,7 @@ Mei.Dates = (function () {
 
 
             // 3
+
             if( eventEndDate.isValid() ) {
                 //  mye || mde
                 
@@ -497,11 +498,15 @@ Mei.Dates = (function () {
 
                         wec["from"] = moment(allDates[i]["from"]).format("YYYY-MM-DD"); // 7
                         wec["till"] = moment().year(eventStartYear).month(11).date(31); // 8
+                        wec["truefrom"] = eventFullStartDate;
+                        wec["truetill"] = eventFullEndDate;
+
 
                         console.log(
                             "Adding mye. fyc:"  // 9
                             + " "  + moment(wec["from"]).format("YYYY-MM-DD") 
                             + "..."  + moment(wec["till"]).format("YYYY-MM-DD")
+                            + " >>>>> true-from " + wec["truefrom"]
                             + " " + wec["title"] );
                         todaysDates.push( wec ); // 16
 
@@ -518,10 +523,15 @@ Mei.Dates = (function () {
 
                         wec["from"] = moment([followingYear, 0,  1]);
                         wec["till"] = moment([followingYear, 11,31]);
+                        wec["truefrom"] = eventFullStartDate;
+                        wec["truetill"] = eventFullEndDate;
+
 
                         console.log("Adding mye. myc " + year + "."
                             + " "    + moment(wec["from"]).format("YYYY-MM-DD") 
                             + "..."  + moment(wec["till"]).format("YYYY-MM-DD") 
+                            + " >>>>> true-from " + wec["truefrom"]
+
                             + " "    + wec["title"]);
 
                         todaysDates.push( wec ); // 16
@@ -535,10 +545,15 @@ Mei.Dates = (function () {
                         var wec = JSON.parse(JSON.stringify( allDates[i] )); // 6
                         wec["from"] = moment([eventEndYear, 0, 1]); 
                         wec["till"] = eventFullEndDate;
+                        wec["truefrom"] = eventFullStartDate;
+                        wec["truetill"] = eventFullEndDate;
+
 
                         console.log("Adding mye. lyc   " // 17
                             + " " + moment(wec["from"]).format("YYYY-MM-DD") 
                             + "..." + moment(wec["till"]).format("YYYY-MM-DD")
+                            + " >>>>> true-from " + wec["truefrom"]
+
                             + " " + wec["title"] );
                         todaysDates.push( wec );
                     // }
@@ -856,7 +871,7 @@ Mei.Dates = (function () {
                                //  console.log ('~~~~~ class ' + $datecontainer.class);
                                //  create element for the event
                                //  console.log('YEAR: ' + aryDateObject.getFullYear());
-                            var $pastperiod = $('<span>').attr('class','past-year').text(moment(todaysDates[i]["from"]).format("D MMMM YYYY") +" - "+ moment(todaysDates[i]["till"]).format("D MMMM YYYY"));
+                            var $pastperiod = $('<span>').attr('class','past-year').text("(" + moment(todaysDates[i]["truefrom"]).format("D MMMM YYYY") +" - "+ moment(todaysDates[i]["truetill"]).format("D MMMM YYYY") + ")");
                             var $progress = $('<span>').attr('class','progress');
                                 //.text( /*"continues" + " сегодня в " + moment().format("DD MMMM") + moment(todaysDates[i]["from"]).format("YYYY") + " г."*/ );
                             $progress.append( $('<img src="img/continues.gif" />') );
@@ -929,7 +944,7 @@ Mei.Dates = (function () {
                             //  create container for the date
                             var $datecontainer = $('<span>').attr('class','date').addClass("ends");
                             //  create element for the event
-                            var $pastperiod = $('<span>').attr('class','past-year').text(moment(todaysDates[i]["from"]).format("D MMMM YYYY") +" - "+ moment(todaysDates[i]["till"]).format("D MMMM YYYY"));
+                            var $pastperiod = $('<span>').attr('class','past-year').text(">>>" + moment(todaysDates[i]["truefrom"]).format("D MMMM YYYY") +" - >>>>> "+ moment(todaysDates[i]["truetill"]).format("D MMMM YYYY"));
                             //  var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i]["title"] + ": ends");
                             var $progress = $('<span>').attr('class','progress');
                             $progress.append( $('<img src="img/end.png" />') );
@@ -984,7 +999,7 @@ Mei.Dates = (function () {
                             displayMDE( todaysDates[i], "   begins today");
                             var $datecontainer = $('<span>').attr('class','date').addClass("begins");
                             //  create element for the event
-                            var $pastperiod = $('<span>').attr('class','past-year').text( from.format("D MMMM YYYY"));
+                            var $pastperiod = $('<span>').attr('class','past-year').text( "%%%%% " + from.format("D MMMM YYYY"));
 
                             var $progress = $('<span>').attr('class','progress');//.text("the first day of" /* + "сегодня в " + from.format("YYYY") + " г." */);
                             $progress.append( $('<img src="img/start.png" />') );
@@ -1046,7 +1061,7 @@ Mei.Dates = (function () {
                             //  console.log ('~~~~~ class ' + $datecontainer.class);
                             //  create element for the event
                             //  console.log('YEAR: ' + aryDateObject.getFullYear());
-                            var $pastperiod = $('<span>').attr('class','past-year').text(from.format("D MMMM YYYY"));
+                            var $pastperiod = $('<span>').attr('class','past-year').text( ">>>>> " + from.format("D MMMM YYYY"));
                             var $progress = $('<span>').attr('class','progress');
                             // .text( "today " /*+ from.format("YYYY") + " г."*/);
                             $progress.append( $('<img src="img/today.png" />') );
