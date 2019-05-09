@@ -31,3 +31,4 @@
 31. If it is established that the event does not roll over a New Year's day even once, then it's simply a many-day event within the same year
 32. If the event has no ending date, then the date doesn't last more than one day, it begins and ends on the same day, i.e. it is a one-day event
 33. dummyStartDate is a date whose year = the current year and whose month and day are the ones of the event under consideration
+34. the array for the year tabs, i.e. years like 1941-1945 to serve as tabs for the tabular view

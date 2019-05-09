@@ -813,7 +813,7 @@ Mei.Dates = (function () {
         todaysDates.sort(compare);
 
 
-
+        var year_tabs = [];
 
         //  STAGE 2 // 25
         console.log("---- Printing out events");
@@ -828,16 +828,24 @@ Mei.Dates = (function () {
                 // TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
                 var from = moment(todaysDates[i]["from"]);
                 var yearFrom = from.format("YYYY");
+                // year_tabs.push(yearFrom); // 34
+                console.log(" ------------------ newYear: " + newYear + ", yearFrom: " + yearFrom);
 
-                if(newYear != yearFrom ) {
+                // if( i = 0 ) {
+                //   $yearSeparator = $('<h3>').text(yearFrom);
+                // }
+                if( newYear != yearFrom ) {
                     //  $yearSeparator = $('<div class="new-year">').text(yearFrom); TODO
                     $yearSeparator = $('<h3>').text(yearFrom);
 
                     $todaysevents.append( $yearSeparator);
-                    console.log("======================== " + newYear + " ========================");
-
+                    console.log("======================== " + yearFrom + " ========================");
+                    year_tabs.push(yearFrom); // 34
                 }
+
                 newYear = yearFrom;
+
+                
                 
                 //LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
 
@@ -867,7 +875,7 @@ Mei.Dates = (function () {
 
                             displayMDE( todaysDates[i], "continues today");
                             //  create container for the date
-                            var $datecontainer = $('<span>').attr('class','date').addClass("continues");
+                            var $datecontainer = $('<div>').attr('class','date').addClass("continues");
                                //  console.log ('~~~~~ class ' + $datecontainer.class);
                                //  create element for the event
                                //  console.log('YEAR: ' + aryDateObject.getFullYear());
@@ -1121,6 +1129,17 @@ Mei.Dates = (function () {
                 //LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
         }
 
+        $yeartabs = $("#tabs");
+
+        console.log(year_tabs.length);
+        for (var t = 0; t < year_tabs.length; t++) {
+           console.log("~~~ " + year_tabs[t])
+           // var $onetab = $("<li>").attr("class", "tab");
+           var $onetab = $("<a>").attr("href", "#year" + year_tabs[t]).attr("class", "tab").text(year_tabs[t]);
+           // $onetab.append($anchor);
+           $yeartabs.append($onetab);
+
+        }
 
         // codectomy 01
 
@@ -1140,12 +1159,51 @@ window.onload = function () {
     // Mei.Events.init();            
 
     Mei.Dates.init();
+
     $('h3').each(function(){
         console.log("wrap all works");
-        $(this).nextUntil('h3').wrapAll( "<div class='year-container' />" );
+        var year = $(this).first("h3").text();
+        $(this).nextUntil('h3').addBack().wrapAll( "<div id='year" +year+ "' class='year-container' />" );
     });
 
 
-            
+    $('ul#tabs').each(function(){
+      // For each set of tabs, we want to keep track of
+      // which tab is active and its associated content
+      var $active, $content, $links = $(this).find('a');
+
+      // If the location.hash matches one of the links, use that as the active tab.
+      // If no match is found, use the first link as the initial active tab.
+      $active = $($links.filter('[href="'+location.hash+'"]')[0] || $links[0]);
+      $active.addClass('active');
+
+      $content = $($active[0].hash);
+
+      // Hide the remaining content
+      $links.not($active).each(function () {
+        $(this.hash).hide();
+      });
+
+      // Bind the click event handler
+      $(this).on('click', 'a', function(e){
+        // Make the old tab inactive.
+        $active.removeClass('active');
+        $content.hide();
+
+        // Update the variables with the new link and content
+        $active = $(this);
+        $content = $(this.hash);
+
+        // Make the tab active.
+        $active.addClass('active');
+        $content.show();
+
+        // Prevent the anchor's default click action
+        e.preventDefault();
+      });
+    });
+
+
+           
 }
 
