@@ -71,6 +71,11 @@ body {
     position: relative;
 }
 
+.main-container {
+    display: flex;
+    flex-direction: row;
+}
+
 #todays_date {
     background: white;
     // margin-top: -8px;
@@ -84,18 +89,21 @@ body {
 
 #tabs {
     display: flex;
+    flex-direction: column;
     // border: 1px solid red;
     margin-top: 2em;
+    padding-left: 0;
     // position: absolute;
     // top: 3em;
     // left: 0;
     a {
         text-decoration: none;
+        // transform: rotate(-90deg);
     }
 
     .tab {
         // border: 1px solid red;
-        padding: 1em;
+        padding: 0.3em;
         &.active {
             color: red;
         }
@@ -296,6 +304,7 @@ h2 {
     /*width: 90%;*/
     /*z-index: 1;*/
     a {
+
         text-decoration: none;
         /*color: white;*/
         color: #222;
@@ -303,6 +312,7 @@ h2 {
     }
 }
 #todays-events {
+    margin-top: 2em;
     /*display: flex;
     flex-wrap: wrap;*/
     /*background-color: #282c33;*/

@@ -7,6 +7,10 @@ body {
   font-family: 'Asap', sans-serif;
   position: relative; }
 
+.main-container {
+  display: flex;
+  flex-direction: row; }
+
 #todays_date {
   background: white;
   opacity: 0.8;
@@ -18,11 +22,13 @@ body {
 
 #tabs {
   display: flex;
-  margin-top: 2em; }
+  flex-direction: column;
+  margin-top: 2em;
+  padding-left: 0; }
   #tabs a {
     text-decoration: none; }
   #tabs .tab {
-    padding: 1em; }
+    padding: 0.3em; }
     #tabs .tab.active {
       color: red; }
 
@@ -186,6 +192,7 @@ body {
     margin-left: 1em; }
 
 #todays-events {
+  margin-top: 2em;
   /*display: flex;
   flex-wrap: wrap;*/
   /*background-color: #282c33;*/
