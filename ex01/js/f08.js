@@ -7,7 +7,7 @@ scope08.getTodaysDates = function( allDates ) {
     var todaysDates = [];
     console.log("===>" + allDates.length)
         for (var i = 0; i < allDates.length; i++) {
-            console.log("-1")
+            // console.log("-1")
             // 1
 
 
@@ -128,25 +128,28 @@ scope08.getTodaysDates = function( allDates ) {
                 else {
                     //  mde
                     console.log("- Got a mde");
+                    
+                    allDates[i]["truefrom"] = eventFullStartDate;
+                    allDates[i]["truetill"] = eventFullEndDate;
 
                     if( monthFrom < thisMonth ) {
-                        // console.log("---------- mde, started last month");
+                        console.log("---------- mde, started before this month");
                         if( dayFrom < thisDay ) {        
 
                             if( monthTill < thisMonth ) { //    
-                                // console.log("---------- mde, started before this month & before this day, ended before this month");               
+                                console.log("---------- mde, started before this month & before this day, ended before this month");               
                                 if(      dayTill <   thisDay ) { /*return 1; */ }// April 1-8 - April 1-8 (Triple case)
                                 else if( dayTill === thisDay ) { /*return 2; */ } // April 1-8 - April 9
                                 else if( dayTill >   thisDay ) { /*return 3; */ } // April 1-8 - April 10-30               
                             }
                             else if( monthTill === thisMonth ) {  
-                                // console.log("---------- mde, started before this month & before this day, ended this month");           
+                                console.log("---------- mde, started before this month & before this day, ended this month");           
                                 if(      dayTill <   thisDay ) { /*return 4; */ } // April 1-8 - May 1-8
                                 else if( dayTill === thisDay ) { todaysDates.push(allDates[i]); display(5, allDates[i], true); } // 5. April 1-8 - May 9
                                 else if( dayTill >   thisDay ) { todaysDates.push(allDates[i]); display(6, allDates[i], true); } // 6. April 1-8 - May 10-30                    
                             }
                             else if( monthTill > thisMonth ) {
-                                // console.log("---------- mde, started before this month & before this day, ended after this month");  
+                                console.log("---------- mde, started before this month & before this day, ended after this month");  
                                 if(      dayTill <   thisDay ) { todaysDates.push(allDates[i]); display(7, allDates[i], true); } // 7. April 1-8 - June 1-8
                                 else if( dayTill === thisDay ) { todaysDates.push(allDates[i]); display(8, allDates[i], true); } // 8. April 1-8 - June 9
                                 else if( dayTill >   thisDay ) { todaysDates.push(allDates[i]); display(9, allDates[i], true); } // 9. April 1-8 - June 10-30                    

@@ -12,7 +12,7 @@ scope09.alla = function( todaysDates ) {
                        var from = moment(todaysDates[i]["from"]);
                        var yearFrom = from.format("YYYY");
                        // year_tabs.push(yearFrom); // 34
-                       console.log(" ------------------ newYear: " + newYear + ", yearFrom: " + yearFrom);
+                       console.log("------------------- newYear: " + newYear + ", yearFrom: " + yearFrom);
 
                        // if( i = 0 ) {
                        //   $yearSeparator = $('<h3>').text(yearFrom);
@@ -52,7 +52,7 @@ scope09.alla = function( todaysDates ) {
                                case 21: case 22: case 23:                   case 26: case 27: case 28: case 29:
                                case 31: case 32: case 33: case 34:          case 36: case 37: case 38: case 39:
 
-                                   //  console.log("case  1: " + display(allDates[i])); 
+                                    // console.log("case  1: " + display(allDates[i])); 
 
                                    // console.log(monthFrom + "-" + dayFrom + " -> " + thisMonth +"-"+thisDay + " <- " + monthTill + "-" + dayTill);
 
@@ -135,7 +135,9 @@ scope09.alla = function( todaysDates ) {
                                    //  create container for the date
                                    var $datecontainer = $('<span>').attr('class','date').addClass("ends");
                                    //  create element for the event
-                                   var $pastperiod = $('<span>').attr('class','past-year').text(">>>" + moment(todaysDates[i]["truefrom"]).format("D MMMM YYYY") +" - >>>>> "+ moment(todaysDates[i]["truetill"]).format("D MMMM YYYY"));
+                                   console.log(">>------>----> " + Object.keys(todaysDates[i]));
+                                   console.log(">>------>----> " + moment(todaysDates[i]["truefrom"]).format("D MMMM YYYY"));
+                                   var $pastperiod = $('<span>').attr('class','past-year').text("(" + moment(todaysDates[i]["truefrom"]).format("D MMMM YYYY") +" - "+ moment(todaysDates[i]["truetill"]).format("D MMMM YYYY") + ")");
                                    //  var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i]["title"] + ": ends");
                                    var $progress = $('<span>').attr('class','progress');
                                    $progress.append( $('<img src="img/end.png" />') );
@@ -190,7 +192,9 @@ scope09.alla = function( todaysDates ) {
                                    displayMDE( todaysDates[i], "   begins today");
                                    var $datecontainer = $('<span>').attr('class','date').addClass("begins");
                                    //  create element for the event
-                                   var $pastperiod = $('<span>').attr('class','past-year').text( "%%%%% " + from.format("D MMMM YYYY"));
+                                   // var $pastperiod = $('<span>').attr('class','past-year').text( "%%%%% " + from.format("D MMMM YYYY"));
+                                   var $pastperiod = $('<span>').attr('class','past-year').text("(" + moment(todaysDates[i]["truefrom"]).format("D MMMM YYYY") +" - "+ moment(todaysDates[i]["truetill"]).format("D MMMM YYYY") + ")");
+                                   
 
                                    var $progress = $('<span>').attr('class','progress');//.text("the first day of" /* + "сегодня в " + from.format("YYYY") + " г." */);
                                    $progress.append( $('<img src="img/start.png" />') );
