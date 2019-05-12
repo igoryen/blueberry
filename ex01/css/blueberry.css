@@ -96,13 +96,13 @@ body {
     .ends .progress img {
       width: 2em; }
 
-.continues {
+.continues, .end, .begin {
   /*border: 1px solid orange;
   box-shadow: 1px 1px 1px orange;*/
   /*@include continues();*/ }
-  .continues .progress {
+  .continues .progress, .end .progress, .begin .progress {
     /*background-color: #8e4825;*/ }
-    .continues .progress img {
+    .continues .progress img, .end .progress img, .begin .progress img {
       width: 2em; }
 
 .today {

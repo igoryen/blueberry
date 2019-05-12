@@ -1,11 +1,14 @@
 window.scope09 = {};
 var filterMDE = scope03.filterMDE;
 var displayMDE = scope06.displayMDE;
+var renderDate = scope10.renderDate;
+
 scope09.alla = function( todaysDates ) {
 
   // year separator
         var newYear = "";
         var year_tabs = [];
+
     for (var i = 0; i< todaysDates.length; i++) {
 
                        // TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
@@ -58,69 +61,8 @@ scope09.alla = function( todaysDates ) {
 
                                    displayMDE( todaysDates[i], "continues today");
                                    //  create container for the date
-                                   var $datecontainer = $('<div>').attr('class','date').addClass("continues");
-                                      //  console.log ('~~~~~ class ' + $datecontainer.class);
-                                      //  create element for the event
-                                      //  console.log('YEAR: ' + aryDateObject.getFullYear());
-                                   var $pastperiod = $('<span>').attr('class','past-year').text("(" + moment(todaysDates[i]["truefrom"]).format("D MMMM YYYY") +" - "+ moment(todaysDates[i]["truetill"]).format("D MMMM YYYY") + ")");
-                                   var $progress = $('<span>').attr('class','progress');
-                                       //.text( /*"continues" + " сегодня в " + moment().format("DD MMMM") + moment(todaysDates[i]["from"]).format("YYYY") + " г."*/ );
-                                   $progress.append( $('<img src="img/continues.gif" />') );
-                                   
-                                   
-                                   //  with link
-                                   //  var $link = $('<a>').attr("href", todaysDates[i]["link"]);
-                                   //  $link.text(todaysDates[i]["title"]);
-                                   //  var $eventtitle = $('<div>').attr('class','event-title').append($link);
+                                   renderDate( todaysDates[i], 1 );
 
-                                   //  // with no link
-                                   //  // var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i]["title"]);
-
-                                   var $where = $('<span>').attr('class', 'geo').text( todaysDates[i]["where"]);
-
-                                   if(!!todaysDates[i]["link"]) {
-                                       var $link = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
-                                       $link.text(todaysDates[i]["title"]);
-                                       var $eventtitle = $('<span>').attr('class','event-title').append($link);
-
-                                       //======================================
-                                       //======================================
-
-
-
-                                   }
-                                   else {
-                                       //  with no link
-                                       var $eventtitle = $('<span>').attr('class','event-title').text(todaysDates[i]["title"]);
-
-                                       //======================================
-                                       //======================================
-                                   }
-
-                                   var $lnk = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
-                                   $lnk.text("Источник");
-
-                                   var $eventonthisdate = $('<span>').attr('class','whathappened').text(todaysDates[i]["desc"]);
-
-                                   var $country = $('<span>').attr('class', 'coa ' + todaysDates[i]["country"]).attr('title', todaysDates[i]["country"]);
-                                   var $province = $('<span>').attr('class', 'coa p-' + todaysDates[i]["province"]).attr('title', todaysDates[i]["province"]);
-                                   var $locality = $('<span>').attr('class', 'coa l-' + todaysDates[i]["locality"]).attr('title', todaysDates[i]["locality"]);
-
-                                   $eventonthisdate.append($lnk);
-
-                                   $datecontainer.append($progress);
-                                   
-                                   $datecontainer.append($country);
-                                   $datecontainer.append($province);
-                                   $datecontainer.append($locality);
-                                   
-                                   // $datecontainer.append($where);
-
-                                   $datecontainer.append( $eventtitle);
-                                   
-                                   $datecontainer.append($pastperiod);
-                                   $datecontainer.append($eventonthisdate);
-                                   $todaysevents.append($datecontainer);
                                    break;
                                //--------------------------------------------------------
                                case 1: case 2: case 3: case 4:
@@ -133,113 +75,17 @@ scope09.alla = function( todaysDates ) {
                                    displayMDE(todaysDates[i], "     ends today");
 
                                    //  create container for the date
-                                   var $datecontainer = $('<span>').attr('class','date').addClass("ends");
-                                   //  create element for the event
-                                   console.log(">>------>----> " + Object.keys(todaysDates[i]));
-                                   console.log(">>------>----> " + moment(todaysDates[i]["truefrom"]).format("D MMMM YYYY"));
-                                   var $pastperiod = $('<span>').attr('class','past-year').text("(" + moment(todaysDates[i]["truefrom"]).format("D MMMM YYYY") +" - "+ moment(todaysDates[i]["truetill"]).format("D MMMM YYYY") + ")");
-                                   //  var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i]["title"] + ": ends");
-                                   var $progress = $('<span>').attr('class','progress');
-                                   $progress.append( $('<img src="img/end.png" />') );
-                                   //.text("the last day of" /*+ " сегодня в " + moment(todaysDates[i]["till"]).format("YYYY") + " г." */);
-                                   var $where = $('<span>').attr('class', 'geo').text( todaysDates[i]["where"]);
-                                   if(!!todaysDates[i]["link"]) {
-                                       var $link = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
-                                       $link.text(todaysDates[i]["title"]);
-                                       var $eventtitle = $('<span>').attr('class','event-title').append($link);
-                                   }
-                                   else {
-                                       //  with no link
-                                       var $eventtitle = $('<span>').attr('class','event-title').text(todaysDates[i]["title"]);
-                                   }
-
-                                   var $country = $('<span>').attr('class', 'coa ' + todaysDates[i]["country"]).attr('title', todaysDates[i]["country"]);
-                                   var $province = $('<span>').attr('class', 'coa p-' + todaysDates[i]["province"]).attr('title', todaysDates[i]["province"]);
-                                   var $locality = $('<span>').attr('class', 'coa l-' + todaysDates[i]["locality"]).attr('title', todaysDates[i]["locality"]);
-
-                                   
-                                   $datecontainer.append($progress);
-
-                                   $datecontainer.append($country);
-                                   $datecontainer.append($province);
-                                   $datecontainer.append($locality);
-
-                                   // $datecontainer.append($where);
-                                   $datecontainer.append($eventtitle);
-                                   
-                                   $datecontainer.append($pastperiod);
-                                                       
-                                   
-                                   
-
-
-                                   var $lnk = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
-                                   $lnk.text("Источник");
-                                   var $eventonthisdate = $('<span>').attr('class','whathappened').text(todaysDates[i]["desc"]);
-
-                                   if(!!todaysDates[i]["result"]) {
-                                       var $eventresult = $('<span>').attr('class','event-result').text(" Result: " +todaysDates[i]["result"]);
-                                       // $datecontainer.append($eventresult);
-                                       $eventonthisdate.append($eventresult).append($lnk);
-                                   }
-                                   $datecontainer.append($eventonthisdate);
-
-                                   $todaysevents.append($datecontainer);
+                                   renderDate( todaysDates[i], 2 );
+                                       
                                    break;
 
                                case 41: case 42: case 43: case 44: case 45: case 46: case 47: case 48: case 49:
                                    //--------------------------------------------------------
                                    displayMDE( todaysDates[i], "   begins today");
-                                   var $datecontainer = $('<span>').attr('class','date').addClass("begins");
-                                   //  create element for the event
-                                   // var $pastperiod = $('<span>').attr('class','past-year').text( "%%%%% " + from.format("D MMMM YYYY"));
-                                   var $pastperiod = $('<span>').attr('class','past-year').text("(" + moment(todaysDates[i]["truefrom"]).format("D MMMM YYYY") +" - "+ moment(todaysDates[i]["truetill"]).format("D MMMM YYYY") + ")");
+
+                                   renderDate( todaysDates[i], 3 );
+
                                    
-
-                                   var $progress = $('<span>').attr('class','progress');//.text("the first day of" /* + "сегодня в " + from.format("YYYY") + " г." */);
-                                   $progress.append( $('<img src="img/start.png" />') );
-                                   //  with link
-                                   //  console.log("------" + !!todaysDates[i]["link"])
-                                   if(!!todaysDates[i]["link"]) {
-                                       var $link = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
-                                       $link.text(todaysDates[i]["title"]);
-                                       var $eventtitle = $('<span>').attr('class','event-title').append($link);
-                                   }
-                                   else {
-                                       //  with no link
-                                       var $eventtitle = $('<span>').attr('class','event-title').text(todaysDates[i]["title"]);
-                                   }
-                                   
-                                   var $lnk = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
-                                   $lnk.text("Источник");
-                                   
-                                   var $eventonthisdate = $('<span>').attr('class','whathappened').text(todaysDates[i]["desc"]);
-
-                                   var $where = $('<span>').attr('class', 'geo').text( todaysDates[i]["where"]);
-
-                                   var $country = $('<span>').attr('class', 'coa ' + todaysDates[i]["country"]).attr('title', todaysDates[i]["country"]);
-                                   var $province = $('<span>').attr('class', 'coa p-' + todaysDates[i]["province"]).attr('title', todaysDates[i]["province"]);
-                                   var $locality = $('<span>').attr('class', 'coa l-' + todaysDates[i]["locality"]).attr('title', todaysDates[i]["locality"]);
-
-                                   $eventonthisdate.append($lnk);
-
-                                   $datecontainer.append($progress);
-
-                                   $datecontainer.append($country);
-                                   $datecontainer.append($province);
-                                   $datecontainer.append($locality);
-
-                                   // $datecontainer.append($where);
-
-                                   $datecontainer.append($eventtitle);
-                                   
-                                   $datecontainer.append($pastperiod); 
-                                   
-                                                      
-                                   
-                                   $datecontainer.append($eventonthisdate);
-
-                                   $todaysevents.append($datecontainer);
                                    break;
                                    
                            }
@@ -249,66 +95,8 @@ scope09.alla = function( todaysDates ) {
                                case 95: 
                                    //  console.log("case  1: " + display(allDates[i])); 
                                    console.log(monthFrom + "-" + dayFrom + " == " + thisMonth +"-"+thisDay );
-
-                                   console.log(todaysDates[i]["title"] + " Happens today");
-                                   //  create container for the date
-                                   var $datecontainer = $('<span>').attr('class','date').addClass("today");
-                                   //  console.log ('~~~~~ class ' + $datecontainer.class);
-                                   //  create element for the event
-                                   //  console.log('YEAR: ' + aryDateObject.getFullYear());
-                                   var $pastperiod = $('<span>').attr('class','past-year').text( ">>>>> " + from.format("D MMMM YYYY"));
-                                   var $progress = $('<span>').attr('class','progress');
-                                   // .text( "today " /*+ from.format("YYYY") + " г."*/);
-                                   $progress.append( $('<img src="img/today.png" />') );
+                                  renderDate( todaysDates[i], 4 );
                                    
-                                   //  with link
-                                   //  var $link = $('<a>').attr("href", todaysDates[i]["link"]);
-                                   //  $link.text(todaysDates[i]["title"]);
-                                   //  var $eventtitle = $('<div>').attr('class','event-title').append($link);
-
-                                   //  // with no link
-                                   //  // var $eventtitle = $('<div>').attr('class','event-title').text(todaysDates[i]["title"]);
-
-                                   var $where = $('<span>').attr('class', 'geo').text( todaysDates[i]["where"]);
-
-
-                                   var $srclnk = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
-                                   $srclnk.text("Источник");
-
-                                   var $eventonthisdate = $('<span>').attr('class','whathappened').text(todaysDates[i]["desc"]);
-
-
-                                   if(!!todaysDates[i]["link"]) {
-                                       var $link = $('<a>').attr("href", todaysDates[i]["link"]).attr("target", "_blank");
-                                       $link.text(todaysDates[i]["title"]);
-                                       var $eventtitle = $('<span>').attr('class','event-title').append($link);
-                                       $eventonthisdate.append($eventresult).append($srclnk);
-                                   }
-                                   else {
-                                   //  with no link
-                                       var $eventtitle = $('<span>').attr('class','event-title').text(todaysDates[i]["title"]);
-                                   }
-
-                                   
-
-                                   var $country = $('<span>').attr('class', 'coa ' + todaysDates[i]["country"]).attr('title', todaysDates[i]["country"]);
-                                   var $province = $('<span>').attr('class', 'coa p-' + todaysDates[i]["province"]).attr('title', todaysDates[i]["province"]);
-                                   var $locality = $('<span>').attr('class', 'coa l-' + todaysDates[i]["locality"]).attr('title', todaysDates[i]["locality"]);
-                                   
-                                   // The order of presentation
-                                   $datecontainer.append( $progress );
-
-                                   $datecontainer.append($country);
-                                   $datecontainer.append($province);
-                                   $datecontainer.append($locality);
-
-                                   // $datecontainer.append($where);
-
-                                   $datecontainer.append( $eventtitle );
-                                   $datecontainer.append( $pastperiod );
-                                   $datecontainer.append( $eventonthisdate );
-
-                                   $todaysevents.append($datecontainer);
                                    break;
                            }
                        }

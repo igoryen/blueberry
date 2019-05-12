@@ -13,6 +13,10 @@ Mei.Dates = (function () {
    var displayODE = scope07.displayODE;
    var getTodaysDates = scope08.getTodaysDates;
    var alla = scope09.alla;
+   var renderDate = scope10.renderDate;
+   var selectPhrase = scope11.selectPhrase;
+
+
 
 
 
