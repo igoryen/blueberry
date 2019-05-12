@@ -3332,10 +3332,10 @@ scope.stories = {
     	  "province": "",
     	  "locality": "",
     	  "where": "",
-    	  "title": "The Prague Offensive",
-    	  "desc": "The USSR troops - 3 Ukrainian Fronts (1st, 2nd, and 4th) - the offensive against the Hitlerites in the capital of Czechoslovakia.",
-    	  "result": "",
-    	  "link": ""
+    	  "title": "Пражская операция",
+    	  "desc": "последняя стратегическая операция Красной армии в Великой Отечественной войне.",
+    	  "result": "уничтожена немецкая группа армий «Центр» и часть сил группы армий «Юг», от немецких войск освобождена Чехословакия и её столица Прага",
+    	  "link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
     	},
     	{
     	  "from": "1945-05-07",
