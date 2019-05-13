@@ -1,5 +1,6 @@
 window.scope09 = {};
 var filterMDE = scope03.filterMDE;
+var filterODE = scope04.filterODE;
 var displayMDE = scope06.displayMDE;
 var renderDate = scope10.renderDate;
 
@@ -149,7 +150,7 @@ scope09.alla = function (todaysDates) {
             switch (filterODE(todaysDates[i])) {
                 case 95:
                     //  console.log("case  1: " + display(allDates[i])); 
-                    console.log(monthFrom + "-" + dayFrom + " == " + thisMonth + "-" + thisDay);
+                    // console.log(monthFrom + "-" + dayFrom + " == " + thisMonth + "-" + thisDay);
                     renderDate(todaysDates[i], 4);
                     break;
             }
