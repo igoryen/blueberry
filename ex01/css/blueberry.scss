@@ -181,8 +181,11 @@ h2 {
         color: blue;
     }
     &.continues { 
-        // color: brown;
+        color: #000;
         @include continues;
+        .event-title {
+            color: brown;
+        }
     }
     &.opened {
         // background: #fff !important;

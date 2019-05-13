@@ -94,11 +94,14 @@ body {
     /*background-color: #ffe6e6;*/
     color: blue; }
   .date.continues {
+    color: #000;
     background: #e7e3cd;
     background: -moz-linear-gradient(top, #e7e3cd 0%, #e0dcc0 40%, #d5d0ad 100%);
     background: -webkit-linear-gradient(top, #e7e3cd 0%, #e0dcc0 40%, #d5d0ad 100%);
     background: linear-gradient(to bottom, #e7e3cd 0%, #e0dcc0 40%, #d5d0ad 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e3cd', endColorstr='#d5d0ad',GradientType=0 ); }
+    .date.continues .event-title {
+      color: brown; }
   .date.opened {
     border: 1px solid #333; }
 
