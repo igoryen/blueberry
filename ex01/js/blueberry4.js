@@ -15,6 +15,7 @@ Mei.Dates = (function () {
    var alla = scope09.alla;
    var renderDate = scope10.renderDate;
    var selectPhrase = scope11.selectPhrase;
+   
 
 
 
@@ -458,6 +459,7 @@ Mei.Dates = (function () {
         // console.log( "typeof " + typeof todaysDates[0])
         console.log('=============================================================================');
         todaysDates.sort(compare);
+        // todaysDates.sort(compareGeo);
 
 
         
