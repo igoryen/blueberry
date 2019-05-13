@@ -10,22 +10,22 @@
 //      MIXINS
 //======================================
     @mixin continues() {
-        /*
+        
         background: #e7e3cd; 
         background: -moz-linear-gradient(top, #e7e3cd 0%, #e0dcc0 40%, #d5d0ad 100%); 
         background: -webkit-linear-gradient(top, #e7e3cd 0%,#e0dcc0 40%,#d5d0ad 100%); 
         background: linear-gradient(to bottom, #e7e3cd 0%,#e0dcc0 40%,#d5d0ad 100%); 
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e3cd', endColorstr='#d5d0ad',GradientType=0 ); 
-        */
+        
 
-        /*background-position: center;
-        background-repeat: no-repeat;
-        background-size: contain;
-        display: inline-block;
-        height: 2em;
-        margin-right: 2px;
-        width: 2em;
-        background-image: url(../img/continues.gif);*/
+        // background-position: center;
+        // background-repeat: no-repeat;
+        // background-size: contain;
+        // display: inline-block;
+        // height: 2em;
+        // margin-right: 2px;
+        // width: 2em;
+        // background-image: url(../img/continues.gif);
     }
     @mixin today() {
         background: #fdc8bf; /* Old browsers */
@@ -33,6 +33,17 @@
         background: -webkit-linear-gradient(top, #fdc8bf 0%,#fbd3cd 65%,#fbd3cd 65%,#fabfb8 87%,#fabfb8 87%,#fcbcb4 88%,#fcbcb4 92%,#fcbcb4 92%,#f8c1bc 100%); /* Chrome10-25,Safari5.1-6 */
         background: linear-gradient(to bottom, #fdc8bf 0%,#fbd3cd 65%,#fbd3cd 65%,#fabfb8 87%,#fabfb8 87%,#fcbcb4 88%,#fcbcb4 92%,#fcbcb4 92%,#f8c1bc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdc8bf', endColorstr='#f8c1bc',GradientType=0 ); /* IE6-9 */
+    }
+
+    @mixin begin() {
+        /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fac695+0,f5ab66+47,ef8d31+100;Orange+3D+%232 */
+        background: #fac695; /* Old browsers */
+        background: -moz-linear-gradient(top,  #fac695 0%, #f5ab66 47%, #ef8d31 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(top,  #fac695 0%,#f5ab66 47%,#ef8d31 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(to bottom,  #fac695 0%,#f5ab66 47%,#ef8d31 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fac695', endColorstr='#ef8d31',GradientType=0 ); /* IE6-9 */
+
+
     }
 
     @mixin year-container-bkg() {
@@ -140,7 +151,7 @@ h2 {
     margin-bottom: .5em;
 }
 .date {
-    border: 1px solid red;
+    // border: 1px solid red;
     /*background-color: lightyellow;*/
     /*padding: .5em 0;*/
     /*align-items: center;*/
@@ -151,20 +162,37 @@ h2 {
     /*margin: .4em;*/
     /*max-width: 31%;*/
     /*min-width: 20%;*/
+    cursor: pointer;
     padding: .1em .1em .5em;
     /*position: relative;*/
-    &.begins { color: red !important;}
-    &.ends { color: green; }
+    &.begin { 
+        color: red !important;
+        @include begin;
+    }
+    &.end { 
+        // color: green; 
+        @include ends-bkg;
+        .event-title {
+            color: #000;
+        }
+    }
     &.today { 
         /*background-color: #ffe6e6;*/
         color: blue;
     }
-    &.continues { color: brown;}
+    &.continues { 
+        // color: brown;
+        @include continues;
+    }
+    &.opened {
+        // background: #fff !important;
+        border: 1px solid #333;
+    }
 
 }
 
 .progress {
-    box-shadow: inset 0px 1px 3px 2px white;
+    // box-shadow: inset 0px 1px 3px 2px white;
 }
 .begins {
     /*border: 1px solid red;
@@ -208,6 +236,11 @@ h2 {
     }
 
 }
+
+.event-header {
+    // border: 1px dashed green;
+}
+
 
 .today {
     /*border: 1px solid blue;*/
@@ -291,6 +324,7 @@ h2 {
 
 }
 .whathappened {
+
     /*top: 1.7em;*/
     /*background-color: #333;*/
     /*border: 3px solid gray;*/
@@ -299,10 +333,17 @@ h2 {
     /*color: #333;*/
     /*display: none;*/
     font-size: 14px;
-    
+    display: flex;
+    flex-direction: column;
     /*position: absolute;*/
     /*width: 90%;*/
     /*z-index: 1;*/
+    // border: 3px solid #333;
+    margin: 0.5em 0;
+
+    &.hidden {
+        display: none;
+    }
     a {
 
         text-decoration: none;

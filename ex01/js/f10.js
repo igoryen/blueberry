@@ -24,47 +24,64 @@ scope10.renderDate = function (todaysDate, phraseid) {
 
     var $where = $('<span>').attr('class', 'geo').text(todaysDate["where"]);
 
-    if (!!todaysDate["link"]) {
-        var $link = $('<a>').attr("href", todaysDate["link"]).attr("target", "_blank");
-        $link.text(todaysDate["title"]);
-        var $eventtitle = $('<span>').attr('class', 'event-title').append($link);
+    // if (!!todaysDate["link"]) {
+    //     var $link = $('<a>').attr("href", todaysDate["link"]).attr("target", "_blank");
+    //     $link.text(todaysDate["title"]);
+    //     var $eventtitle = $('<span>').attr('class', 'event-title').append($link);
 
-        //======================================
-        //======================================
+    //     //======================================
+    //     //======================================
 
 
-    } else {
-        //  with no link
-        var $eventtitle = $('<span>').attr('class', 'event-title').text(todaysDate["title"]);
+    // } else {
+    //     //  with no link
+    //     var $eventtitle = $('<span>').attr('class', 'event-title').text(todaysDate["title"]);
 
-        //======================================
-        //======================================
-    }
+    //     //======================================
+    //     //======================================
+    // }
+
+    var $eventtitle = $('<span>').attr('class', 'event-title').text(todaysDate["title"]);
 
     var $lnk = $('<a>').attr("href", todaysDate["link"]).attr("target", "_blank");
     $lnk.text("Источник");
 
-    var $eventonthisdate = $('<span>').attr('class', 'whathappened').text(todaysDate["desc"]);
+
+    var $eventheader = $('<div>').attr('class', 'event-header');
+
+
 
     var $country = $('<span>').attr('class', 'coa ' + todaysDate["country"]).attr('title', todaysDate["country"]);
     var $province = $('<span>').attr('class', 'coa p-' + todaysDate["province"]).attr('title', todaysDate["province"]);
     var $locality = $('<span>').attr('class', 'coa l-' + todaysDate["locality"]).attr('title', todaysDate["locality"]);
 
-    $eventonthisdate.append($lnk);
 
-    $datecontainer.append($progress);
 
-    $datecontainer.append($country);
-    $datecontainer.append($province);
-    $datecontainer.append($locality);
+    
+
+    $eventheader.append($progress);
+
+    $eventheader.append($country);
+    $eventheader.append($province);
+    $eventheader.append($locality);
 
     // $datecontainer.append($where);
 
-    $datecontainer.append($eventtitle);
+    $eventheader.append($eventtitle);
 
-    $datecontainer.append($pastperiod);
+    $eventheader.append($pastperiod);
 
+
+
+    
+    var $eventonthisdate = $('<div>').attr('class', 'whathappened hidden').text(todaysDate["desc"]);
+    $eventonthisdate.append($lnk);
+
+
+    $datecontainer.append($eventheader);
     $datecontainer.append($eventonthisdate);
+
+    
 
     $todaysevents.append($datecontainer);
 }

@@ -51,7 +51,6 @@ body {
   margin-bottom: .5em; }
 
 .date {
-  border: 1px solid red;
   /*background-color: lightyellow;*/
   /*padding: .5em 0;*/
   /*align-items: center;*/
@@ -62,20 +61,46 @@ body {
   /*margin: .4em;*/
   /*max-width: 31%;*/
   /*min-width: 20%;*/
+  cursor: pointer;
   padding: .1em .1em .5em;
   /*position: relative;*/ }
-  .date.begins {
-    color: red !important; }
-  .date.ends {
-    color: green; }
+  .date.begin {
+    color: red !important;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fac695+0,f5ab66+47,ef8d31+100;Orange+3D+%232 */
+    background: #fac695;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #fac695 0%, #f5ab66 47%, #ef8d31 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #fac695 0%, #f5ab66 47%, #ef8d31 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #fac695 0%, #f5ab66 47%, #ef8d31 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fac695', endColorstr='#ef8d31',GradientType=0 );
+    /* IE6-9 */ }
+  .date.end {
+    background: #e0ecc4;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #e0ecc4 0%, #bcd5ab 44%, #7fc97b 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #e0ecc4 0%, #bcd5ab 44%, #7fc97b 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #e0ecc4 0%, #bcd5ab 44%, #7fc97b 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0ecc4', endColorstr='#7fc97b',GradientType=0 );
+    /* IE6-9 */ }
+    .date.end .event-title {
+      color: #000; }
   .date.today {
     /*background-color: #ffe6e6;*/
     color: blue; }
   .date.continues {
-    color: brown; }
-
-.progress {
-  box-shadow: inset 0px 1px 3px 2px white; }
+    background: #e7e3cd;
+    background: -moz-linear-gradient(top, #e7e3cd 0%, #e0dcc0 40%, #d5d0ad 100%);
+    background: -webkit-linear-gradient(top, #e7e3cd 0%, #e0dcc0 40%, #d5d0ad 100%);
+    background: linear-gradient(to bottom, #e7e3cd 0%, #e0dcc0 40%, #d5d0ad 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e3cd', endColorstr='#d5d0ad',GradientType=0 ); }
+  .date.opened {
+    border: 1px solid #333; }
 
 .begins {
   /*border: 1px solid red;
@@ -182,9 +207,14 @@ body {
   /*color: #333;*/
   /*display: none;*/
   font-size: 14px;
+  display: flex;
+  flex-direction: column;
   /*position: absolute;*/
   /*width: 90%;*/
-  /*z-index: 1;*/ }
+  /*z-index: 1;*/
+  margin: 0.5em 0; }
+  .whathappened.hidden {
+    display: none; }
   .whathappened a {
     text-decoration: none;
     /*color: white;*/

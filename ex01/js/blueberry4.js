@@ -549,6 +549,17 @@ window.onload = function () {
       });
     });
 
+    $(".event-header").on("click", function() {
+      if( $(this).siblings(".whathappened").hasClass("hidden")) {
+         $(this).siblings(".whathappened").removeClass("hidden");
+         $(this).parents(".date").addClass("opened").siblings().removeClass("opened").find(".whathappened").addClass("hidden")
+      }
+      else {
+         $(this).siblings(".whathappened").addClass("hidden");
+
+      }
+    });
+
 
            
 }
