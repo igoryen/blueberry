@@ -163,7 +163,7 @@ h2 {
     /*max-width: 31%;*/
     /*min-width: 20%;*/
     cursor: pointer;
-    padding: .1em .1em .5em;
+    padding: .1em;
     /*position: relative;*/
     &.begin { 
         color: red !important;
@@ -242,6 +242,9 @@ h2 {
 
 .event-header {
     // border: 1px dashed green;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 
@@ -357,6 +360,7 @@ h2 {
 }
 #todays-events {
     margin-top: 2em;
+    width: 100%;
     /*display: flex;
     flex-wrap: wrap;*/
     /*background-color: #282c33;*/

@@ -62,7 +62,7 @@ body {
   /*max-width: 31%;*/
   /*min-width: 20%;*/
   cursor: pointer;
-  padding: .1em .1em .5em;
+  padding: .1em;
   /*position: relative;*/ }
   .date.begin {
     color: red !important;
@@ -132,6 +132,11 @@ body {
     /*background-color: #8e4825;*/ }
     .continues .progress img, .end .progress img, .begin .progress img {
       width: 2em; }
+
+.event-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center; }
 
 .today {
   /*border: 1px solid blue;*/
@@ -226,6 +231,7 @@ body {
 
 #todays-events {
   margin-top: 2em;
+  width: 100%;
   /*display: flex;
   flex-wrap: wrap;*/
   /*background-color: #282c33;*/
