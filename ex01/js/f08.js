@@ -413,6 +413,7 @@ scope08.getTodaysDates = function (allDates) {
         } else {
             //  ode
             // console.log("---------- ode");
+            allDates[i]["truefrom"] = eventFullStartDate;
 
             if (monthFrom < thisMonth) {
                 if (dayFrom < thisDay) { /*return 91; */ } // April 1-8 
