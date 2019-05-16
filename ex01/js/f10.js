@@ -65,10 +65,23 @@ scope10.renderDate = function (todaysDate, phraseid) {
     $eventheader.append($eventtitle);
 
     $eventheader.append($pastperiod);
-    
-    var $eventonthisdate = $('<div>').attr('class', 'whathappened hidden').text(todaysDate["desc"]);
-    $eventonthisdate.append($lnk);
 
+    //------- EVENT DESC ---------------------------
+    var $eventonthisdate = $('<div>').attr('class', 'whathappened hidden');
+    
+    var $nutshell = $('<div>').attr("class", "event-nutshell").text(todaysDate["desc"]);
+    $eventonthisdate.append($nutshell);
+
+    if(!!todaysDate["result"]) {
+        var $eventresult = $('<div>').attr('class','event-result');
+        var $result_word = $("<span>").attr("class", "result-word").text("Итоги: ");
+        var $result_desc = $("<span>").attr("class", "result-desc").text(todaysDate["result"]);
+        $eventresult.append($result_word, $result_desc);
+        $eventonthisdate.append($eventresult);
+    }
+
+    $eventonthisdate.append($lnk);
+    //-----------------------------------------
     $datecontainer.append($eventheader);
     $datecontainer.append($eventonthisdate);    
 
