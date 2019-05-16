@@ -8,7 +8,13 @@ scope10.renderDate = function (todaysDate, phraseid) {
     //  console.log ('~~~~~ class ' + $datecontainer.class);
     //  create element for the event
     //  console.log('YEAR: ' + aryDateObject.getFullYear());
-    var $pastperiod = $('<span>').attr('class', 'past-year').text("(" + moment(todaysDate["truefrom"]).format("D MMMM YYYY") + " - " + moment(todaysDate["truetill"]).format("D MMMM YYYY") + ")");
+    if(phraseid == 4) { // if it's a ODE
+        var $pastperiod = $('<span>').attr('class', 'past-year').text("(" + moment(todaysDate["truefrom"]).format("D MMMM YYYY") + ")");
+    }
+    else {
+        var $pastperiod = $('<span>').attr('class', 'past-year').text("(" + moment(todaysDate["truefrom"]).format("D MMMM YYYY") + " - " + moment(todaysDate["truetill"]).format("D MMMM YYYY") + ")");
+    }
+    
     var $progress = $('<span>').attr('class', 'progress');
     //.text( /*"continues" + " сегодня в " + moment().format("DD MMMM") + moment(todaysDate["from"]).format("YYYY") + " г."*/ );
     $progress.append($('<img src="img/' + selectPhrase( phraseid ) + '.gif" />'));
@@ -72,12 +78,14 @@ scope10.renderDate = function (todaysDate, phraseid) {
     var $nutshell = $('<div>').attr("class", "event-nutshell").text(todaysDate["desc"]);
     $eventonthisdate.append($nutshell);
 
-    if(!!todaysDate["result"]) {
-        var $eventresult = $('<div>').attr('class','event-result');
-        var $result_word = $("<span>").attr("class", "result-word").text("Итоги: ");
-        var $result_desc = $("<span>").attr("class", "result-desc").text(todaysDate["result"]);
-        $eventresult.append($result_word, $result_desc);
-        $eventonthisdate.append($eventresult);
+    if( phraseid == 2 || phraseid == 4) {
+        if(!!todaysDate["result"]) {
+            var $eventresult = $('<div>').attr('class','event-result');
+            var $result_word = $("<span>").attr("class", "result-word").text("Итоги: ");
+            var $result_desc = $("<span>").attr("class", "result-desc").text(todaysDate["result"]);
+            $eventresult.append($result_word, $result_desc);
+            $eventonthisdate.append($eventresult);
+        }
     }
 
     $eventonthisdate.append($lnk);
