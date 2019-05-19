@@ -49,18 +49,6 @@
    },
    {
       "from": "1941-06-12",
-      "till": "",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Наши начинают скрытно готовиться",
-      "desc": "командование приграничных военных округов под видом учений и изменения дислокации летних лагерей приступило к скрытному развёртыванию войск вторых эшелонов округов в соответствии с планами обороны государственной границы.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)"
-   },
-   {
-      "from": "1941-06-12",
       "till": "1941-06-15",
       "country": "",
       "province": "",
@@ -68,6 +56,18 @@
       "where": "",
       "title": "Скрытное подтягивание к границе",
       "desc": "По предписанию Григория Жуков (начальника Генерального штаба) западные приграничные округа скрытно выводят дивизии, расположенные в глубине, ближе к государственной границе. ",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)"
+   },
+   {
+      "from": "1941-06-12",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Наши начинают скрытно готовиться",
+      "desc": "командование приграничных военных округов под видом учений и изменения дислокации летних лагерей приступило к скрытному развёртыванию войск вторых эшелонов округов в соответствии с планами обороны государственной границы.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)"
    },
@@ -199,7 +199,7 @@
       "locality": "",
       "where": "FIN",
       "title": "Мобилизация в Финляндии",
-      "desc": "в Финляндии был издан указ о мобилизации всей полевой армии",
+      "desc": "в Финляндии издан указ о мобилизации всей полевой армии",
       "result": "",
       "link": ""
    },
@@ -282,10 +282,82 @@
       "province": "",
       "locality": "",
       "where": "",
-      "title": "Кayusha is put into service",
+      "title": "Ввели в строй Катюшу",
       "desc": "Реактивный снаряд РС-132 калибра 132 мм и пусковая установка на базе грузового автомобиля ЗИС-6 БМ-13 были приняты на вооружение 21 июня 1941 года;",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8E%D1%88%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B7%D0%B2%D0%B8%D1%89%D0%B5_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D1%8F)"
+   },
+   {
+      "from": "1941-06-22",
+      "till": "1941-06-28",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "Minsk Province, BLR",
+      "title": "BLR capital shelled",
+      "desc": "Shelling of Minsk, from morning to 9 pm. at intervals of 20-30 min.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0"
+   },
+   {
+      "from": "1941-06-22",
+      "till": "1941-07-06",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "UKR",
+      "title": "Lvov-Chernovtsy defensive",
+      "desc": "Our SW Front's Army and Navy are defending Western UKR, MDA and Black Sea. We lose 16,106 lives a day.",
+      "result": "Lasted 15 days. The front was 600-700km wide. We retreated 300-350km. We lost 19.9% of our troops. We slowed down DEU on route to Kiev and bought time for the main body of our SW Front to retreat and take defense at the old border. Then we carried out mobilization.",
+      "link": ""
+   },
+   {
+      "from": "1941-06-22",
+      "till": "1941-07-09",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "BLR",
+      "title": "Battle of Białystok–Minsk",
+      "desc": "A near-border battle at the central part of the front.",
+      "result": "DEU surrounded and crushed the main body of our Western front.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D1%81%D0%BA%D0%BE-%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5"
+   },
+   {
+      "from": "1941-06-22",
+      "till": "1941-07-09",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "LVA, LTU",
+      "title": "Baltic operation",
+      "desc": "Our Army and Navy are defending LVA, LTU, our North-West regions and the Baltic Sea. We lose 4,916 lives a day.",
+      "result": "DEU defeated us. We slowed down DEU Army Group North. Lasted 18 days. Front was 350-450 km wide. We retreated 400-450 km. We lost 15.1% lives.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1941-06-22",
+      "till": "1941-07-09",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Belarusian Defensive",
+      "desc": "Our Western Front together with the Pinsk flotilla. Lives lost a day: 23,210.",
+      "result": "We lose but we have slowed down their advance toward Smolensk (Smolensk Province, РСФСР). Duration: 18 days. Front: 450-800 km wide. Depth of retreat: 450-600 km. Lost lives: 54.4%.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1941-06-22",
+      "till": "1941-07-20",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Defense of Brest Fortress (BLR)",
+      "desc": "7000 of our troops vs 22000 DEU",
+      "result": "Our losses: ~2K killed, ~4K captured. DEU losses: ~1.4K killed, ~2.2K wounded. Germans think Kamikaze attacks were motivated by fear of firing squad.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8#cite_note-10"
    },
    {
       "from": "1941-06-22",
@@ -301,15 +373,27 @@
    },
    {
       "from": "1941-06-22",
-      "till": "1941-06-28",
+      "till": "1941-09-30",
       "country": "",
       "province": "",
       "locality": "",
-      "where": "Minsk Province, BLR",
-      "title": "BLR capital shelled",
-      "desc": "Shelling of Minsk, from morning to 9 pm. at intervals of 20-30 min.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0"
+      "where": "",
+      "title": "Операция Барбаросса",
+      "desc": "План: нападение на СССР и молниеносная война.",
+      "result": "оперативный — поражение советских войск в приграничных сражениях и отступление вглубь страны при относительно малых потерях вермахта и союзников Германии; стратегический итог — провал стратегии блицкрига, рассчитанной на разгром СССР в ходе кампании 1941 года.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%C2%AB%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%BE%D1%81%D1%81%D0%B0%C2%BB"
+   },
+   {
+      "from": "1941-06-22",
+      "till": "1941-12-02",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "Hanko, FIN",
+      "title": "Hanko defensive",
+      "desc": "We defend our Naval base in the city of Hanko against DEU Airforce and Navy",
+      "result": "Our Naval base is evacuated to Leningrad",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BD%D0%BA%D0%BE"
    },
    {
       "from": "1941-06-22",
@@ -445,18 +529,6 @@
    },
    {
       "from": "1941-06-22",
-      "till": "1941-07-20",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Defense of Brest Fortress (BLR)",
-      "desc": "7000 of our troops vs 22000 DEU",
-      "result": "Our losses: ~2K killed, ~4K captured. DEU losses: ~1.4K killed, ~2.2K wounded. Germans think Kamikaze attacks were motivated by fear of firing squad.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8#cite_note-10"
-   },
-   {
-      "from": "1941-06-22",
       "till": "",
       "country": "",
       "province": "",
@@ -492,76 +564,16 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
    },
    {
-      "from": "1941-06-22",
-      "till": "1941-09-30",
+      "from": "1941-06-23",
+      "till": "1941-06-25",
       "country": "",
       "province": "",
       "locality": "",
-      "where": "",
-      "title": "Операция Барбаросса",
-      "desc": "План нападения на СССР. Рассчитан на молниеносную войну",
-      "result": "оперативный — поражение советских войск в приграничных сражениях и отступление вглубь страны при относительно малых потерях вермахта и союзников Германии; стратегический итог — провал стратегии блицкрига, рассчитанной на разгром СССР в ходе кампании 1941 года.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%C2%AB%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%BE%D1%81%D1%81%D0%B0%C2%BB"
-   },
-   {
-      "from": "1941-06-22",
-      "till": "1941-07-06",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "UKR",
-      "title": "Lvov-Chernovtsy defensive",
-      "desc": "Our SW Front's Army and Navy are defending Western UKR, MDA and Black Sea. We lose 16,106 lives a day.",
-      "result": "Lasted 15 days. The front was 600-700km wide. We retreated 300-350km. We lost 19.9% of our troops. We slowed down DEU on route to Kiev and bought time for the main body of our SW Front to retreat and take defense at the old border. Then we carried out mobilization.",
-      "link": ""
-   },
-   {
-      "from": "1941-06-22",
-      "till": "1941-07-09",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "BLR",
-      "title": "Battle of Białystok–Minsk",
-      "desc": "A near-border battle at the central part of the front.",
-      "result": "DEU surrounded and crushed the main body of our Western front.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D1%81%D0%BA%D0%BE-%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5"
-   },
-   {
-      "from": "1941-06-22",
-      "till": "1941-07-09",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "LVA, LTU",
-      "title": "Baltic operation",
-      "desc": "Our Army and Navy are defending LVA, LTU, our North-West regions and the Baltic Sea. We lose 4,916 lives a day.",
-      "result": "DEU defeated us. We slowed down DEU Army Group North. Lasted 18 days. Front was 350-450 km wide. We retreated 400-450 km. We lost 15.1% lives.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
-   },
-   {
-      "from": "1941-06-22",
-      "till": "1941-12-02",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "Hanko, FIN",
-      "title": "Hanko defensive",
-      "desc": "We defend our Naval base in the city of Hanko against DEU Airforce and Navy",
-      "result": "Our Naval base is evacuated to Leningrad",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BD%D0%BA%D0%BE"
-   },
-   {
-      "from": "1941-06-22",
-      "till": "1941-07-09",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Belarusian Defensive",
-      "desc": "Our Western Front together with the Pinsk flotilla. Lives lost a day: 23,210.",
-      "result": "We lose but we have slowed down their advance toward Smolensk (Smolensk Province, РСФСР). Duration: 18 days. Front: 450-800 km wide. Depth of retreat: 450-600 km. Lost lives: 54.4%.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+      "where": "Rovno Province, UKR",
+      "title": "Defending 1 UKR city",
+      "desc": "We are fighting DEU in Dubno",
+      "result": "DEU takes the city. We retreat.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
       "from": "1941-06-23",
@@ -648,18 +660,6 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8"
    },
    {
-      "from": "1941-06-23",
-      "till": "1941-06-25",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "Rovno Province, UKR",
-      "title": "Defending 1 UKR city",
-      "desc": "We are fighting DEU in Dubno",
-      "result": "DEU takes the city. We retreat.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
       "from": "1941-06-24",
       "till": "",
       "country": "",
@@ -672,6 +672,18 @@
       "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1414-24-06-1941"
    },
    {
+      "from": "1941-12-11",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Куба объявляет войну Германии и Италии",
+      "desc": "",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9A%D1%83%D0%B1%D1%8B"
+   },
+   {
       "from": "1941-06-24",
       "till": "",
       "country": "",
@@ -682,6 +694,18 @@
       "desc": "Vilnyus defenders attacked and leave the city.",
       "result": "",
       "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1414-24-06-1941"
+   },
+   {
+      "from": "1941-07-24",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Демонстрация в Гаване",
+      "desc": "40-тысячная демонстрация в поддержку СССР и проведена конференция, принявшая резолюцию о отправке в СССР 40 тысяч мешков сахара, 1 млн. сигар и иной возможной помощи",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9A%D1%83%D0%B1%D1%8B"
    },
    {
       "from": "1941-06-24",
@@ -718,6 +742,18 @@
       "desc": "Our AF fighting FIN. Our goal: destroy DEU and FIN planes in FIN airfields.",
       "result": "DEU & FIN losses: 130 planes. Dubious?",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#1_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._10-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+   },
+   {
+      "from": "1941-06-25",
+      "till": "1944-09-19",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Советско-финская война",
+      "desc": "Finns are on the Axis side. Aim: seize USSR's lands up to Border of the Three Isthmi (Karelian, Olonets and White Sea isthmus)",
+      "result": "Победа СССР. Московское перемирие, Финляндия объявила войну нацистской Германии.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_(1941%E2%80%941944)"
    },
    {
       "from": "1941-06-25",
@@ -840,16 +876,16 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BD%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B8.D1.8E.D0.BD.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._4-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
-      "from": "1941-06-25",
-      "till": "1944-09-19",
+      "from": "1941-06-26",
+      "till": "1941-06-30",
       "country": "",
       "province": "",
       "locality": "",
-      "where": "",
-      "title": "Советско-финская война",
-      "desc": "Finns are on the Axis side. Aim: seize USSR's lands up to Border of the Three Isthmi (Karelian, Olonets and White Sea isthmus)",
-      "result": "Победа СССР. Московское перемирие, Финляндия объявила войну нацистской Германии.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE-%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_(1941%E2%80%941944)"
+      "where": "Minsk Province, BLR",
+      "title": "Minsk fortified area (#63) fighting",
+      "desc": "Our military base at Minsk fortified area (#63). Poorly equipped. Defended by battalions and 3 divisions",
+      "result": "part was surrounded, part left beyond Berezina River",
+      "link": "https://ru.wikipedia.org/wiki/63-%D0%B9_%D1%83%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD"
    },
    {
       "from": "1941-06-26",
@@ -1056,18 +1092,6 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%B8"
    },
    {
-      "from": "1941-06-26",
-      "till": "1941-06-30",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "Minsk Province, BLR",
-      "title": "Minsk fortified area (#63) fighting",
-      "desc": "Our military base at Minsk fortified area (#63). Poorly equipped. Defended by battalions and 3 divisions",
-      "result": "part was surrounded, part left beyond Berezina River",
-      "link": "https://ru.wikipedia.org/wiki/63-%D0%B9_%D1%83%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD"
-   },
-   {
       "from": "1941-06-27",
       "till": "",
       "country": "",
@@ -1189,6 +1213,18 @@
    },
    {
       "from": "1941-06-29",
+      "till": "1941-10-10",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Оборона Заполярья",
+      "desc": "Северный фронт",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%97%D0%B0%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D1%8C%D1%8F"
+   },
+   {
+      "from": "1941-06-29",
       "till": "1941-11-01",
       "country": "",
       "province": "",
@@ -1304,18 +1340,6 @@
       "where": "",
       "title": "Финны вторгаются в СССР",
       "desc": "Финские войска, перейдя государственную границу, начали сухопутную операцию против СССР.",
-      "result": "",
-      "link": ""
-   },
-   {
-      "from": "1941-06-29",
-      "till": "1941-10-10",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Оборона Заполярья",
-      "desc": "Северный фронт",
       "result": "",
       "link": ""
    },
@@ -1453,6 +1477,42 @@
    },
    {
       "from": "1941-07-01",
+      "till": "1941-07-02",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Lvov pogrom",
+      "desc": "by OUN police and citizens",
+      "result": "Nearly 4,000 jews killed",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D1%81%D1%82_%D0%B2%D0%BE_%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%D0%B5"
+   },
+   {
+      "from": "1941-07-01",
+      "till": "1941-07-26",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "MDA",
+      "title": "Defending MDA",
+      "desc": "Our S Front vs DEU and ROU",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D0%B2%D0%B8%D0%B8"
+   },
+   {
+      "from": "1941-07-01",
+      "till": "1944-07-27",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Occupation of Lwow",
+      "desc": "Jews are killed",
+      "result": "Jewish population is reduced from more than 10,000 to less than 300 hiding in the city and in the sewage system.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D1%81%D1%82_%D0%B2%D0%BE_%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%D0%B5"
+   },
+   {
+      "from": "1941-07-01",
       "till": "",
       "country": "",
       "province": "",
@@ -1512,40 +1572,16 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#1_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._10-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
-      "from": "1941-07-01",
-      "till": "1941-07-26",
+      "from": "1941-07-02",
+      "till": "1941-07-16",
       "country": "",
       "province": "",
       "locality": "",
-      "where": "MDA",
-      "title": "Defending MDA",
-      "desc": "Our S Front vs DEU and ROU",
+      "where": "",
+      "title": "BLR, Vitebsk Province",
+      "desc": "Polotsk Defensive",
       "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D0%B2%D0%B8%D0%B8"
-   },
-   {
-      "from": "1941-07-01",
-      "till": "1941-07-02",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Lvov pogrom",
-      "desc": "by OUN police and citizens",
-      "result": "Nearly 4,000 jews killed",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D1%81%D1%82_%D0%B2%D0%BE_%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%D0%B5"
-   },
-   {
-      "from": "1941-07-01",
-      "till": "1944-07-27",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Occupation of Lwow",
-      "desc": "Jews are killed",
-      "result": "Jewish population is reduced from more than 10,000 to less than 300 hiding in the city and in the sewage system.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D1%81%D1%82_%D0%B2%D0%BE_%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%D0%B5"
+      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D1%86%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_(1941)"
    },
    {
       "from": "1941-07-02",
@@ -1621,18 +1657,6 @@
    },
    {
       "from": "1941-07-02",
-      "till": "1941-07-16",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "BLR, Vitebsk Province",
-      "desc": "Polotsk Defensive",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D1%86%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_(1941)"
-   },
-   {
-      "from": "1941-07-02",
       "till": "",
       "country": "",
       "province": "",
@@ -1642,6 +1666,18 @@
       "desc": "План кампании по агрессии против СССР представлен японцами, была проведена скрытая мобилизация в Маньчжурии, а Квантунская армия увеличена вдвое.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
+   },
+   {
+      "from": "1941-07-03",
+      "till": "1941-07-26",
+      "country": "belarus",
+      "province": "mogilyov",
+      "locality": "mogilyov",
+      "where": "",
+      "title": "Осада Могилева",
+      "desc": "боевые действия советских войск в ВОВ в июле 1941 года в районе Могилева (БССР).",
+      "result": "Tactical victory of Germany",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0"
    },
    {
       "from": "1941-07-03",
@@ -1752,18 +1788,6 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#6_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._15-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
-      "from": "1941-07-03",
-      "till": "1941-07-26",
-      "country": "belarus",
-      "province": "mogilyov",
-      "locality": "mogilyov",
-      "where": "",
-      "title": "Осада Могилева",
-      "desc": "боевые действия советских войск в ВОВ в июле 1941 года в районе Могилева (БССР).",
-      "result": "Tactical victory of Germany",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0"
-   },
-   {
       "from": "1941-07-04",
       "till": "",
       "country": "",
@@ -1861,6 +1885,30 @@
    },
    {
       "from": "1941-07-06",
+      "till": "1941-07-09",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "BLR: Lepel counterattack aka Senno Battle",
+      "desc": "We counterattack against Lepel, Vitebsk Province, BLR, trying to stop DEU advancing toward Moscow.",
+      "result": "We lose 832 tanks, DEU wins.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D1%83%D0%B4%D0%B0%D1%80"
+   },
+   {
+      "from": "1941-07-06",
+      "till": "1941-07-10",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "BLR: Vitebsk battle",
+      "desc": "BLR, Vitebsk Province. A tank battle. ",
+      "result": "DEU wins",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#6_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._15-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+   },
+   {
+      "from": "1941-07-06",
       "till": "",
       "country": "",
       "province": "",
@@ -1885,18 +1933,6 @@
    },
    {
       "from": "1941-07-06",
-      "till": "1941-07-10",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "BLR: Vitebsk battle",
-      "desc": "BLR, Vitebsk Province. A tank battle. ",
-      "result": "DEU wins",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#6_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._15-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-07-06",
       "till": "",
       "country": "",
       "province": "",
@@ -1906,18 +1942,6 @@
       "desc": "BLR, Vitebsk Province. We counterattack DEU's flank, advance 50-60 km.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#6_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._15-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-07-06",
-      "till": "1941-07-09",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "BLR: Lepel counterattack aka Senno Battle",
-      "desc": "We counterattack against Lepel, Vitebsk Province, BLR, trying to stop DEU advancing toward Moscow.",
-      "result": "We lose 832 tanks, DEU wins.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D1%83%D0%B4%D0%B0%D1%80"
    },
    {
       "from": "1941-07-06",
@@ -1957,6 +1981,18 @@
    },
    {
       "from": "1941-07-07",
+      "till": "1941-09-26",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "UKR: Kiev Defensive",
+      "desc": "Our South-Western Front is fighting the Germans \"South\" armies.",
+      "result": "Стратегическая победа Германии\n Катастрофическое поражение Юго-Западного фронта. Продолжительность операции — 82 суток. Ширина фронта боевых действий — 300 км. Глубина отхода советских войск — 600 км. Численность войск — 628500 чел. Безвозвратные потери — 616304 (98,0 %). Санитарные — 84240. Всего — 700544. Среднесуточные — 8543.[3]",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1941-07-07",
       "till": "",
       "country": "",
       "province": "",
@@ -1978,18 +2014,6 @@
       "desc": "We fend off German attacks on river Chornogostnitsa. Left flank: they break through our defense.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#7_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._16-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-07-07",
-      "till": "1941-09-26",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "UKR: Kiev Defensive",
-      "desc": "Our South-Western Front is fighting the Germans \"South\" armies.",
-      "result": "Стратегическая победа Германии\n Катастрофическое поражение Юго-Западного фронта. Продолжительность операции — 82 суток. Ширина фронта боевых действий — 300 км. Глубина отхода советских войск — 600 км. Численность войск — 628500 чел. Безвозвратные потери — 616304 (98,0 %). Санитарные — 84240. Всего — 700544. Среднесуточные — 8543.[3]",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
    },
    {
       "from": "1941-07-07",
@@ -2101,6 +2125,18 @@
    },
    {
       "from": "1941-07-09",
+      "till": "1943-12-31",
+      "country": "ukraine",
+      "province": "zhitomir",
+      "locality": "zhitomir",
+      "where": "",
+      "title": "Оккупация Житомира",
+      "desc": "Germans are demolishing and depopulating the city: killing citizens, destroying industrial facilities, dwelling buildings, hospitals, schools, cultural institutions, administrative building, reducing downtown to ruins.",
+      "result": "Уничтожено свыше 110 000 советских граждан",
+      "link": "http://www.calend.ru/event/7223/"
+   },
+   {
+      "from": "1941-07-09",
       "till": "",
       "country": "",
       "province": "",
@@ -2148,28 +2184,16 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#9_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._18-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
-      "from": "1941-07-09",
-      "till": "1943-12-31",
-      "country": "ukraine",
-      "province": "zhitomir",
-      "locality": "zhitomir",
-      "where": "",
-      "title": "Оккупация Житомира",
-      "desc": "Germans are demolishing and depopulating the city: killing citizens, destroying industrial facilities, dwelling buildings, hospitals, schools, cultural institutions, administrative building, reducing downtown to ruins.",
-      "result": "Уничтожено свыше 110 000 советских граждан",
-      "link": "http://www.calend.ru/event/7223/"
-   },
-   {
       "from": "1941-07-10",
-      "till": "",
+      "till": "1941-09-10",
       "country": "",
       "province": "",
       "locality": "",
-      "where": "Mogilev Province, BLR",
-      "title": "> 12K BLR militia",
-      "desc": "Mogilev people's volunteer corps is > 12000 men.",
-      "result": "",
-      "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941"
+      "where": "",
+      "title": "Смоленское сражение",
+      "desc": "Мы обороняемся и наступаем. Ожесточённые бои на огромной территории.",
+      "result": "Тактическая победа Германии Стратегическая победа СССР. Важный этап срыва немецкого блицкрига. Общие потери: фашистов - 101 тыс., наших: 760 тыс.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_(1941)"
    },
    {
       "from": "1941-07-10",
@@ -2179,21 +2203,9 @@
       "locality": "",
       "where": "",
       "title": "Battle of Smolensk",
-      "desc": "РСФСР, Smolensk Prov. Capital",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#4_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._13-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-07-10",
-      "till": "",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "РСФСР: Karelian Province: FIN are advancing north of Lake Ladoga. Our Northern Front is retreating.",
-      "desc": "",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#10_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._19-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+      "desc": "We are fighing DEU on an enormous territory: 600-650 km wide, 200-250km deep.",
+      "result": "DEU wins tactically. We win strategically. We disrupted their blitz-krieg.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_(1941)"
    },
    {
       "from": "1941-07-10",
@@ -2213,23 +2225,35 @@
       "country": "",
       "province": "",
       "locality": "",
+      "where": "Mogilev Province, BLR",
+      "title": "> 12K BLR militia",
+      "desc": "Mogilev people's volunteer corps is > 12000 men.",
+      "result": "",
+      "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1416-26-06-1941"
+   },
+   {
+      "from": "1941-07-10",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
       "where": "",
-      "title": "DEU advancing toward Leningrad",
-      "desc": "DEU is advancing toward Leningrad in the general direction of Novgorod (Novgorod Province, РСФСР)",
+      "title": "РСФСР: Karelian Province: FIN are advancing north of Lake Ladoga. Our Northern Front is retreating.",
+      "desc": "",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#10_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._19-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
       "from": "1941-07-10",
-      "till": "1941-09-10",
+      "till": "",
       "country": "",
       "province": "",
       "locality": "",
       "where": "",
-      "title": "Battle of Smolensk",
-      "desc": "We are fighing DEU on an enormous territory: 600-650 km wide, 200-250km deep.",
-      "result": "DEU wins tactically. We win strategically. We disrupted their blitz-krieg.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_(1941)"
+      "title": "DEU advancing toward Leningrad",
+      "desc": "DEU is advancing toward Leningrad in the general direction of Novgorod (Novgorod Province, РСФСР)",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#10_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._19-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
       "from": "1941-07-10",
@@ -2241,7 +2265,7 @@
       "title": "Battle of Smolensk begins",
       "desc": "DEU advance from Vitebsk Province, BLR, and from Smolensk Province, РСФСР.",
       "result": "",
-      "link": ""
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_(1941)"
    },
    {
       "from": "1941-07-10",
@@ -2266,6 +2290,30 @@
       "desc": "",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#10_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._19-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+   },
+   {
+      "from": "1941-07-11",
+      "till": "1941-07-14",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Germans are shooting Jews caught during round downs.",
+      "desc": "BLR, Vitebsk Province, Vitebsk. Germans are catching Jews everywhere.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%B5%D1%82%D1%82%D0%BE"
+   },
+   {
+      "from": "1941-07-11",
+      "till": "1944-06-26",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Vitebsk Occupation",
+      "desc": "BLR, Vitebsk Province. Germans are killing peaceful citizens, and raiding Jews. They throw the bodies into the Ilovsky pit.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%B5%D1%82%D1%82%D0%BE"
    },
    {
       "from": "1941-07-11",
@@ -2302,30 +2350,6 @@
       "desc": "",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#11_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._20-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-07-11",
-      "till": "1944-06-26",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Vitebsk Occupation",
-      "desc": "BLR, Vitebsk Province. Germans are killing peaceful citizens, and raiding Jews. They throw the bodies into the Ilovsky pit.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%B5%D1%82%D1%82%D0%BE"
-   },
-   {
-      "from": "1941-07-11",
-      "till": "1941-07-14",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Germans are shooting Jews caught during round downs.",
-      "desc": "BLR, Vitebsk Province, Vitebsk. Germans are catching Jews everywhere.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%B5%D1%82%D1%82%D0%BE"
    },
    {
       "from": "1941-07-12",
@@ -2737,6 +2761,30 @@
    },
    {
       "from": "1941-07-16",
+      "till": "1941-08-07",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "РСФСР, Pskov Province",
+      "desc": "Уманская операция войск левого крыла Юго-Западного и правого крыла Южного фронтов",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#16_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._25-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+   },
+   {
+      "from": "1941-07-16",
+      "till": "1941-08-10",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "Cherkassy Province, UKR",
+      "title": "Battle of Uman",
+      "desc": "В ходе наступления группы армий «Юг» вермахта на территории СССР. ",
+      "result": "The battle lead to the entrapment (so called Uman Pocket / уманский котёл) и последующей гибели войск 6-й и 12-й армий Юго-Западного фронта и отдельных частей Южного фронта Красной армии. В окружение попали около 65 тыс. человек, 242 танка. С 1 по 8 августа из окружения вышло до 11 000 человек и 1015 автомашин с боевым имуществом. Acc to Germans, захвачено 103 тыс. пленных, 317 танков и 858 единиц артиллерии.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D0%B4_%D0%A3%D0%BC%D0%B0%D0%BD%D1%8C%D1%8E"
+   },
+   {
+      "from": "1941-07-16",
       "till": "",
       "country": "",
       "province": "",
@@ -2784,6 +2832,18 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#16_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._25-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
+      "from": "1942-02-14",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Подвиг Кузьмина",
+      "desc": "Повторил подвиг Ивана Сусанина. Ему было 1983 г.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B8%D0%BD,_%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B9_%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B8%D1%87"
+   },
+   {
       "from": "1941-07-16",
       "till": "",
       "country": "",
@@ -2792,18 +2852,6 @@
       "where": "",
       "title": "UKR, Kiev Province",
       "desc": "5-я армия нанесла ещё один удар во фланг вражеской группировке из районов Малина и Бородянки. 1-я танковая группа заняла Белую Церковь.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#16_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._25-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-07-16",
-      "till": "1941-08-07",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "РСФСР, Pskov Province",
-      "desc": "Уманская операция войск левого крыла Юго-Западного и правого крыла Южного фронтов",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#16_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._25-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
@@ -2868,18 +2916,6 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#16_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._25-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
-      "from": "1941-07-16",
-      "till": "1941-08-10",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "Cherkassy Province, UKR",
-      "title": "Battle of Uman",
-      "desc": "В ходе наступления группы армий «Юг» вермахта на территории СССР. ",
-      "result": "The battle lead to the entrapment (so called Uman Pocket / уманский котёл) и последующей гибели войск 6-й и 12-й армий Юго-Западного фронта и отдельных частей Южного фронта Красной армии. В окружение попали около 65 тыс. человек, 242 танка. С 1 по 8 августа из окружения вышло до 11 000 человек и 1015 автомашин с боевым имуществом. Acc to Germans, захвачено 103 тыс. пленных, 317 танков и 858 единиц артиллерии.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D0%B4_%D0%A3%D0%BC%D0%B0%D0%BD%D1%8C%D1%8E"
-   },
-   {
       "from": "1941-07-17",
       "till": "",
       "country": "",
@@ -2926,6 +2962,18 @@
       "desc": "1-я танковая группа, прорвавшись в район Белой Церкви и западнее, создала угрозу выхода в тыл 6-й и 12-й армиям Юго-Западного фронта. 17-я немецкая армия прорвалась в стыке Юго-Западного и Южного фронтов на жмеринском направлении. 11-я армия противника, форсировавшая Днестр в районе Могилев-Подольского, угрожала левому флангу нашей 18-й армии.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#17_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._26-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+   },
+   {
+      "from": "1941-07-17",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Подвиг Сиротинина",
+      "desc": "Во время Смоленского сражения, прикрывая отступление своего полка, в одном бою, согласно ряду источников, в одиночку уничтожил 11 танков, 7 бронемашин, 57 солдат и офицеров противника.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%BE%D1%82%D0%B8%D0%BD%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
    },
    {
       "from": "1941-07-17",
@@ -3169,6 +3217,18 @@
    },
    {
       "from": "1941-07-20",
+      "till": "1941-07-25",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Nazis are killing ghetto prisoners",
+      "desc": "BLR. Vitebsk Province. Reason: \"Fighting an epidemic\".",
+      "result": "3000 prisoners are killed",
+      "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%B5%D1%82%D1%82%D0%BE"
+   },
+   {
+      "from": "1941-07-20",
       "till": "",
       "country": "",
       "province": "",
@@ -3189,18 +3249,6 @@
       "title": "Mass execution of Jews by Nazis.",
       "desc": "BLR. Vitebsk Province.",
       "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%B5%D1%82%D1%82%D0%BE"
-   },
-   {
-      "from": "1941-07-20",
-      "till": "1941-07-25",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Nazis are killing ghetto prisoners",
-      "desc": "BLR. Vitebsk Province. Reason: \"Fighting an epidemic\".",
-      "result": "3000 prisoners are killed",
       "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%B5%D1%82%D1%82%D0%BE"
    },
    {
@@ -3253,6 +3301,18 @@
    },
    {
       "from": "1941-07-21",
+      "till": "1941-08-23",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "",
+      "desc": "РСФСР, Pskov Province: The defence of the city of Velikie Luki",
+      "result": "The 33 days of defense. The city is virtually rased to the ground.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#21_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._30-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+   },
+   {
+      "from": "1941-07-21",
       "till": "",
       "country": "",
       "province": "",
@@ -3297,18 +3357,6 @@
       "title": "",
       "desc": "РСФСР, Pskov Province: Войска Западного фронта в результате контрудара освободили город Великие Луки и отбросили соединения 3-й танковой группы к юго-западу. Началась 33-дневная героическая оборона города. | Ставка ВГК приняла решение о нанесении ударов 5 армейскими оперативными группами, созданными на базе 29, 30, 24 и 28-й армий фронта резервных армий, из районов Белого, Ярцева и Рославля по сходящимся направлениям на Смоленск в целях уничтожения смоленской группировки противника.",
       "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#21_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._30-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-07-21",
-      "till": "1941-08-23",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "",
-      "desc": "РСФСР, Pskov Province: The defence of the city of Velikie Luki",
-      "result": "The 33 days of defense. The city is virtually rased to the ground.",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#21_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._30-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
@@ -3421,6 +3469,18 @@
    },
    {
       "from": "1941-07-24",
+      "till": "1941-07-27",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Десант на острова Лункулансаари и Мантсинсаари",
+      "desc": "десантная операция советской Ладожской флотилии в ходе оборонительной операции в Карелии Великой Отечественной войны.",
+      "result": "Гибель десантов",
+      "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%81%D0%B0%D0%BD%D1%82_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%9B%D1%83%D0%BD%D0%BA%D1%83%D0%BB%D0%B0%D0%BD%D1%81%D0%B0%D0%B0%D1%80%D0%B8_%D0%B8_%D0%9C%D0%B0%D0%BD%D1%82%D1%81%D0%B8%D0%BD%D1%81%D0%B0%D0%B0%D1%80%D0%B8"
+   },
+   {
+      "from": "1941-07-24",
       "till": "",
       "country": "",
       "province": "",
@@ -3442,18 +3502,6 @@
       "desc": "Кораблями Ладожской флотилии высажен десант на острове Лункулансари у северо-восточного побережья Ладожского озера, в тылу наступавших финских войск. На следующий день остатки десанта эвакуированы.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#24_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._33-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-07-24",
-      "till": "1941-07-27",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Десант на острова Лункулансаари и Мантсинсаари",
-      "desc": "десантная операция советской Ладожской флотилии в ходе оборонительной операции в Карелии Великой Отечественной войны.",
-      "result": "Гибель десантов",
-      "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%81%D0%B0%D0%BD%D1%82_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%9B%D1%83%D0%BD%D0%BA%D1%83%D0%BB%D0%B0%D0%BD%D1%81%D0%B0%D0%B0%D1%80%D0%B8_%D0%B8_%D0%9C%D0%B0%D0%BD%D1%82%D1%81%D0%B8%D0%BD%D1%81%D0%B0%D0%B0%D1%80%D0%B8"
    },
    {
       "from": "1941-07-24",
@@ -3565,6 +3613,18 @@
    },
    {
       "from": "1941-07-26",
+      "till": "1944-07-28",
+      "country": "belarus",
+      "province": "mogilyov",
+      "locality": "mogilyov",
+      "where": "",
+      "title": "",
+      "desc": "Germans create 5 death camps (including Grebenev, Lupolovo), 341 transit camps, a ghetto near Dubrovenka.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2_%D0%B2_%D0%B3%D0%BE%D0%B4%D1%8B_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B"
+   },
+   {
+      "from": "1941-07-26",
       "till": "",
       "country": "",
       "province": "",
@@ -3597,19 +3657,7 @@
       "title": "",
       "desc": "советские войска оставили Могилёв (см. Оборона Могилёва).",
       "result": "",
-      "link": ""
-   },
-   {
-      "from": "1941-07-26",
-      "till": "1944-07-28",
-      "country": "belarus",
-      "province": "mogilyov",
-      "locality": "mogilyov",
-      "where": "",
-      "title": "",
-      "desc": "Germans create 5 death camps (including Grebenev, Lupolovo), 341 transit camps, a ghetto near Dubrovenka.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2_%D0%B2_%D0%B3%D0%BE%D0%B4%D1%8B_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B"
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0"
    },
    {
       "from": "1941-07-26",
@@ -3637,6 +3685,18 @@
    },
    {
       "from": "1941-07-27",
+      "till": "1941-09-28",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Tiraspol-Melitopol Defensive",
+      "desc": "оборонительная операция Южного фронта на Юге Украины",
+      "result": "Победа стран Оси. Немецко-румынские войска оккупировали территории Одесской, Николаевской, Херсонской областей Украинской ССР, советские войска отошли на линию Перекоп — Мелитополь — Никополь — Запорожье. Численность войск — 280510 чел. Безвозвратные потери — 75424 (26,9 %). Санитарные — 46226. Всего — 121650. Среднесуточные — 1901.[3]",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE-%D0%9C%D0%B5%D0%BB%D0%B8%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1941-07-27",
       "till": "",
       "country": "",
       "province": "",
@@ -3658,18 +3718,6 @@
       "desc": "В течение 27 июля наши войска вели бои с противником на Невельском, Смоленском и Житомирском направлениях.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#27_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._36-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-07-27",
-      "till": "1941-09-28",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Tiraspol-Melitopol Defensive",
-      "desc": "оборонительная операция Южного фронта на Юге Украины",
-      "result": "Победа стран Оси. Немецко-румынские войска оккупировали территории Одесской, Николаевской, Херсонской областей Украинской ССР, советские войска отошли на линию Перекоп — Мелитополь — Никополь — Запорожье. Численность войск — 280510 чел. Безвозвратные потери — 75424 (26,9 %). Санитарные — 46226. Всего — 121650. Среднесуточные — 1901.[3]",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE-%D0%9C%D0%B5%D0%BB%D0%B8%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
    },
    {
       "from": "1941-07-28",
@@ -3817,18 +3865,6 @@
    },
    {
       "from": "1941-08-01",
-      "till": "",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "Brest Province, BLR",
-      "title": "Die-hards in Brest",
-      "desc": "A half-dead defender kills 2 Germans with a knife.",
-      "result": "",
-      "link": ""
-   },
-   {
-      "from": "1941-08-01",
       "till": "1943-12-31",
       "country": "БССР",
       "province": "",
@@ -3838,6 +3874,18 @@
       "desc": "Советских военнопленных содержат в антисанитарных условиях (свирепствует тиф), пытают, морят голодом, расстреливают. ",
       "result": "Погибло более 40 тысяч человек. Известны имена только 389 человек.",
       "link": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85"
+   },
+   {
+      "from": "1941-08-01",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "Brest Province, BLR",
+      "title": "Die-hards in Brest",
+      "desc": "A half-dead defender kills 2 Germans with a knife.",
+      "result": "",
+      "link": ""
    },
    {
       "from": "1941-08-01",
@@ -4105,6 +4153,30 @@
    },
    {
       "from": "1941-08-05",
+      "till": "1941-10-16",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "Odessa Province, UKR",
+      "title": "Odessa Defensive",
+      "desc": "оборона Одессы войсками Приморской армии Г. П. Софронова.",
+      "result": "Плановая эвакуация всех оборонявшихся. В ходе обороны города сравнительно небольшим силам обороняющихся удалось отражать удары значительно превосходящих сил противника. Снабжение города осуществлялось транспортными судами и боевыми кораблями Черноморского флота. Последние также поддерживали оборону огнём своих орудий.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_(1941)"
+   },
+   {
+      "from": "1941-08-05",
+      "till": "1945-07-01",
+      "country": "russia",
+      "province": "krasnodar",
+      "locality": "sochi",
+      "where": "",
+      "title": "Сочи - город-госпиталь",
+      "desc": "Сегодня в Сочи прибыло еще 235 раненых красноармейцев (среднее число). ",
+      "result": "Всего 335 955 раненых побывали в Сочи. Процент выживших в госпиталях Сочи - самый высокий в Советском Союзе.",
+      "link": "http://sochi.scapp.ru/scapp-gorod/sochi-v-gody-vov/"
+   },
+   {
+      "from": "1941-08-05",
       "till": "",
       "country": "",
       "province": "",
@@ -4141,18 +4213,6 @@
    },
    {
       "from": "1941-08-05",
-      "till": "1941-10-16",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "Odessa Province, UKR",
-      "title": "Odessa Defensive",
-      "desc": "оборона Одессы войсками Приморской армии Г. П. Софронова.",
-      "result": "Плановая эвакуация всех оборонявшихся. В ходе обороны города сравнительно небольшим силам обороняющихся удалось отражать удары значительно превосходящих сил противника. Снабжение города осуществлялось транспортными судами и боевыми кораблями Черноморского флота. Последние также поддерживали оборону огнём своих орудий.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_(1941)"
-   },
-   {
-      "from": "1941-08-05",
       "till": "",
       "country": "",
       "province": "",
@@ -4185,18 +4245,6 @@
       "title": "",
       "desc": "В Сочи прибыли первые раненые.",
       "result": "",
-      "link": "http://sochi.scapp.ru/scapp-gorod/sochi-v-gody-vov/"
-   },
-   {
-      "from": "1941-08-05",
-      "till": "1945-07-01",
-      "country": "russia",
-      "province": "krasnodar",
-      "locality": "sochi",
-      "where": "",
-      "title": "Сочи - город-госпиталь",
-      "desc": "Сегодня в Сочи прибыло еще 235 раненых красноармейцев (среднее число). ",
-      "result": "Всего 335 955 раненых побывали в Сочи. Процент выживших в госпиталях Сочи - самый высокий в Советском Союзе.",
       "link": "http://sochi.scapp.ru/scapp-gorod/sochi-v-gody-vov/"
    },
    {
@@ -4621,6 +4669,30 @@
    },
    {
       "from": "1941-08-12",
+      "till": "1941-08-15",
+      "country": "russia",
+      "province": "novgorod",
+      "locality": "v-novgorod",
+      "where": "",
+      "title": "Counterstrike at Staraya Russa",
+      "desc": "боевые действия советских войск Северо-Западного фронта против наступающей на Ленинград группировки немецкой группы армий «Север». ",
+      "result": "контрудар завершился неудачей, однако способствовал отвлечению части сил немецкой группы армий «Север» от наступления на ленинградском направлении.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE%D0%B4_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%A0%D1%83%D1%81%D1%81%D0%BE%D0%B9"
+   },
+   {
+      "from": "1941-08-12",
+      "till": "1941-09-29",
+      "country": "ukraine",
+      "province": "dnepropetrovsk",
+      "locality": "dnepropetrovsk",
+      "where": "",
+      "title": "Dnepropetrovsk defensive",
+      "desc": "",
+      "result": "the city is taken",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0"
+   },
+   {
+      "from": "1941-08-12",
       "till": "",
       "country": "russia",
       "province": "leningrad",
@@ -4645,18 +4717,6 @@
    },
    {
       "from": "1941-08-12",
-      "till": "1941-08-15",
-      "country": "russia",
-      "province": "novgorod",
-      "locality": "v-novgorod",
-      "where": "",
-      "title": "Counterstrike at Staraya Russa",
-      "desc": "боевые действия советских войск Северо-Западного фронта против наступающей на Ленинград группировки немецкой группы армий «Север». ",
-      "result": "контрудар завершился неудачей, однако способствовал отвлечению части сил немецкой группы армий «Север» от наступления на ленинградском направлении.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D1%83%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE%D0%B4_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%A0%D1%83%D1%81%D1%81%D0%BE%D0%B9"
-   },
-   {
-      "from": "1941-08-12",
       "till": "",
       "country": "russia",
       "province": "nikolayev",
@@ -4678,18 +4738,6 @@
       "desc": "В течение ночи на 12 августа наши войска продолжали вести бои с противником на КЕКСГОЛЬМСКОМ, СОЛЬЦСКОМ, СМОЛЕНСКОМ, КОРОСТЕНСКОМ и УМАНСКОМ направлениях.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#12_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._52-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-08-12",
-      "till": "1941-09-29",
-      "country": "ukraine",
-      "province": "dnepropetrovsk",
-      "locality": "dnepropetrovsk",
-      "where": "",
-      "title": "Dnepropetrovsk defensive",
-      "desc": "",
-      "result": "the city is taken",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0"
    },
    {
       "from": "1941-08-13",
@@ -4849,15 +4897,15 @@
    },
    {
       "from": "1941-08-15",
-      "till": "",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "Brest Province, BLR",
-      "title": "Brest Fortress still standing",
-      "desc": "Nazi press publish a photo of soldiers with flamethrowers trying to smoke out Brest Fortress defenders from basements. Half-blind, hungry, thirsty, bleeding,  ",
+      "till": "1944-01-20",
+      "country": "russia",
+      "province": "novgorod",
+      "locality": "v-novgorod",
+      "where": "",
+      "title": "Occupation of Novgorod",
+      "desc": "Germans are raising the city to the ground",
       "result": "",
-      "link": ""
+      "link": "http://expo.novarchiv.org/v-plameni-vojny/72-1-1-okkupacia"
    },
    {
       "from": "1941-08-15",
@@ -4882,6 +4930,18 @@
       "desc": "Региональный (Кривой Рог, УССР) административный, транзитный (пересыльный) и распределительное место и организация для учёта и использования дармовой рабочей силы, выявления противников германской оккупационной власти и геноцида советского народа.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D0%B0%D0%BB%D0%B0%D0%B3_338"
+   },
+   {
+      "from": "1941-08-15",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "Brest Province, BLR",
+      "title": "Brest Fortress still standing",
+      "desc": "Nazi press publish a photo of soldiers with flamethrowers trying to smoke out Brest Fortress defenders from basements. Half-blind, hungry, thirsty, bleeding,  ",
+      "result": "",
+      "link": ""
    },
    {
       "from": "1941-08-15",
@@ -4944,16 +5004,16 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#15_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._55-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
-      "from": "1941-08-15",
-      "till": "1944-01-20",
-      "country": "russia",
-      "province": "novgorod",
-      "locality": "v-novgorod",
+      "from": "1941-08-16",
+      "till": "1944-03-28",
+      "country": "ukraine",
+      "province": "nikolayev",
+      "locality": "nikolayev",
       "where": "",
-      "title": "Occupation of Novgorod",
-      "desc": "Germans are raising the city to the ground",
+      "title": "Occupation of Nikolayev",
+      "desc": "",
       "result": "",
-      "link": "http://expo.novarchiv.org/v-plameni-vojny/72-1-1-okkupacia"
+      "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0#.D0.92.D0.B5.D0.BB.D0.B8.D0.BA.D0.B0.D1.8F_.D0.9E.D1.82.D0.B5.D1.87.D0.B5.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D0.B0.D1.8F_.D0.B2.D0.BE.D0.B9.D0.BD.D0.B0"
    },
    {
       "from": "1941-08-16",
@@ -5040,16 +5100,16 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#16_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._56-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
-      "from": "1941-08-16",
-      "till": "1944-03-28",
-      "country": "ukraine",
-      "province": "nikolayev",
-      "locality": "nikolayev",
+      "from": "1941-08-17",
+      "till": "1944-07-26",
+      "country": "estonia",
+      "province": "",
+      "locality": "narva",
       "where": "",
-      "title": "Occupation of Nikolayev",
+      "title": "Occupation of Narva",
       "desc": "",
       "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0#.D0.92.D0.B5.D0.BB.D0.B8.D0.BA.D0.B0.D1.8F_.D0.9E.D1.82.D0.B5.D1.87.D0.B5.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D0.B0.D1.8F_.D0.B2.D0.BE.D0.B9.D0.BD.D0.B0"
+      "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0#.D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"
    },
    {
       "from": "1941-08-17",
@@ -5074,18 +5134,6 @@
       "desc": "Войска Группы армий «Юг» заняли Николаев. 17 августа начались бои на подступах к Днепропетровску.",
       "result": "",
       "link": ""
-   },
-   {
-      "from": "1941-08-17",
-      "till": "1944-07-26",
-      "country": "estonia",
-      "province": "",
-      "locality": "narva",
-      "where": "",
-      "title": "Occupation of Narva",
-      "desc": "",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0#.D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"
    },
    {
       "from": "1941-08-17",
@@ -5161,18 +5209,6 @@
    },
    {
       "from": "1941-08-19",
-      "till": "",
-      "country": "russia",
-      "province": "novgorod",
-      "locality": "v-novgorod",
-      "where": "",
-      "title": "",
-      "desc": "Советские войска оставили Новгород и отошли за реку Малый Волховец.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#19_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._59-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-08-19",
       "till": "1943-11-26",
       "country": "belarus",
       "province": "gomel",
@@ -5182,6 +5218,30 @@
       "desc": "Germans are demolishing the city.",
       "result": "Nearly 80% of the city is demolished",
       "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C#.D0.A1.D0.BE.D0.B2.D0.B5.D1.82.D1.81.D0.BA.D0.B8.D0.B9_.D0.BF.D0.B5.D1.80.D0.B8.D0.BE.D0.B4"
+   },
+   {
+      "from": "1941-08-19",
+      "till": "1944-03-13",
+      "country": "ukraine",
+      "province": "herson",
+      "locality": "herson",
+      "where": "",
+      "title": "Оккупация Херсона",
+      "desc": "",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD#1918.E2.80.941991"
+   },
+   {
+      "from": "1941-08-19",
+      "till": "",
+      "country": "russia",
+      "province": "novgorod",
+      "locality": "v-novgorod",
+      "where": "",
+      "title": "",
+      "desc": "Советские войска оставили Новгород и отошли за реку Малый Волховец.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#19_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._59-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
       "from": "1941-08-19",
@@ -5221,18 +5281,6 @@
    },
    {
       "from": "1941-08-19",
-      "till": "1944-03-13",
-      "country": "ukraine",
-      "province": "herson",
-      "locality": "herson",
-      "where": "",
-      "title": "Оккупация Херсона",
-      "desc": "",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD#1918.E2.80.941991"
-   },
-   {
-      "from": "1941-08-19",
       "till": "",
       "country": "ukraine",
       "province": "herson",
@@ -5266,6 +5314,18 @@
       "desc": " В течение 19 августа наши войска вели бои с противником на всём фронте, особенно упорные на Кингисеппском, Новгородском, Гомельском и Одесском направлениях.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#19_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._59-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+   },
+   {
+      "from": "1941-08-20",
+      "till": "1944-11-10",
+      "country": "ukraine",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Рейхскомиссариат Украина",
+      "desc": "Административно-территориальная единица в составе нацистской Германии (Третьего рейха) под немецкой администрацией на оккупированной немецкими войсками территории Украинской ССР.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D1%85%D1%81%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B0%D1%82_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0"
    },
    {
       "from": "1941-08-20",
@@ -5326,18 +5386,6 @@
       "desc": "В течение 20 августа наши войска вели упорные бои с противником на Кингисеппском, Новгородском, Старорусском, Гомельском и Одесском направлениях.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#20_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._60-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-08-20",
-      "till": "1944-11-10",
-      "country": "ukraine",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Рейхскомиссариат Украина",
-      "desc": "Административно-территориальная единица в составе нацистской Германии (Третьего рейха) под немецкой администрацией на оккупированной немецкими войсками территории Украинской ССР.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D1%85%D1%81%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B0%D1%82_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0"
    },
    {
       "from": "1941-08-21",
@@ -5545,6 +5593,18 @@
    },
    {
       "from": "1941-08-25",
+      "till": "1941-09-17",
+      "country": "iran",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Иранская операция",
+      "desc": "Также Англо-советское вторжение в Иран. | кодовое наименование — «Операция „Согласие“» (англ. Operation Countenance)) . вооружённый конфликт между Британской империей и её колониями Индией и Австралией и СССР с одной стороны и Шаханшахским Государством Иран с другой стороны. Цель: обеспечение безопасности нефтяных месторождений и налаживания путей снабжения Советского Союза («Персидский коридор»).",
+      "result": "Несмотря на занятое Ираном положение нейтралитета, Реза Пехлеви, считающийся Антигитлеровской коалицией союзником Третьего рейха, свергнут, и титул шахиншаха получил его младший сын Мохаммед.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1941-08-25",
       "till": "",
       "country": "russia",
       "province": "novgorod",
@@ -5590,18 +5650,6 @@
       "desc": "Правительству Ирана вручена нота Советского правительства о вводе советских войск в Иран в связи с широкой антисоветской деятельностью германских агентов и создавшейся угрозой СССР. В тот же день, 25 августа, советские войска вступили в Иран. Одновременно согласно договорённости между правительствами СССР и Англии в южную часть Ирана вошли английские войска.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#25_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._65-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-08-25",
-      "till": "1941-09-17",
-      "country": "iran",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Иранская операция",
-      "desc": "Также Англо-советское вторжение в Иран. | кодовое наименование — «Операция „Согласие“» (англ. Operation Countenance)) . вооружённый конфликт между Британской империей и её колониями Индией и Австралией и СССР с одной стороны и Шаханшахским Государством Иран с другой стороны. Цель: обеспечение безопасности нефтяных месторождений и налаживания путей снабжения Советского Союза («Персидский коридор»).",
-      "result": "Несмотря на занятое Ираном положение нейтралитета, Реза Пехлеви, считающийся Антигитлеровской коалицией союзником Третьего рейха, свергнут, и титул шахиншаха получил его младший сын Мохаммед.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
    },
    {
       "from": "1941-08-25",
@@ -5737,6 +5785,18 @@
    },
    {
       "from": "1941-08-29",
+      "till": "1944-06-20",
+      "country": "russia",
+      "province": "leningrad",
+      "locality": "vyborg",
+      "where": "",
+      "title": "Окуппация Выборга",
+      "desc": "Гитлеровцы превращают город в укрепрайон.",
+      "result": "",
+      "link": "http://vvyborg.ru/vyborg-vo-vtoruyu-mirovuyu-voynu-0"
+   },
+   {
+      "from": "1941-08-29",
       "till": "",
       "country": "russia",
       "province": "leningrad",
@@ -5784,16 +5844,28 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#29_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._69-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
-      "from": "1941-08-29",
-      "till": "1944-06-20",
+      "from": "1941-08-30",
+      "till": "1941-09-08",
       "country": "russia",
-      "province": "leningrad",
-      "locality": "vyborg",
+      "province": "smolensk",
+      "locality": "yelnya",
       "where": "",
-      "title": "Окуппация Выборга",
-      "desc": "Гитлеровцы превращают город в укрепрайон.",
+      "title": "Ельнинская операция",
+      "desc": "наступательная операция РККА. Началась наступлением двух армий (24-й и 43-й) советского Резервного фронта (командующий — генерал армии Г. К. Жуков). ",
       "result": "",
-      "link": "http://vvyborg.ru/vyborg-vo-vtoruyu-mirovuyu-voynu-0"
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#30_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._70-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+   },
+   {
+      "from": "1941-08-30",
+      "till": "1941-09-12",
+      "country": "russia",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Рославльско-Новозыбковская наступательная операция",
+      "desc": "Наступательная операция на рославльском и новозыбковском направлениях — наступательная операция советских войск Брянского фронта с целью разгрома 2-й танковой группы вермахта, составная часть Смоленского сражения Великой Отечественной войны.",
+      "result": "Продвижение войск к концу операции составило до 20-25 километров, но задача по разгрому 2-й танковой группы вермахта решена не была.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C%D1%81%D0%BA%D0%BE-%D0%9D%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B%D0%B1%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
    },
    {
       "from": "1941-08-30",
@@ -5830,30 +5902,6 @@
       "desc": "Войска Резервного и Брянского фронтов перешли в наступление, начав соответственно Ельнинскую и Рославльско-Новозыбковскую наступательные операции.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#30_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._70-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-08-30",
-      "till": "1941-09-08",
-      "country": "russia",
-      "province": "smolensk",
-      "locality": "yelnya",
-      "where": "",
-      "title": "Ельнинская операция",
-      "desc": "наступательная операция РККА. Началась наступлением двух армий (24-й и 43-й) советского Резервного фронта (командующий — генерал армии Г. К. Жуков). ",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#30_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._70-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-08-30",
-      "till": "1941-09-12",
-      "country": "russia",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Рославльско-Новозыбковская наступательная операция",
-      "desc": "Наступательная операция на рославльском и новозыбковском направлениях — наступательная операция советских войск Брянского фронта с целью разгрома 2-й танковой группы вермахта, составная часть Смоленского сражения Великой Отечественной войны.",
-      "result": "Продвижение войск к концу операции составило до 20-25 километров, но задача по разгрому 2-й танковой группы вермахта решена не была.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C%D1%81%D0%BA%D0%BE-%D0%9D%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B%D0%B1%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
    },
    {
       "from": "1941-08-30",
@@ -5917,18 +5965,6 @@
    },
    {
       "from": "1941-09-01",
-      "till": "",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "DEU form Generalbezirk Weißruthenien",
-      "desc": "A province in Reichskommissariat Ostland, a territory of Nazi DEU",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F"
-   },
-   {
-      "from": "1941-09-01",
       "till": "1941-12-31",
       "country": "",
       "province": "",
@@ -5950,6 +5986,18 @@
       "desc": "",
       "result": "10,000 dead (Jews)",
       "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%B5%D1%82%D1%82%D0%BE"
+   },
+   {
+      "from": "1941-09-01",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "DEU form Generalbezirk Weißruthenien",
+      "desc": "A province in Reichskommissariat Ostland, a territory of Nazi DEU",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F"
    },
    {
       "from": "1941-09-01",
@@ -6253,6 +6301,18 @@
    },
    {
       "from": "1941-09-06",
+      "till": "1941-10-22",
+      "country": "estonia",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Моонзундская оборонительная операция",
+      "desc": "14 сентября началась высадка войск противника на остров Муху.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BE%D0%BD%D0%B7%D1%83%D0%BD%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1941-09-06",
       "till": "",
       "country": "russia",
       "province": "moscow",
@@ -6358,18 +6418,6 @@
       "desc": "В течение 6 сентября наши войска вели бои с противником на всём фронте.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#5_.D1.81.D0.B5.D0.BD.D1.82.D1.8F.D0.B1.D1.80.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._76-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-09-06",
-      "till": "1941-10-22",
-      "country": "estonia",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Моонзундская оборонительная операция",
-      "desc": "14 сентября началась высадка войск противника на остров Муху.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BE%D0%BD%D0%B7%D1%83%D0%BD%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
    },
    {
       "from": "1941-09-07",
@@ -6577,6 +6625,18 @@
    },
    {
       "from": "1941-09-10",
+      "till": "1941-09-26",
+      "country": "russia",
+      "province": "leningrad",
+      "locality": "sinyavino",
+      "where": "",
+      "title": "1-я Синявинская операция",
+      "desc": "Наши наступают. Цель: прорвать блокаду Ленинграда. Первая попытка восстановить сухопутную связь Ленинграда с остальной страной.",
+      "result": "Цель не достигнута. Захват плацдарма «Невский пятачок»",
+      "link": "https://ru.wikipedia.org/wiki/1-%D1%8F_%D0%A1%D0%B8%D0%BD%D1%8F%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_(1941)"
+   },
+   {
+      "from": "1941-09-10",
       "till": "",
       "country": "russia",
       "province": "leningrad",
@@ -6584,18 +6644,6 @@
       "where": "",
       "title": "1-я Синявинская операция",
       "desc": "Началась Синявинская наступательная операция 54-й армии и Невской оперативной группы Ленинградского фронта (10—26 сентября) с целью прорыва блокады Ленинграда. 54-я армия перешла в наступление из района Сиголово (80 км к юго-востоку от Ленинграда) в направлении на Мгу. Со стороны Ленинграда перешла в наступление Невская оперативная группа.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/1-%D1%8F_%D0%A1%D0%B8%D0%BD%D1%8F%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_(1941)"
-   },
-   {
-      "from": "1941-09-10",
-      "till": "",
-      "country": "russia",
-      "province": "smolensk",
-      "locality": "",
-      "where": "",
-      "title": "",
-      "desc": "Войска Западного, Резервного и Брянского фронтов, исчерпавшие наступательные возможности, по приказу Ставки перешли к обороне. Завершилось Смоленское сражение. Советские войска нанесли тяжёлый урон группе армий «Центр». Продолжительность сражения — 63 суток. Ширина фронта боевых действий — 600—650 км. Глубина отхода советских войск — 200—250 км. Численность войск — 581600 чел. Безвозвратные потери — 486171 (83,6 %). Санитарные — 273803. Всего — 759974. Среднесуточные — 12063.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/1-%D1%8F_%D0%A1%D0%B8%D0%BD%D1%8F%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_(1941)"
    },
@@ -6633,18 +6681,6 @@
       "title": "Совинформбюро",
       "desc": "В течение 10 сентября наши войска продолжали вести упорные бои с противником на всём фронте.",
       "result": "",
-      "link": "https://ru.wikipedia.org/wiki/1-%D1%8F_%D0%A1%D0%B8%D0%BD%D1%8F%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_(1941)"
-   },
-   {
-      "from": "1941-09-10",
-      "till": "1941-09-26",
-      "country": "russia",
-      "province": "leningrad",
-      "locality": "sinyavino",
-      "where": "",
-      "title": "1-я Синявинская операция (1941)",
-      "desc": "Наступательная операция советских войск 54-й отдельной армии и «Невской оперативной группы» Ленинградского фронта против части сил 16-й немецкой армии группы армий «Север» с целью прорыва блокады Ленинграда.",
-      "result": "Прорвать блокаду Ленинграда сразу же после её образования не удалось. 54-ю армию подчинили штабу Ленинградского фронта, вместо Г. И. Кулика её возглавил М. С. Хозин.",
       "link": "https://ru.wikipedia.org/wiki/1-%D1%8F_%D0%A1%D0%B8%D0%BD%D1%8F%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_(1941)"
    },
    {
@@ -6889,18 +6925,6 @@
    },
    {
       "from": "1941-09-16",
-      "till": "",
-      "country": "russia",
-      "province": "leningrad",
-      "locality": "lomonosov",
-      "where": "",
-      "title": "",
-      "desc": "38-й армейский корпус вышел к Финскому заливу на фронте шириной 4—5 км и отрезал 8-ю армию от основных сил Ленинградского фронта в районе Ораниенбаума. Образовался так называемый Ораниенбаумский плацдарм.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#16_.D1.81.D0.B5.D0.BD.D1.82.D1.8F.D0.B1.D1.80.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._87-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-09-16",
       "till": "1944-01-15",
       "country": "russia",
       "province": "leningrad",
@@ -6910,6 +6934,18 @@
       "desc": "Также известен как Ораниенба́умский пятачо́к, Примо́рский плацда́рм, Таменго́нтская респу́блика, Лебя́жинская респу́блика, Ма́лая земля́) — область на южном побережье Финского залива, отрезана от основных советских сил, и играет значительную роль в обороне Ленинграда.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%D0%BD%D0%B1%D0%B0%D1%83%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BB%D0%B0%D1%86%D0%B4%D0%B0%D1%80%D0%BC"
+   },
+   {
+      "from": "1941-09-16",
+      "till": "",
+      "country": "russia",
+      "province": "leningrad",
+      "locality": "lomonosov",
+      "where": "",
+      "title": "",
+      "desc": "38-й армейский корпус вышел к Финскому заливу на фронте шириной 4—5 км и отрезал 8-ю армию от основных сил Ленинградского фронта в районе Ораниенбаума. Образовался так называемый Ораниенбаумский плацдарм.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#16_.D1.81.D0.B5.D0.BD.D1.82.D1.8F.D0.B1.D1.80.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._87-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
       "from": "1941-09-16",
@@ -7117,6 +7153,18 @@
    },
    {
       "from": "1941-09-19",
+      "till": "1943-09-22",
+      "country": "ukraine",
+      "province": "poltava",
+      "locality": "poltava",
+      "where": "",
+      "title": "Оккупация Полтавы",
+      "desc": "В соответствии с планами колонизации «восточного пространства», по распоряжению немецких оккупационных властей количество школ в городе было сокращено с 37 до 2, а количество учащихся уменьшено с 18259 до 150. В городе действует подпольный обком под руководством С. Ф. Кондратенко.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D0%B0#1918.E2.80.941991"
+   },
+   {
+      "from": "1941-09-19",
       "till": "",
       "country": "",
       "province": "",
@@ -7153,18 +7201,6 @@
    },
    {
       "from": "1941-09-19",
-      "till": "1943-09-22",
-      "country": "ukraine",
-      "province": "poltava",
-      "locality": "poltava",
-      "where": "",
-      "title": "Оккупация Полтавы",
-      "desc": "В соответствии с планами колонизации «восточного пространства», по распоряжению немецких оккупационных властей количество школ в городе было сокращено с 37 до 2, а количество учащихся уменьшено с 18259 до 150. В городе действует подпольный обком под руководством С. Ф. Кондратенко.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D0%B0#1918.E2.80.941991"
-   },
-   {
-      "from": "1941-09-19",
       "till": "",
       "country": "russia",
       "province": "moscow",
@@ -7177,18 +7213,6 @@
    },
    {
       "from": "1941-09-20",
-      "till": "",
-      "country": "russia",
-      "province": "leningrad",
-      "locality": "dubrovka",
-      "where": "",
-      "title": "",
-      "desc": "В ночь с 19 на 20 сентября началась операция по деблокаде Ленинграда со стороны Ленинградского фронта. Переправившиеся через Неву части 115-й стрелковой дивизии захватили плацдарм в районе Дубровки, прозванный вскоре «невский пятачок»).",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#20_.D1.81.D0.B5.D0.BD.D1.82.D1.8F.D0.B1.D1.80.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._91-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-09-20",
       "till": "1942-04-29",
       "country": "russia",
       "province": "leningrad",
@@ -7198,6 +7222,18 @@
       "desc": "Плацдарм на левом (восточном) берегу Невы напротив Невской Дубровки, захваченного и удерживаемого советскими войсками Ленинградского фронта в ходе битвы за Ленинград.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%8F%D1%82%D0%B0%D1%87%D0%BE%D0%BA"
+   },
+   {
+      "from": "1941-09-20",
+      "till": "",
+      "country": "russia",
+      "province": "leningrad",
+      "locality": "dubrovka",
+      "where": "",
+      "title": "",
+      "desc": "В ночь с 19 на 20 сентября началась операция по деблокаде Ленинграда со стороны Ленинградского фронта. Переправившиеся через Неву части 115-й стрелковой дивизии захватили плацдарм в районе Дубровки, прозванный вскоре «невский пятачок»).",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#20_.D1.81.D0.B5.D0.BD.D1.82.D1.8F.D0.B1.D1.80.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._91-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
       "from": "1941-09-20",
@@ -7621,18 +7657,6 @@
    },
    {
       "from": "1941-09-30",
-      "till": "1942-04-20",
-      "country": "russia",
-      "province": "moscow",
-      "locality": "moscow",
-      "where": "",
-      "title": "Битва за Москву",
-      "desc": "Боевые действия советских и немецких войск на московском направлении. :: Адольф Гитлер рассматривает взятие Москвы, столицы СССР и самого большого советского города, как одну из главных военных и политических целей операции «Барбаросса». В германской и западной военной истории битва известна как «Операция Тайфун».",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#30_.D1.81.D0.B5.D0.BD.D1.82.D1.8F.D0.B1.D1.80.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._101-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-   },
-   {
-      "from": "1941-09-30",
       "till": "1941-10-23",
       "country": "russia",
       "province": "bryansk",
@@ -7642,6 +7666,18 @@
       "desc": "Оборонительная операция советских войск, являющаяся частью Московской стратегической оборонительной операции. В ходе операции части Красной армии были окружены превосходящими силами противника, однако остановили продвижение 2-й танковой группы Гудериана (с 6 октября — 2-й танковой армии) и нанесли врагу тяжёлые потери. Затем, уцелевшие части прорвали окружение и заняли оборонительные рубежи.",
       "result": "Стратегическая победа Германии. Катастрофа РККА под Вязьмой и Рославлем",
       "link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE-%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1941-09-30",
+      "till": "1942-04-20",
+      "country": "russia",
+      "province": "moscow",
+      "locality": "moscow",
+      "where": "",
+      "title": "Битва за Москву",
+      "desc": "Боевые действия советских и немецких войск на московском направлении. :: Адольф Гитлер рассматривает взятие Москвы, столицы СССР и самого большого советского города, как одну из главных военных и политических целей операции «Барбаросса». В германской и западной военной истории битва известна как «Операция Тайфун».",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#30_.D1.81.D0.B5.D0.BD.D1.82.D1.8F.D0.B1.D1.80.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._101-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
    },
    {
       "from": "1941-09-30",
@@ -7681,6 +7717,18 @@
    },
    {
       "from": "1941-10-01",
+      "till": "1941-10-29",
+      "country": "russia",
+      "province": "kharkov",
+      "locality": "kharkov",
+      "where": "",
+      "title": "Харьковская операция (1941)",
+      "desc": "Сражение между Красной армией и вермахтом за контроль над Харьковским промышленным районом.",
+      "result": "Немецким войскам удалось захватить город, однако к этому времени практически все важнейшие промышленные предприятия были либо эвакуированы, либо уничтожены.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_(1941)"
+   },
+   {
+      "from": "1941-10-01",
       "till": "1941-11-13",
       "country": "",
       "province": "",
@@ -7693,15 +7741,15 @@
    },
    {
       "from": "1941-10-01",
-      "till": "1941-10-29",
-      "country": "russia",
-      "province": "kharkov",
-      "locality": "kharkov",
+      "till": "1944-08-31",
+      "country": "",
+      "province": "",
+      "locality": "",
       "where": "",
-      "title": "Харьковская операция (1941)",
-      "desc": "Сражение между Красной армией и вермахтом за контроль над Харьковским промышленным районом.",
-      "result": "Немецким войскам удалось захватить город, однако к этому времени практически все важнейшие промышленные предприятия были либо эвакуированы, либо уничтожены.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_(1941)"
+      "title": "Саласпилсский концлагерь",
+      "desc": "Са́ласпилс (концлагерь «Куртенгоф») — концентрационный лагерь в Латвии. В нём содержат детей, которых используют для отбора крови для раненых немецких солдат, вследствие чего дети быстро погибают.",
+      "result": "Было убито свыше 100 тысяч человек, в том числе 7 тысяч детей и помимо граждан СССР, также Чехословакии, Польши, Австрии, Нидерландов, Франции и др.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B0%D1%81%D0%BF%D0%B8%D0%BB%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%86%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C"
    },
    {
       "from": "1941-10-02",
@@ -7801,6 +7849,18 @@
    },
    {
       "from": "1941-12-26",
+      "till": "1942-02-02",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "Crimea, РСФСР",
+      "title": "Керченско-Феодосийская десантная операция",
+      "desc": "Цель: овладеть керченским полуостровом",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%BE-%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1941-12-26",
       "till": "",
       "country": "",
       "province": "",
@@ -7810,18 +7870,6 @@
       "desc": "повышены до 350 граммов рабочим и до 200 граммов остальным жителям города (при этом до 60% хлеба составляли практически несъедобные примеси, добавлявшиеся вместо муки). Все остальные продукты почти перестали выдаваться.",
       "result": "",
       "link": "http://leningradpobeda.ru/vojjna-jazykom-tsifr/"
-   },
-   {
-      "from": "1941-12-26",
-      "till": "1942-05-20",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "Crimea, РСФСР",
-      "title": "Керченско-Феодосийская десантная операция",
-      "desc": "Крымский фронт",
-      "result": "",
-      "link": ""
    },
    {
       "from": "1941-12-28",
@@ -7896,6 +7944,18 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D1%8F_(%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)"
    },
    {
+      "from": "1942-01-05",
+      "till": "1943-03-21",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Ржевская битва",
+      "desc": "Цель: нанести поражение основным силам немецкой группы армий «Центр», освободить города Ржев, Сычёвку, Вязьму и тем самым ликвидировать Ржевско-Вяземский выступ.",
+      "result": "Победа СССР",
+      "link": ""
+   },
+   {
       "from": "1942-01-07",
       "till": "1942-04-30",
       "country": "",
@@ -7918,6 +7978,18 @@
       "desc": "Северо-Западный фронт",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_(1942)"
+   },
+   {
+      "from": "1942-01-08",
+      "till": "1942-04-20",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Ржевско-Вяземская стратегическая наступательная операция",
+      "desc": "Продолжение советского контрнаступления под Москвой.",
+      "result": "Незавершённая наступательная операция СССР",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%BE-%D0%92%D1%8F%D0%B7%D0%B5%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
    },
    {
       "from": "1942-01-15",
@@ -7953,7 +8025,7 @@
       "title": "Немцы в демянском котле",
       "desc": "основные силы 2-го армейского корпуса 16-й немецкой армии группы армий «Север»",
       "result": "",
-      "link": ""
+      "link": "https://ru.wikipedia.org/wiki/Ржевская_битва"
    },
    {
       "from": "1942-03-01",
@@ -8713,18 +8785,6 @@
    },
    {
       "from": "1942-08-09",
-      "till": "",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "В Ленинграде играет Шостакович",
-      "desc": "90 минут по радио звучала «Седьмая Ленинградская симфония» Дмитрия Шостаковича. Это были минуты полного затишья: не стреляла ни одна вражеская батарея, не прорвался к городу ни один немецкий самолет.",
-      "result": "",
-      "link": ""
-   },
-   {
-      "from": "1942-08-09",
       "till": "1943-02-12",
       "country": "russia",
       "province": "krasnodar",
@@ -8736,16 +8796,16 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80#.D0.A1.D0.BE.D0.B2.D0.B5.D1.82.D1.81.D0.BA.D0.B8.D0.B9_.D0.BF.D0.B5.D1.80.D0.B8.D0.BE.D0.B4"
    },
    {
-      "from": "1942-09-01",
-      "till": "1943-01-11",
+      "from": "1942-08-09",
+      "till": "",
       "country": "",
       "province": "",
       "locality": "",
-      "where": "г. Краснодон  Ворошиловградской области Украинской ССР",
-      "title": "Молодая гвардия",
-      "desc": "Около 110 юношей и девушек (самому младшему 14 лет)",
+      "where": "",
+      "title": "В Ленинграде играет Шостакович",
+      "desc": "90 минут по радио звучала «Седьмая Ленинградская симфония» Дмитрия Шостаковича. Это были минуты полного затишья: не стреляла ни одна вражеская батарея, не прорвался к городу ни один немецкий самолет.",
       "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D1%8F_(%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)"
+      "link": ""
    },
    {
       "from": "1942-09-01",
@@ -8758,6 +8818,18 @@
       "desc": "... ленинградцев в среднем умирают в день. Примерно 10 человек в час.",
       "result": "7 тыс человек умерли в сентябре.",
       "link": "http://leningradpobeda.ru/vojjna-jazykom-tsifr/"
+   },
+   {
+      "from": "1942-09-01",
+      "till": "1943-01-11",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "г. Краснодон  Ворошиловградской области Украинской ССР",
+      "title": "Молодая гвардия",
+      "desc": "Около 110 юношей и девушек (самому младшему 14 лет)",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D1%8F_(%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)"
    },
    {
       "from": "1942-09-02",
@@ -8785,6 +8857,18 @@
    },
    {
       "from": "1942-09-25",
+      "till": "1942-12-20",
+      "country": "russia",
+      "province": "krasnodar",
+      "locality": "tuapse",
+      "where": "",
+      "title": "Туапсинская операция",
+      "desc": "Оборонительная операция Черноморской группы войск Закавказского фронта.",
+      "result": "Сорвана попытка прорыва немецко-фашистских войск к Туапсе, блокированию Военно-Грузинской дороги и прорыву к Каспийскому морю.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%B0%D0%BF%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1942-09-25",
       "till": "",
       "country": "russia",
       "province": "krasnodar",
@@ -8796,16 +8880,16 @@
       "link": "http://inet-sochi.ru/history/?year=1942&domain=6"
    },
    {
-      "from": "1942-09-25",
-      "till": "1942-12-20",
-      "country": "russia",
-      "province": "krasnodar",
-      "locality": "tuapse",
+      "from": "1942-10-14",
+      "till": "1949-09-03",
+      "country": "",
+      "province": "",
+      "locality": "",
       "where": "",
-      "title": "Туапсинская операция",
-      "desc": "Оборонительная операция Черноморской группы войск Закавказского фронта.",
-      "result": "Сорвана попытка прорыва немецко-фашистских войск к Туапсе, блокированию Военно-Грузинской дороги и прорыву к Каспийскому морю.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%B0%D0%BF%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+      "title": "УПА",
+      "desc": "Украинская повстанческая армия - подпольная украинская военная организация времён Второй мировой войны, вооружённое крыло Организации украинских националистов",
+      "result": "",
+      "link": ""
    },
    {
       "from": "1942-11-07",
@@ -8838,22 +8922,10 @@
       "province": "",
       "locality": "",
       "where": "Berlin, DEU.",
-      "title": " Смоленское воззвание",
+      "title": "Смоленское воззвание",
       "desc": "Андрей Власов и Василий Малышкин, как руководители «Русского освободительного комитета», расположенного в Смоленске, подписывают воззвание к советскому народу на \"борьбу против большевизма\"",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
-   },
-   {
-      "from": "1942-12-27",
-      "till": "",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Смоленская декларация",
-      "desc": "Власов и Баерский предлагают фашистам организовать РОА.",
-      "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F"
    },
    {
       "from": "1942-12-27",
@@ -8864,6 +8936,18 @@
       "where": "",
       "title": "\"Русская освободительная армия\"",
       "desc": "Русская освободительная армия - вооружённые силы Комитета освобождения народов России, а также совокупность большинства русских антисоветских частей и подразделений из русских коллаборационистов в составе Вермахта. Преимущественно используется на уровне отдельных батальонов и рот, и сформированных различными немецкими военными структурами.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F"
+   },
+   {
+      "from": "1942-12-27",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Смоленская декларация",
+      "desc": "Власов и Баерский предлагают фашистам организовать РОА.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F"
    },
@@ -8953,6 +9037,18 @@
    },
    {
       "from": "1943-02-09",
+      "till": "1943-05-24",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Краснодарская операция.",
+      "desc": "Северо-Кавказский фронт",
+      "result": "",
+      "link": ""
+   },
+   {
+      "from": "1943-02-09",
       "till": "",
       "country": "",
       "province": "",
@@ -8976,18 +9072,6 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%88%D0%B5%D0%B2%D0%BE%D0%B9,_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
    },
    {
-      "from": "1943-02-09",
-      "till": "1943-05-24",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Краснодарская операция.",
-      "desc": "Северо-Кавказский фронт",
-      "result": "",
-      "link": ""
-   },
-   {
       "from": "1943-02-14",
       "till": "",
       "country": "",
@@ -9006,7 +9090,7 @@
       "province": "",
       "locality": "",
       "where": "",
-      "title": "Alexander Matrosov dies a hero",
+      "title": "Подвиг Александра Матросова",
       "desc": "Alexander Matrosov dies blocking a German machine-gun in a concrete pillbox with his body.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%80%D0%BE%D1%81%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B5%D0%B2%D0%B8%D1%87"
@@ -9019,9 +9103,21 @@
       "locality": "",
       "where": "",
       "title": "Похороны молодогвардейцев",
-      "desc": "с воинскими почестями были захоронены в братской могиле в парке имени Комсомола, в самом центре города Краснодона",
+      "desc": "Погиб в 19 лет, закрыв своей грудью амбразуру немецкого дзота, дав возможность бойцам своего взвода совершить атаку опорного пункта",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D1%8F_(%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)"
+   },
+   {
+      "from": "1943-03-05",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Фашисты отступают",
+      "desc": "9-я армия вермахта отступила с Ржевско-Вяземского выступа.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/Ржевская_битва"
    },
    {
       "from": "1943-03-22",
@@ -9324,6 +9420,30 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
    },
    {
+      "from": "1944-04-11",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Последний вылет Мамкина",
+      "desc": "Лётчик Александр Мамкин эвакуировал на Большую землю 13 человек - 10 детей и 3 взрослых.",
+      "result": "Все пассажиры остались живы",
+      "link": ""
+   },
+   {
+      "from": "1944-04-17",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Мамкин умер",
+      "desc": "Александр Мамкин ушёл на фронт добровольцем. Совершил более 70 ночных  полётов в тыл противника к партизанам. Доставил более 20000 кг боеприпасов и вывез 280 раненых.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BC%D0%BA%D0%B8%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+   },
+   {
       "from": "1944-05-31",
       "till": "",
       "country": "",
@@ -9332,30 +9452,6 @@
       "where": "",
       "title": "4-й Украинский фронт расформирован",
       "desc": "",
-      "result": "",
-      "link": ""
-   },
-   {
-      "from": "1944-06-06",
-      "till": "1945-05-09",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Второй (Западный) фронт",
-      "desc": "Союзники помогают СССР громить Гитлера",
-      "result": "",
-      "link": ""
-   },
-   {
-      "from": "1944-06-06",
-      "till": "",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "День Д, высадка в Нормандии",
-      "desc": "Бельгия, БИ, Греция, Нидерланды, Польша,  США, Франция, Чехословакия.",
       "result": "",
       "link": ""
    },
@@ -9384,16 +9480,28 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
    },
    {
-      "from": "1944-06-10",
+      "from": "1944-06-06",
+      "till": "1945-05-09",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Второй (Западный) фронт",
+      "desc": "Союзники помогают СССР громить Гитлера",
+      "result": "",
+      "link": ""
+   },
+   {
+      "from": "1944-06-06",
       "till": "",
       "country": "",
       "province": "",
       "locality": "",
       "where": "",
-      "title": "Массовое убийство в Орадур-сюр-Глан",
-      "desc": "Рота «Ваффен-СС» разрушила деревню Орадур-сюр-Глан в департаменте Верхняя Вьенна в оккупированной нацистами части Франции и истребила 642 жителя деревни, в том числе женщин и детей.",
+      "title": "День Д, высадка в Нормандии",
+      "desc": "Бельгия, БИ, Греция, Нидерланды, Польша,  США, Франция, Чехословакия.",
       "result": "",
-      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%B5_%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0%9E%D1%80%D0%B0%D0%B4%D1%83%D1%80-%D1%81%D1%8E%D1%80-%D0%93%D0%BB%D0%B0%D0%BD"
+      "link": ""
    },
    {
       "from": "1944-06-10",
@@ -9406,6 +9514,18 @@
       "desc": "Карельский фронт и Ленинградский фронт. Наступление советских войск в Карелии, в ходе Советско-финской войны 1941—1944 с целью ликвидации угрозы Ленинграду, идущим из Мурманска в центральные районы СССР коммуникациям, а также выведение Финляндии из войны",
       "result": "Победа СССР. Финляндия выходит из войны.",
       "link": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%BE-%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1944-06-10",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Массовое убийство в Орадур-сюр-Глан",
+      "desc": "Рота «Ваффен-СС» разрушила деревню Орадур-сюр-Глан в департаменте Верхняя Вьенна в оккупированной нацистами части Франции и истребила 642 жителя деревни, в том числе женщин и детей.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%B5_%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0%9E%D1%80%D0%B0%D0%B4%D1%83%D1%80-%D1%81%D1%8E%D1%80-%D0%93%D0%BB%D0%B0%D0%BD"
    },
    {
       "from": "1944-06-11",
@@ -9505,18 +9625,6 @@
    },
    {
       "from": "1944-06-19",
-      "till": "",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Civillians rebuild and fund equipment",
-      "desc": "Kursk oblast: restored and rebuilt farmers homes: 2,000. Restored all cultural and educational institutions. Personal savings spent to build army equipment: 2,381,144 Rubles.",
-      "result": "",
-      "link": "http://thefireofthewar.ru/1418/index.php/1944/iyun/2459-19-06-1944"
-   },
-   {
-      "from": "1944-06-19",
       "till": "1944-06-29",
       "country": "",
       "province": "",
@@ -9524,6 +9632,18 @@
       "where": "",
       "title": "Railroad War III",
       "desc": "Last 3rd stage of the Railroad War by Belarusian partisans.",
+      "result": "",
+      "link": "http://thefireofthewar.ru/1418/index.php/1944/iyun/2459-19-06-1944"
+   },
+   {
+      "from": "1944-06-19",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Civillians rebuild and fund equipment",
+      "desc": "Kursk oblast: restored and rebuilt farmers homes: 2,000. Restored all cultural and educational institutions. Personal savings spent to build army equipment: 2,381,144 Rubles.",
       "result": "",
       "link": "http://thefireofthewar.ru/1418/index.php/1944/iyun/2459-19-06-1944"
    },
@@ -9577,18 +9697,6 @@
    },
    {
       "from": "1944-06-23",
-      "till": "1944-06-29",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "Бобруйская операция",
-      "desc": "1-й Белорусский фронт",
-      "result": "Победа СССР. Создание РККА условий для быстрого наступления на Минск и Барановичи.",
-      "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
-   },
-   {
-      "from": "1944-06-23",
       "till": "1944-06-28",
       "country": "",
       "province": "",
@@ -9598,6 +9706,18 @@
       "desc": "1-й Прибалтийский фронт, 3-й Белорусский фронт",
       "result": "",
       "link": ""
+   },
+   {
+      "from": "1944-06-23",
+      "till": "1944-06-29",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Бобруйская операция",
+      "desc": "1-й Белорусский фронт",
+      "result": "Победа СССР. Создание РККА условий для быстрого наступления на Минск и Барановичи.",
+      "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
    },
    {
       "from": "1944-06-23",
@@ -9732,6 +9852,18 @@
       "link": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F"
    },
    {
+      "from": "1945-01-30",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Гибель Энрике Вилара",
+      "desc": "Кубинский интернационалист, воспитанник советского детского дома, солдат и офицер РККА. Геройски погиб в 19 лет.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D0%B0%D1%80%2C_%D0%AD%D0%BD%D1%80%D0%B8%D0%BA%D0%B5"
+   },
+   {
       "from": "1945-02-09",
       "till": "",
       "country": "",
@@ -9798,22 +9930,10 @@
       "province": "",
       "locality": "",
       "where": "",
-      "title": "????????????-????????? ?????????????? ????????",
-      "desc": "2-? ?????????? ?????",
-      "result": "",
+      "title": "Братиславско-Брновская наступательная операция",
+      "desc": "Мы наступаем. Цель: освобождение Словакии и овладение Братиславским и Брненским промышленными районами",
+      "result": "Победа Красной Армии",
       "link": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE-%D0%91%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
-   },
-   {
-      "from": "1945-04-05",
-      "till": "1945-05-20",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "?????????? ????????? ?? ??????? ??????",
-      "desc": "????????? ??????????? ????????? ???????? (822-? ???????? ???????? �K�nigin Tamara�; �?????? ??????�) ?? ??????? ??????????? ??????? ?? ??????? ?????? ???????-???????? ????? (?????????) ?? ????? ?????? ??????? ?????.",
-      "result": "",
-      "link": ""
    },
    {
       "from": "1945-04-16",
@@ -9822,10 +9942,22 @@
       "province": "",
       "locality": "",
       "where": "",
-      "title": "?????????? ?????????????? ????????",
-      "desc": "2-? ??????????? ?????, 1-? ?????????? ?????",
-      "result": "",
+      "title": "Берлинская наступательная операция",
+      "desc": "Цель: сорвать планы гитлеровского руководства на затягивание войны.",
+      "result": "Красная армия разгромила Берлинскую группировку немецких войск и заняла столицу Германии г. Берлин. Победа СССР. Победа антигитлеровской коалиции в Европе.",
       "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+   },
+   {
+      "from": "1945-04-30",
+      "till": "",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%A2%D0%B8%D1%80%D0%B3%D0%B0%D1%80%D1%82%D0%B5%D0%BD",
+      "title": "Подвиг Масалова",
+      "desc": "Рискуя жизнью, вытащил трёхлетнюю немецкую девочку из переднего края перед атакой. Этот подвиг лёг в основу сюжета известного монумента Воина-освободителя в Трептов-парке.",
+      "result": "",
+      "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%B0%D0%BB%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87"
    },
    {
       "from": "1945-05-06",
@@ -9848,18 +9980,6 @@
       "where": "",
       "title": "Фашисты капитулируют",
       "desc": "Hitlerites signed an unconditional surrender at Allied headquarters in Reims, France, to take effect the following day, ending the European conflict of World War II.",
-      "result": "",
-      "link": ""
-   },
-   {
-      "from": "1945-05-08",
-      "till": "",
-      "country": "",
-      "province": "",
-      "locality": "",
-      "where": "",
-      "title": "??????????? ??????????? ??????????",
-      "desc": "??????: 3-? ??????????? ????? ? ?????? ????? ???? ?????, ????????? ??????? ? ?? ???? ????????-?????? ??????-????????? ?????",
       "result": "",
       "link": ""
    },
@@ -10102,5 +10222,17 @@
       "desc": "Немецкие войска захватили Пушкин. 1-я танковая дивизия противника вышла к конечной остановке ленинградского трамвая в 12 км от центра города. 17 сентября соединения 4-й танковой группы снимаются с фронта и отправляются в тыл. Фронт покидают 41-й моторизованный корпус вместе со штабом 4-й танковой группы.",
       "result": "",
       "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#17_.D1.81.D0.B5.D0.BD.D1.82.D1.8F.D0.B1.D1.80.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._88-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+   },
+   {
+      "from": "1945-04-05",
+      "till": "1945-05-20",
+      "country": "",
+      "province": "",
+      "locality": "",
+      "where": "",
+      "title": "Грузинское восстание на острове Тексел",
+      "desc": "Восстание набранного из советских военнопленных 822-го грузинского пехотного батальона Вермахта («Königin Tamara» / «Царица Тамара») из состава Грузинского легиона на острове Тексел Западно-Фризской гряды (Нидерланды)",
+      "result": "Подавление восстания и последующая капитуляция немецких войск перед канадскими войсками",
+      "link": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B5_%D0%A2%D0%B5%D0%BA%D1%81%D0%B5%D0%BB"
    }
 ]
