@@ -56,15 +56,15 @@ scope10.renderDate = function (todaysDate, phraseid) {
 
     var $eventheader = $('<div>').attr('class', 'event-header');
 
-    var $country = $('<span>').attr('class', 'coa ' + todaysDate["country"]).attr('title', todaysDate["country"]);
-    var $province = $('<span>').attr('class', 'coa p-' + todaysDate["province"]).attr('title', todaysDate["province"]);
-    var $locality = $('<span>').attr('class', 'coa l-' + todaysDate["locality"]).attr('title', todaysDate["locality"]);    
+    // var $country = $('<span>').attr('class', 'coa ' + todaysDate["country"]).attr('title', todaysDate["country"]);
+    // var $province = $('<span>').attr('class', 'coa p-' + todaysDate["province"]).attr('title', todaysDate["province"]);
+    // var $locality = $('<span>').attr('class', 'coa l-' + todaysDate["locality"]).attr('title', todaysDate["locality"]);    
 
     $eventheader.append($progress);
 
-    $eventheader.append($country);
-    $eventheader.append($province);
-    $eventheader.append($locality);
+    // $eventheader.append($country);
+    // $eventheader.append($province);
+    // $eventheader.append($locality);
 
     // $datecontainer.append($where);
 
