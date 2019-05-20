@@ -12,9 +12,10 @@ body {
   flex-direction: row; }
 
 #todays_date {
-  background: white;
+  background: #333;
+  color: #fff;
   opacity: 0.8;
-  padding: .2em 0;
+  padding: .2em 0.5em;
   position: fixed;
   width: 100%;
   z-index: 1;
@@ -30,22 +31,24 @@ body {
   #tabs .tab {
     padding: 0.3em; }
     #tabs .tab.active {
-      color: red; }
+      color: #fff;
+      background-color: #333; }
+  #tabs a, #tabs h3 {
+    color: #637189;
+    margin: 0;
+    padding-left: 1em;
+    padding-top: .5em;
+    font-family: 'Open Sans Condensed', sans-serif;
+    /* turn */
+    /*float: left;*/
+    /*transform-origin: bottom right;*/
+    /*transform: rotate(-90deg);*/ }
+    #tabs a:hover, #tabs h3:hover {
+      color: blue;
+      background-color: #f2f2f2;
+      text-decoration: underline; }
 
 /*.new-year {*/
-#tabs a, h3 {
-  color: #637189;
-  font-size: 1.5em;
-  margin: 0;
-  background-color: black;
-  padding-left: 1em;
-  padding-top: .5em;
-  font-family: 'Frijole', cursive;
-  /* turn */
-  /*float: left;*/
-  /*transform-origin: bottom right;*/
-  /*transform: rotate(-90deg);*/ }
-
 #close_all {
   margin-left: 14em;
   margin-bottom: .5em; }
