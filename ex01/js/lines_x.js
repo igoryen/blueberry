@@ -3,6 +3,66 @@ scope.stories = {
     "lines" : 
     [
        {
+          "from": "1934-07-10",
+          "till": "1946-03-15",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "НКВД",
+          "desc": "Центральный орган гос. управления СССР по борьбе с преступностью и поддержанию общественного порядка, и государственной безопасности.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B0%D1%82_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D1%85_%D0%B4%D0%B5%D0%BB_%D0%A1%D0%A1%D0%A1%D0%A0"
+       },
+       {
+          "from": "1937-07-30",
+          "till": "1938-11-17",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Ежо́вщина",
+          "desc": "Массовые политические репрессии.",
+          "result": "Погибло: по Земскову - 681 692 человека. Членов ЦК ВКП(б) - 78%.",
+          "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80"
+       },
+       {
+          "from": "1939-04-10",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Арест Ежова",
+          "desc": "Обвинение: подготовка путча.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%95%D0%B6%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87#%D0%90%D1%80%D0%B5%D1%81%D1%82_%D0%B8_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D1%8C"
+       },
+       {
+          "from": "1939-09-01",
+          "till": "1945-09-02",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Вторая мировая война",
+          "desc": "Крупнейший вооружённый конфликт в истории человечества с участием 80% населения Земного шара. Боевые действия - на территории Европы, Азии и Африки и в водах всех океанов.",
+          "result": "Победа антигитлеровской коалиции и разгром Третьего Рейха. Погибли 55 млн человек (около 26,6 млн из них — граждане СССР). Разрушено более 10 000 городов, деревень, сёл.",
+          "link": "https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
+       },
+       {
+          "from": "1940-02-03",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Ежов расстрелян.",
+          "desc": "СМИ не осветили арест и расстрел.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%95%D0%B6%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87#%D0%90%D1%80%D0%B5%D1%81%D1%82_%D0%B8_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D1%8C"
+       },
+       {
           "from": "1941-03-13",
           "till": "1941-03-14",
           "country": "",
@@ -567,6 +627,18 @@ scope.stories = {
           "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
        },
        {
+          "from": "1941-06-22",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Валя Зенкина, пионер-герой",
+          "desc": "14 лет. Помогает защитникам Брестской крепости",
+          "result": "",
+          "link": "http://safe-rgs.ru/4671-valya-zenkina-zaschitnica-brestskoy-kreposti.html"
+       },
+       {
           "from": "1941-06-23",
           "till": "1941-06-25",
           "country": "",
@@ -675,18 +747,6 @@ scope.stories = {
           "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1414-24-06-1941"
        },
        {
-          "from": "1941-12-11",
-          "till": "",
-          "country": "",
-          "province": "",
-          "locality": "",
-          "where": "",
-          "title": "Куба объявляет войну Германии и Италии",
-          "desc": "",
-          "result": "",
-          "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9A%D1%83%D0%B1%D1%8B"
-       },
-       {
           "from": "1941-06-24",
           "till": "",
           "country": "",
@@ -697,18 +757,6 @@ scope.stories = {
           "desc": "Vilnyus defenders attacked and leave the city.",
           "result": "",
           "link": "http://thefireofthewar.ru/1418/index.php/1941/iyun-1941/1414-24-06-1941"
-       },
-       {
-          "from": "1941-07-24",
-          "till": "",
-          "country": "",
-          "province": "",
-          "locality": "",
-          "where": "",
-          "title": "Демонстрация в Гаване",
-          "desc": "40-тысячная демонстрация в поддержку СССР и проведена конференция, принявшая резолюцию о отправке в СССР 40 тысяч мешков сахара, 1 млн. сигар и иной возможной помощи",
-          "result": "",
-          "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9A%D1%83%D0%B1%D1%8B"
        },
        {
           "from": "1941-06-24",
@@ -2456,6 +2504,18 @@ scope.stories = {
           "country": "",
           "province": "",
           "locality": "",
+          "where": "",
+          "title": "Подвиг Овчаренко",
+          "desc": "\"Мужик с топором\", победил 3 офицеров и 47 солдат в одиночку.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B2%D1%87%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87"
+       },
+       {
+          "from": "1941-07-13",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
           "where": "Bălţi, MDA",
           "title": "Dmitry Ovcharenko's exploits",
           "desc": "In UKR, while on an errand, he runs into 50 Germans. Result: 2 officers beheaded with an axe, 21 soldiers killed by 3 grenades, the rest fled in panic.",
@@ -2833,18 +2893,6 @@ scope.stories = {
           "desc": "2-я танковая группа ворвалась в Смоленск (см. Оборона Смоленска (1941)).",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#16_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._25-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-       },
-       {
-          "from": "1942-02-14",
-          "till": "",
-          "country": "",
-          "province": "",
-          "locality": "",
-          "where": "",
-          "title": "Подвиг Кузьмина",
-          "desc": "Повторил подвиг Ивана Сусанина. Ему было 1983 г.",
-          "result": "",
-          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B8%D0%BD,_%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B9_%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B8%D1%87"
        },
        {
           "from": "1941-07-16",
@@ -3469,6 +3517,18 @@ scope.stories = {
           "desc": "В течение 23 июля велись упорные бои с противником на Полоцко-Невельском, Смоленском, Житомирском направлениях и Бессарабском участке фронта.",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#23_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._32-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+       },
+       {
+          "from": "1941-07-24",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Демонстрация в Гаване",
+          "desc": "40-тысячная демонстрация в поддержку СССР и проведена конференция, принявшая резолюцию о отправке в СССР 40 тысяч мешков сахара, 1 млн. сигар и иной возможной помощи",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9A%D1%83%D0%B1%D1%8B"
        },
        {
           "from": "1941-07-24",
@@ -4333,6 +4393,18 @@ scope.stories = {
           "desc": "В течение 7 августа наши войска продолжали вести упорные бои с противником на КЕКСГОЛЬМСКОМ, ХОЛМСКОМ, СМОЛЕНСКОМ и БЕЛОЦЕРКОВСКОМ направлениях. Арабские сказки немецкого верховного командования или шестинедельные итоги войны...",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#7_.D0.B0.D0.B2.D0.B3.D1.83.D1.81.D1.82.D0.B0_1941_.D0.B3.D0.BE.D0.B4.D0.B0._47-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
+       },
+       {
+          "from": "1941-08-08",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Советский Союз объявил войну Японии",
+          "desc": "Документ об объявлении войны был вручён японскому послу в Москве в 17:00.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
        },
        {
           "from": "1941-08-08",
@@ -7750,7 +7822,7 @@ scope.stories = {
           "locality": "",
           "where": "",
           "title": "Саласпилсский концлагерь",
-          "desc": "Са́ласпилс (концлагерь «Куртенгоф») — концентрационный лагерь в Латвии. В нём содержат детей, которых используют для отбора крови для раненых немецких солдат, вследствие чего дети быстро погибают.",
+          "desc": "Са́ласпилс (концлагерь «Куртенгоф») — фашистский концентрационный лагерь в Латвии. Фашисты содержат в нём детей, которых используют для отбора крови для раненых немецких солдат, вследствие чего дети быстро погибают.",
           "result": "Было убито свыше 100 тысяч человек, в том числе 7 тысяч детей и помимо граждан СССР, также Чехословакии, Польши, Австрии, Нидерландов, Франции и др.",
           "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B0%D1%81%D0%BF%D0%B8%D0%BB%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%86%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C"
        },
@@ -7779,6 +7851,18 @@ scope.stories = {
           "link": "http://www.gosarchiv-orel.ru/index.php?id=61&option=com_content&Itemid=30"
        },
        {
+          "from": "1941-10-06",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Фашисты расстреляли мать Володи Казначеева",
+          "desc": "15-летний пионер присоединился к партизанам, стал подрывником, и к концу войны подорвал фашистских 10 эшелонов.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+       },
+       {
           "from": "1941-10-30",
           "till": "1942-07-09",
           "country": "",
@@ -7789,6 +7873,30 @@ scope.stories = {
           "desc": "Войска Крыма",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8F_(1941%E2%80%941942)"
+       },
+       {
+          "from": "1941-11-10",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Вилор Чекмак, пионер-герой",
+          "desc": "Заметил отряд гитлеровцев, приближающихся к партизанскому отряду, предупредил своих из ракетницы, принял бой, израсходовал боезапас и подорвал гранатой себя и несколько солдат. Ему было 17.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BA%D0%BC%D0%B0%D0%BA,_%D0%92%D0%B8%D0%BB%D0%BE%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+       },
+       {
+          "from": "1941-11-20",
+          "till": "1941-11-28",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Первая оккупация Ростова-на-Дону",
+          "desc": "Недельная оккупация города.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83#%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
        },
        {
           "from": "1941-11-20",
@@ -7815,6 +7923,30 @@ scope.stories = {
           "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA%D0%B0%D0%B4%D0%B0_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D0%B0#cite_note-.D0.94.D0.B0.D1.88.D0.B8.D1.87.D0.B5.D0.B2.2C.D0.A22.E2.80.941973.E2.80.94.E2.80.9447-8"
        },
        {
+          "from": "1941-11-22",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Фашизм и голуби",
+          "desc": "Фашисты приказали уничтожить голубей в районах города Ростова",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B5%D0%B2%D0%B8%D1%87%D0%BA%D0%B8%D0%BD,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87"
+       },
+       {
+          "from": "1941-11-28",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Пионер Витя Черевичкин убит",
+          "desc": "Фашисты нашли у него голубей и голубятню и застрелили.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B5%D0%B2%D0%B8%D1%87%D0%BA%D0%B8%D0%BD,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87"
+       },
+       {
           "from": "1941-12-01",
           "till": "1941-12-31",
           "country": "",
@@ -7828,6 +7960,18 @@ scope.stories = {
        },
        {
           "from": "1941-12-07",
+          "till": "1945-08-02",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Война на Тихом океане",
+          "desc": "Антигитлеровская коалиция против Великой восточной сферы сопроцветания",
+          "result": "Победа США и союзников; Капитуляция Японии. Потери японцев: больше 2,5 млн солдат и около 1 млн. мирных жителей. АГК: 4 млн солдат, 25 млн. мирных жителей.",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%BE%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B9_%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B"
+       },
+       {
+          "from": "1941-12-07",
           "till": "",
           "country": "",
           "province": "",
@@ -7837,6 +7981,18 @@ scope.stories = {
           "desc": "Япония напала на США, начав войну на Тихом океане",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
+       },
+       {
+          "from": "1941-12-11",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Куба объявляет войну Германии и Италии",
+          "desc": "",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9A%D1%83%D0%B1%D1%8B"
        },
        {
           "from": "1941-12-19",
@@ -7935,6 +8091,18 @@ scope.stories = {
           "link": "http://sochi.scapp.ru/scapp-gorod/sochi-v-gody-vov/"
        },
        {
+          "from": "1942-01-04",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Володя Дубинин, пионер-герой",
+          "desc": "Геройски погиб в 14 лет помогая сапёру разминировать подходы к каменоломням.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D0%B8%D0%BD%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B8%D0%BA%D0%B8%D1%84%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+       },
+       {
           "from": "1942-01-05",
           "till": "1942-01-11",
           "country": "",
@@ -7995,6 +8163,18 @@ scope.stories = {
           "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%BE-%D0%92%D1%8F%D0%B7%D0%B5%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
        },
        {
+          "from": "1942-01-09",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Володя Колядов, пионер-герой",
+          "desc": "Геройски погиб в 15 лет вызвав огонь на себя.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8F%D0%B4%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80"
+       },
+       {
           "from": "1942-01-15",
           "till": "",
           "country": "russia",
@@ -8017,6 +8197,42 @@ scope.stories = {
           "desc": "бабушка Тани Савичевой в Ленинграде, 3 часа дня.",
           "result": "третья степень алиментарной дистрофии",
           "link": ""
+       },
+       {
+          "from": "1942-02-01",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Альберт Купша, пионер герой",
+          "desc": "В феврале 1942 года расстрелян фашистами (вместе с Марксом Кротовым и Николаем Рыжовым) за помощь партизанам",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BF%D1%88%D0%B0,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82"
+       },
+       {
+          "from": "1942-02-01",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Маркс Кротов, пионер-герой",
+          "desc": "В феврале 1942 года расстрелян фашистами (вместе с Альбертом Купшей и Николаем Рыжовым) за помощь партизанам. Ему было 15 лет. ",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%82%D0%BE%D0%B2,_%D0%9C%D0%B0%D1%80%D0%BA%D1%81"
+       },
+       {
+          "from": "1942-02-14",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Подвиг Кузьмина",
+          "desc": "Повторил подвиг Ивана Сусанина. Ему было 1983 г.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B8%D0%BD,_%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B9_%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B8%D1%87"
        },
        {
           "from": "1942-02-19",
@@ -8209,6 +8425,18 @@ scope.stories = {
           "desc": "наши окруженные части оказываются заперты на небольшом пространстве площадью примерно 15 кв. км. в районе Барвенково",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_(1942)"
+       },
+       {
+          "from": "1942-05-26",
+          "till": "1942-06-16",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "\"Артерия жизни\"",
+          "desc": "Водолаз Нина Соколова участвует в прокладке 29-километрового бензопровода до осаждённого Ленинграда по дну Ладожского озера.",
+          "result": "Соколова провела под водой 644 часа, то есть почти 27 суток. С июня 1942 по март 1943 года в осажденный Ленинград через Ладогу поступило около 50 тысяч тонн бензина. Об \"артерии жизни\" немцы так и не узнали.",
+          "link": "https://rg.ru/2016/07/20/nina-sokolova-voennyj-podvig-prostogo-vodolaza.html"
        },
        {
           "from": "1942-05-28",
@@ -8643,6 +8871,30 @@ scope.stories = {
           "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D1%81%D0%BE%D0%B2,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87"
        },
        {
+          "from": "1942-06-22",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Володя Казьмин",
+          "desc": "В 16 лет помогает защитникам Бресской крепости.",
+          "result": "",
+          "link": "https://vb.by/society/people/kazmin.html"
+       },
+       {
+          "from": "1942-06-25",
+          "till": "1942-06-26",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Володя Буряк, пионер герой",
+          "desc": "Геройски погиб вместе с отцом-капитаном военного корабля, отражая нападению с воздуха, в результате чего он утонул.",
+          "result": "",
+          "link": "https://rebenok.mirtesen.ru/blog/43493389396/Deti-Velikoy-Otechestvennoy-voynyi?nr=1"
+       },
+       {
           "from": "1942-06-28",
           "till": "1942-07-24",
           "country": "",
@@ -8665,6 +8917,18 @@ scope.stories = {
           "desc": "4-я танковая армия под командованием Германа Гота прорывает и устремляется к Дону",
           "result": "",
           "link": ""
+       },
+       {
+          "from": "1942-07-01",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Валера Волков, пионер-герой",
+          "desc": "Геройски погиб в бою в 13 лет, отражая атаку противника, бросив связку гранат под наступающий танк.\n\n",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_(%D0%BF%D0%B8%D0%BE%D0%BD%D0%B5%D1%80-%D0%B3%D0%B5%D1%80%D0%BE%D0%B9)"
        },
        {
           "from": "1942-07-01",
@@ -8763,6 +9027,18 @@ scope.stories = {
           "link": ""
        },
        {
+          "from": "1942-07-24",
+          "till": "1943-02-14",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Вторая оккупация Ростова-на-Дону",
+          "desc": "Фашисты массово уничтожают советское население, разрушают город.",
+          "result": "Уничтожено более 40 тысяч ростовчан, 53 тысячи угнано в Германию. Город вошёл в число десяти наиболее пострадавших от войны городов России.",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83#%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
+       },
+       {
           "from": "1942-07-25",
           "till": "1943-10-09",
           "country": "russia",
@@ -8859,6 +9135,18 @@ scope.stories = {
           "link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D0%B0%D1%80%D0%B1%D0%B0%D0%B9%D1%82%D0%B5%D1%80%D1%8B"
        },
        {
+          "from": "1942-09-08",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Витя Новицкий, пионер-герой",
+          "desc": "Зверски убит гитлеровцами за день до своего 15-летия во время штурма Новороссийска.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B8%D1%86%D0%BA%D0%B8%D0%B9,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+       },
+       {
           "from": "1942-09-25",
           "till": "1942-12-20",
           "country": "russia",
@@ -8895,6 +9183,18 @@ scope.stories = {
           "link": ""
        },
        {
+          "from": "1942-11-04",
+          "till": "1942-11-07",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Пленение и пытки \"босоногого гарнизона\"",
+          "desc": "Фашисты схватили 17 школьников 10-14 лет, сеявших панику и страх своими акциями. Они пытают детей. ",
+          "result": "Фашисты публично расстреляли 10 школьников.",
+          "link": "http://molodguard.ru/heroes33.htm"
+       },
+       {
           "from": "1942-11-07",
           "till": "",
           "country": "",
@@ -8905,6 +9205,18 @@ scope.stories = {
           "desc": "В ночь на этот день молодогвардейцы водрузили 8 красных флагов на самых высоких зданиях Краснодона и в прилегающих к ним посёлках. В канун 25-й годовщины ВОСР.",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D1%8F_(%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)"
+       },
+       {
+          "from": "1942-11-24",
+          "till": "1942-12-05",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Витя Хоменко в гестапо",
+          "desc": "15-летний пионер арестован за сотрудничество с партизанами.",
+          "result": "Повешен гестаповцами.",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
        },
        {
           "from": "1942-12-05",
@@ -8929,6 +9241,18 @@ scope.stories = {
           "desc": "Андрей Власов и Василий Малышкин, как руководители «Русского освободительного комитета», расположенного в Смоленске, подписывают воззвание к советскому народу на \"борьбу против большевизма\"",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+       },
+       {
+          "from": "1942-12-19",
+          "till": "1943-01-17",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Женя Попов, пионер-герой",
+          "desc": "Перерезал телефонный провод, был схвачен. Гестаповцы пытают его, добиваясь выдачи связи с партизанами.",
+          "result": "Расстрелян гестаповцами на день его 14-летия.",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2,_%D0%96%D0%B5%D0%BD%D1%8F"
        },
        {
           "from": "1942-12-27",
@@ -9075,6 +9399,18 @@ scope.stories = {
           "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%88%D0%B5%D0%B2%D0%BE%D0%B9,_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
        },
        {
+          "from": "1943-02-10",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Витя Чаленко, пионер-герой",
+          "desc": "Геройски погиб в 17 лет, уничтожив фашистский дот.",
+          "result": "",
+          "link": "http://bloknot-novorossiysk.ru/news/chalenko-viktor-nikolaevich-novorossiysk-na-75-let-937479"
+       },
+       {
           "from": "1943-02-14",
           "till": "",
           "country": "",
@@ -9169,6 +9505,18 @@ scope.stories = {
           "desc": "Первые сведения - во фронтовой газете «Сын отечества» ",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D1%8F_(%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)"
+       },
+       {
+          "from": "1943-04-19",
+          "till": "1946-05-04",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "СМЕРШ",
+          "desc": "Советская контрразведка - в армии, на флоте, в милиции.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%88"
        },
        {
           "from": "1943-06-11",
@@ -9387,6 +9735,18 @@ scope.stories = {
           "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D0%B0#1918.E2.80.941991"
        },
        {
+          "from": "1943-11-13",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Боря Цариков, пионер-герой",
+          "desc": "Погиб в бою. Ему было 18.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87"
+       },
+       {
           "from": "1944-01-01",
           "till": "1944-01-31",
           "country": "",
@@ -9399,6 +9759,18 @@ scope.stories = {
           "link": "http://leningradpobeda.ru/vojjna-jazykom-tsifr/"
        },
        {
+          "from": "1944-01-21",
+          "till": "1944-02-29",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Женя Барабаш, пионер-герой",
+          "desc": "Под сильным артиллерийским, миномётным огнём, во время налётов фашистской авиации, часто рискуя жизнью доставлял донесения и почту на передовую из посёлка Кордон Ильича",
+          "result": "",
+          "link": "http://deti-geroi.ru/malaja-zemlia.php?page=barabash-eugene"
+       },
+       {
           "from": "1944-01-22",
           "till": "",
           "country": "",
@@ -9409,6 +9781,54 @@ scope.stories = {
           "desc": "Ленинграда",
           "result": "",
           "link": ""
+       },
+       {
+          "from": "1944-02-16",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Коробковы прибыли на место",
+          "desc": "Витя Коробков с отцом пришли в Феодосию с очередным заданием.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+       },
+       {
+          "from": "1944-02-18",
+          "till": "1944-03-09",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Коробковы арестованы",
+          "desc": "Гестаповцы арестовали Витю и его отца. Допросы и пытки.",
+          "result": "Расстрелян гестаповцами вслед за его отцом. ",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+       },
+       {
+          "from": "1944-03-04",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Вите Коробкову - 15.",
+          "desc": "Он встретил своё пятнадцатилетие в Гестапо.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+       },
+       {
+          "from": "1944-04-01",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Вася Коробко, пионер-герой",
+          "desc": "Вместе с партизанами Вася уничтожил девять поездов, сотни гитлеровцев. В одном из боёв он был убит.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87"
        },
        {
           "from": "1944-04-08",
@@ -9747,6 +10167,18 @@ scope.stories = {
           "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
        },
        {
+          "from": "1944-06-27",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Самый молодой лётчик",
+          "desc": "Аркадий Николаевич Каманин (15 лет) получил орден Красной Звезды. Это самый молодой лётчик Второй мировой войны.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8%D0%BD,_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87"
+       },
+       {
           "from": "1944-06-29",
           "till": "1944-07-04",
           "country": "",
@@ -9781,6 +10213,18 @@ scope.stories = {
           "desc": "14-летняя ленинградская школьница умерла в эвакуации",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B2%D0%B8%D1%87%D0%B5%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0"
+       },
+       {
+          "from": "1944-07-21",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Операция \"Валькирия\"",
+          "desc": "Покушение на Гитлера военными вермахта. Неудачное.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_20_%D0%B8%D1%8E%D0%BB%D1%8F"
        },
        {
           "from": "1944-07-22",
@@ -9829,6 +10273,18 @@ scope.stories = {
           "desc": "Рейхсминистр внутренних дел Германии Генрих Гиммлер издал приказ, согласно которому в ряде психиатрических больниц рейха проводились уничтожения всех находившихся там остарбайтеров",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D0%B0%D1%80%D0%B1%D0%B0%D0%B9%D1%82%D0%B5%D1%80%D1%8B"
+       },
+       {
+          "from": "1945-01-13",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Вася Курка, пионер-герой",
+          "desc": "Юный воин, доброволец, снайпер, командир взвода Красной Армии, в период Великой Отечественной войны уничтоживший 179 солдат и офицеров противника. Погиб от ран.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%BA%D0%B0,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87"
        },
        {
           "from": "1945-01-28",
@@ -9937,6 +10393,18 @@ scope.stories = {
           "desc": "Мы наступаем. Цель: освобождение Словакии и овладение Братиславским и Брненским промышленными районами",
           "result": "Победа Красной Армии",
           "link": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE-%D0%91%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+       },
+       {
+          "from": "1945-04-05",
+          "till": "1945-05-20",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Грузинское восстание на острове Тексел",
+          "desc": "Восстание набранного из советских военнопленных 822-го грузинского пехотного батальона Вермахта («Königin Tamara» / «Царица Тамара») из состава Грузинского легиона на острове Тексел Западно-Фризской гряды (Нидерланды)",
+          "result": "Подавление восстания и последующая капитуляция немецких войск перед канадскими войсками",
+          "link": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B5_%D0%A2%D0%B5%D0%BA%D1%81%D0%B5%D0%BB"
        },
        {
           "from": "1945-04-16",
@@ -10059,6 +10527,18 @@ scope.stories = {
           "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D0%B8%D1%8E%D0%BB%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#3_.D0.B8.D1.8E.D0.BB.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._12-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
        },
        {
+          "from": "1945-07-25",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Ультиматум Японии",
+          "desc": "\"Если Япония не сдастся, то она предстанет перед угрозой полного уничтожения, дословно «prompt and utter destruction».",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8"
+       },
+       {
           "from": "1945-07-26",
           "till": "",
           "country": "",
@@ -10089,6 +10569,18 @@ scope.stories = {
           "province": "",
           "locality": "",
           "where": "",
+          "title": "Хиросима",
+          "desc": "Американские ВВС сбросили ядерную бомбу. Погибло 70-80 тыс. человек. 90-166 тыс. человек погибло к концу года.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8"
+       },
+       {
+          "from": "1945-08-06",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
           "title": "",
           "desc": "В соответствии с угрозой, заявленной в «Потсдамской декларации», США взорвали атомную бомбу над Хиросимой.",
           "result": "",
@@ -10105,6 +10597,30 @@ scope.stories = {
           "desc": "Вечером СССР объявил войну Японии",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%82_%D0%BE_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8"
+       },
+       {
+          "from": "1945-08-09",
+          "till": "",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Нагасаки",
+          "desc": "Американские ВВС сбросили ядерную бомбу. 88% зданий повреждено. 60-80 тыс. человек погибло к концу года.",
+          "result": "",
+          "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8_%D0%A5%D0%B8%D1%80%D0%BE%D1%81%D0%B8%D0%BC%D1%8B_%D0%B8_%D0%9D%D0%B0%D0%B3%D0%B0%D1%81%D0%B0%D0%BA%D0%B8"
+       },
+       {
+          "from": "1945-08-09",
+          "till": "1945-09-03",
+          "country": "",
+          "province": "",
+          "locality": "",
+          "where": "",
+          "title": "Советско-японская война",
+          "desc": "Между СССР и МНР с одной стороны и Японской империей и Маньчжоу-го с другой.",
+          "result": "Безвозвратные потери: наши 12 031, японские до 84 000. Японская империя капитулировала. СССР аннексировал у Японии территории, в т. ч. те, которые были утрачены Россией в результате Русско-японской войны. Маньчжоу-го и Мэнцзян прекратили своё существование.",
+          "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
        },
        {
           "from": "1945-08-09",
@@ -10225,18 +10741,6 @@ scope.stories = {
           "desc": "Немецкие войска захватили Пушкин. 1-я танковая дивизия противника вышла к конечной остановке ленинградского трамвая в 12 км от центра города. 17 сентября соединения 4-й танковой группы снимаются с фронта и отправляются в тыл. Фронт покидают 41-й моторизованный корпус вместе со штабом 4-й танковой группы.",
           "result": "",
           "link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_1941_%D0%B3%D0%BE%D0%B4%D0%B0)#17_.D1.81.D0.B5.D0.BD.D1.82.D1.8F.D0.B1.D1.80.D1.8F_1941_.D0.B3.D0.BE.D0.B4.D0.B0._88-.D0.B9_.D0.B4.D0.B5.D0.BD.D1.8C_.D0.B2.D0.BE.D0.B9.D0.BD.D1.8B"
-       },
-       {
-          "from": "1945-04-05",
-          "till": "1945-05-20",
-          "country": "",
-          "province": "",
-          "locality": "",
-          "where": "",
-          "title": "Грузинское восстание на острове Тексел",
-          "desc": "Восстание набранного из советских военнопленных 822-го грузинского пехотного батальона Вермахта («Königin Tamara» / «Царица Тамара») из состава Грузинского легиона на острове Тексел Западно-Фризской гряды (Нидерланды)",
-          "result": "Подавление восстания и последующая капитуляция немецких войск перед канадскими войсками",
-          "link": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B5_%D0%A2%D0%B5%D0%BA%D1%81%D0%B5%D0%BB"
        }
     ]
 };
