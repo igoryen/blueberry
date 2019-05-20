@@ -68,10 +68,10 @@ scope10.renderDate = function (todaysDate, phraseid) {
 
     // $datecontainer.append($where);
 
-    $eventheader.append($eventtitle);
-
-    $eventheader.append($pastperiod);
-
+    var $eventnamedate = $('<div>').attr('class', 'event-name-date');
+    $eventnamedate.append($eventtitle);
+    $eventnamedate.append($pastperiod);    
+    $eventheader.append( $eventnamedate );
     //------- EVENT DESC ---------------------------
     var $eventonthisdate = $('<div>').attr('class', 'whathappened hidden');
     
